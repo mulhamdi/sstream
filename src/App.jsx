@@ -75,9 +75,17 @@ function App() {
               </div>
             ))}
           </div>
-          <div className='mt-8 py-4 text-center font-bold underline decoration-red-title underline-offset-8'>
-            COPY<span className='text-red-title'>LEFT</span> © 2024
-          </div>
+
+          <footer className='mt-8 rounded-lg px-4 py-6 text-center shadow-sm'>
+            <p className='mb-2 text-lg font-bold underline decoration-red-title decoration-2 underline-offset-8'>
+              COPY
+              <span className='text-red-title'>LEFT</span> © 2024
+            </p>
+            <p className='text-sm mt-4'>
+              Situs ini tidak berafiliasi dengan Otakudesu atau pihak lainnya.
+              Semua konten hanya untuk keperluan pribadi.
+            </p>
+          </footer>
         </div>
       )}
     </div>
