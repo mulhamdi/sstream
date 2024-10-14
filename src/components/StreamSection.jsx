@@ -37,7 +37,7 @@ export default function StreamSection({ streamProvider, videoSource }) {
   }, [videoSource]);
 
   return (
-    <div className='col-span-full bg-red-title xl:col-span-2'>
+    <div className='col-span-full xl:col-span-2'>
       {streamProvider === 'pdrain'
         ? pdrainElement(videoSource, videoRef)
         : megaElement(videoSource, videoRef)}
