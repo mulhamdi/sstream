@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Tiny5-Regular';
+  src: local('Tiny5-Regular'), url('/src/assets/fonts/Tiny5/Tiny5-Regular.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/src/assets/fonts/Inter/Inter_24pt-Regular.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/src/assets/fonts/Inter/Inter_24pt-Medium.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/src/assets/fonts/Inter/Inter_24pt-SemiBold.ttf');
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('/src/assets/fonts/Inter/Inter_24pt-Bold.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer components {
+  .btn-download {
+    @apply flex items-center gap-2 rounded bg-semiBlack-500 px-4 py-2 font-bold text-white shadow-md hover:bg-semiBlack-700 focus:rounded focus:outline-none focus:ring-semiBlack-400 focus:ring-opacity-75;
+  }
+
+  .btn-close {
+    @apply flex items-center gap-2 rounded bg-red-title bg-opacity-70 px-5 py-2 font-semibold text-white shadow-md hover:bg-red-title/50 focus:rounded focus:outline-none focus:ring-semiBlack-400 focus:ring-opacity-75;
+  }
+
+  .truncate-dots {
+    @apply truncate hover:text-pretty;
+  }
+}
