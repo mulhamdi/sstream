@@ -5,7 +5,7 @@ const pdrainElement = (videoSource, videoRef) => {
     <video
       ref={videoRef}
       className='h-full w-full object-cover'
-      poster='/poster.webp'
+      poster='poster.webp'
       controls
       playsInline
     >

@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     const fetchAnimeData = async () => {
       try {
-        const response = await fetch('/data/anime-list.json', {
+        const response = await fetch('data/anime-list.json', {
           cache: 'no-cache',
         });
 
