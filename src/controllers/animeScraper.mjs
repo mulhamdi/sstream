@@ -44,7 +44,7 @@ async function getHTMLSource(URL) {
 async function getRedirectedURL(requestedUrl) {
   if (!requestedUrl) {
     console.error(
-      `Fetching error: invalid requestedUrl argument (${requestedUrl})`
+      `Fetching error: invalid requestedUrl argument (${requestedUrl})`,
     );
     return 'N/A';
   }
@@ -93,7 +93,7 @@ async function getDownloadLinks(animePageURL) {
   for (const quality in downloadLinks) {
     downloadLinks[quality] = await getRedirectedURL(
       extractDownloadLink(quality, 'rain') ||
-        extractDownloadLink(quality, 'ega')
+        extractDownloadLink(quality, 'ega'),
     );
 
     // Bad practice but indexing is fast operation i think.
@@ -117,7 +117,7 @@ async function getAnimeInfo(animePageURL) {
     if (isSynopsis) {
       const synopsis = [];
       $animePage('div.sinopc p').each((i, el) =>
-        synopsis.push($animePage(el).text())
+        synopsis.push($animePage(el).text()),
       );
       return synopsis.length ? synopsis : 'N/A';
     }
@@ -189,7 +189,7 @@ async function getAnimeData(preveousAnimeID) {
             ...(await getAnimeInfo(animeLink)),
           };
           ANIMES_DATA.push(animeInfo);
-        })()
+        })(),
       );
     }
 
@@ -197,6 +197,7 @@ async function getAnimeData(preveousAnimeID) {
     ANIMES_DATA.sort((a, b) => a.releaseOrder - b.releaseOrder);
   } catch (error) {
     console.error(error.message);
+    process.exit(1);
   }
 }
 
@@ -208,7 +209,11 @@ getPreveousAnimeID(0).then((id) => {
         console.info('Animes data successfully saved to disk.');
       } catch (error) {
         console.error(error.message);
+        process.exit(1);
       }
     })
-    .catch((reason) => console.info(reason));
+    .catch((reason) => {
+      console.info(reason);
+      process.exit(1);
+    });
 });
