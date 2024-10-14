@@ -57,7 +57,7 @@ jobs:
   # Job for deploying GitHub Pages
   deploy:
     needs: scrape
-    if: success()
+    if: success() || github.event_name == 'workflow_dispatch'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
