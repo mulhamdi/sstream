@@ -26,6 +26,8 @@ export default function AnimeCard({ anime }) {
         </div>
         <img
           className={`max-h-[216px] w-[161px] sm:max-h-[300px] sm:min-w-[224px] ${isHover ? 'brightness-50' : 'brightness-100'}`}
+          referrerPolicy='no-referrer'
+          loading='lazy'
           src={anime.thumbnail}
           alt={`Thumbnail anime ${anime.title}`}
         />

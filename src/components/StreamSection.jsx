@@ -8,6 +8,7 @@ const pdrainElement = (videoSource, videoRef) => {
       poster='poster.webp'
       controls
       playsInline
+      crossOrigin='anonymous'
     >
       <source
         src={`https://pixeldrain.com/api/file/${videoSource}`}
