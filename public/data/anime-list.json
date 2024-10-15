@@ -1,25 +1,27 @@
 [
  {
-  "id": "natsumeyuujincho",
+  "id": "goukonniittaraon",
   "releaseOrder": 1,
-  "title": "Natsume Yuujinchou Season 7",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
-  "episode": "2",
-  "updateDay": "Selasa",
+  "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
+  "episode": "3",
+  "updateDay": "Senin",
   "updateDate": "15 Okt",
-  "score": "8.10",
-  "producer": "Aniplex, Nihon Ad Systems, Ai Addiction",
-  "starting": "Okt 08, 2024",
-  "studio": "Shuka",
-  "genre": "Mythology, Shoujo, Slice of Life, Supernatural",
+  "score": "N/A",
+  "producer": "Studio Mausu, NBCUniversal Entertainment Japan",
+  "starting": "Okt 05, 2024",
+  "studio": "Studio Mausu, NBCUniversal Entertainment JapanStudio: Ashi Productions",
+  "genre": "Comedy, Romance",
   "synopsis": [
-   "Season ke 7 dari anime Natsume Yuujinchou"
+   "Tokiwa, seorang mahasiswa mendapat ajakan untuk kencan buta oleh temannya bernama Suo, seorang gadis di kelasnya. Karena hal tersebut, Tokiwa mengajak dua rekannya bernama Asagi dan Hagi yang baru pertama kali ikut kencan buta.",
+   "Mereka bertiga dengan penuh semangat mendatangi Lokasi kencan buta. Sesampainya di sana, ketiganya terkejut karena mendapati rekan kencan buta mereka merupakan tiga cewek dengan make up cowok.",
+   "Tentu, hal ini membuat Tokiwa dan teman-temannya begitu kaget. Walau begitu, mereka berdua juga mengetahui bahwa ketiga cewek ini sangatlah cantik."
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "AwECmjxX",
-   "480p": "XCAdsHzU",
-   "720p": "HJWySmrq"
+   "360p": "KAKYUWGb",
+   "480p": "Gz2Ziq1f",
+   "720p": "CvcHLzDt"
   }
  },
  {
@@ -47,8 +49,76 @@
   }
  },
  {
-  "id": "hoshifuruoukokun",
+  "id": "raisewataningaii",
   "releaseOrder": 3,
+  "title": "Raise wa Tanin ga Ii",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
+  "episode": "2",
+  "updateDay": "Selasa",
+  "updateDate": "15 Okt",
+  "score": "7.00",
+  "producer": "Pony Canyon, Half H.P Studio",
+  "starting": "Okt 07, 2024",
+  "studio": "Pony Canyon, Half H.P StudioStudio: Studio Deen",
+  "genre": "Crime, Romance, Seinen",
+  "synopsis": [
+   "Yoshino Somei, cucu cari Renji Somei yang merupakan pemimpin Yakuza Someo-gumi telah dijodohkan lansung sama Kirishima Miyama dari keluarga dari Tokusa-kai. Akibat perjodohan tersebut, Yoshino harus merantau ke Tokyo dari Osaka.",
+   "Sesampainya di sana, Yoshino menganggap bahwa Kirishima sama seperti Yakuza pada umumnya. Namun, ia baru menyadari bahwa Kirishima tidak seperti yang Ia bayangkan."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "6xd25uNo",
+   "480p": "miU1HJpA",
+   "720p": "nfB9BuWQ"
+  }
+ },
+ {
+  "id": "seireigensoukise",
+  "releaseOrder": 4,
+  "title": "Seirei Gensouki Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
+  "episode": "2",
+  "updateDay": "Selasa",
+  "updateDate": "15 Okt",
+  "score": "7.20",
+  "producer": "Nippon Columbia, Kanon Sound, TMS Music",
+  "starting": "Okt 08, 2024",
+  "studio": "TMS Entertainment",
+  "genre": "Action, Adventure, Fantasy, Harem, Isekai, Reincarnation, Romance",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "276Ru4Ki",
+   "480p": "6FHU6ZxA",
+   "720p": "QuiGCjj2"
+  }
+ },
+ {
+  "id": "natsumeyuujincho",
+  "releaseOrder": 5,
+  "title": "Natsume Yuujinchou Season 7",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
+  "episode": "2",
+  "updateDay": "Selasa",
+  "updateDate": "15 Okt",
+  "score": "8.10",
+  "producer": "Aniplex, Nihon Ad Systems, Ai Addiction",
+  "starting": "Okt 08, 2024",
+  "studio": "Shuka",
+  "genre": "Mythology, Shoujo, Slice of Life, Supernatural",
+  "synopsis": [
+   "Season ke 7 dari anime Natsume Yuujinchou"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "AwECmjxX",
+   "480p": "XCAdsHzU",
+   "720p": "HJWySmrq"
+  }
+ },
+ {
+  "id": "hoshifuruoukokun",
+  "releaseOrder": 6,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "2",
@@ -72,7 +142,7 @@
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 4,
+  "releaseOrder": 7,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
   "episode": "1",
@@ -93,7 +163,7 @@
  },
  {
   "id": "nagekinoboureiwa",
-  "releaseOrder": 5,
+  "releaseOrder": 8,
   "title": "Nageki no Bourei wa Intai shitai",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
   "episode": "3",
@@ -117,7 +187,7 @@
  },
  {
   "id": "tenseikizokukant",
-  "releaseOrder": 6,
+  "releaseOrder": 9,
   "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/143705.jpg",
   "episode": "3",
@@ -138,7 +208,7 @@
  },
  {
   "id": "mfghostseason2",
-  "releaseOrder": 7,
+  "releaseOrder": 10,
   "title": "MF Ghost Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
   "episode": "2",
@@ -159,7 +229,7 @@
  },
  {
   "id": "tsumashougakusei",
-  "releaseOrder": 8,
+  "releaseOrder": 11,
   "title": "Tsuma, Shougakusei ni Naru.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
   "episode": "3",
@@ -183,7 +253,7 @@
  },
  {
   "id": "lovelivesupersta",
-  "releaseOrder": 9,
+  "releaseOrder": 12,
   "title": "Love Live! Superstar!! Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
   "episode": "2",
@@ -206,7 +276,7 @@
  },
  {
   "id": "nanatsunotaizaim",
-  "releaseOrder": 10,
+  "releaseOrder": 13,
   "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg",
   "episode": "2",
@@ -227,7 +297,7 @@
  },
  {
   "id": "shangrilafrontie",
-  "releaseOrder": 11,
+  "releaseOrder": 14,
   "title": "Shangri-La Frontier Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
   "episode": "1",
@@ -241,14 +311,14 @@
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "PH6xz8uV",
-   "480p": "H1kTWmj5",
-   "720p": "jyrzek7f"
+   "360p": "H29KdF1x",
+   "480p": "RaGHhPn6",
+   "720p": "SWBHdq7C"
   }
  },
  {
   "id": "fairytail100nenq",
-  "releaseOrder": 12,
+  "releaseOrder": 15,
   "title": "Fairy Tail: 100-nen Quest",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
   "episode": "14",
@@ -265,78 +335,6 @@
    "360p": "PjZ94BSF",
    "480p": "mR84rWed",
    "720p": "ZTTHTfop"
-  }
- },
- {
-  "id": "uzumaki",
-  "releaseOrder": 13,
-  "title": "Uzumaki",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/105265.jpg",
-  "episode": "3",
-  "updateDay": "Minggu",
-  "updateDate": "13 Okt",
-  "score": "7.93",
-  "producer": "Production I.G",
-  "starting": "Sep 28, 2024",
-  "studio": "Drive",
-  "genre": "Drama, Horror, Psychological, Seinen, Supernatural, Suspense",
-  "synopsis": [
-   "Berlatar di sebuah kota bernama Kurouzu, cerita berpusat pada Kirie Goshima yang sehari-hari menjalani kehidupannya dengan begitu normal. Suatu hari, ia mendatangi stasiun untuk bertemu pacarnya, Shuuichi Saitou. Saat itu, Kirie mendapati ayahnya yang tengah menatap cangkang siput di sebuah gang.",
-   "Kirie juga menceritakan kepada Saitou bahwa ayahnya akhir-akhir ini terasa begitu aneh. Mendengar hal tersebut, Saitou mengajak Kirie ke kampung halamannya. Di sana, Saitou menjelaskan bahwa kampungnya telah terinfeksi spiral.",
-   "Karena kejadian tersebut, berbagai insiden mengerikan mulai terjadi hingga membuat masyarakat Kurouzu menjadi gila."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "hjGgwXZ8",
-   "480p": "HmFcc9dg",
-   "720p": "NLDHSGaD"
-  }
- },
- {
-  "id": "onepiece",
-  "releaseOrder": 14,
-  "title": "One Piece",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2021/05/One-Piece-Sub-Indo.jpg",
-  "episode": "1122",
-  "updateDay": "Minggu",
-  "updateDate": "13 Okt",
-  "score": "8.54",
-  "producer": "Fuji TV, TAP, Shueisha",
-  "starting": "Oct 20, 1999",
-  "studio": "Toei Animation",
-  "genre": "Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power",
-  "synopsis": [
-   "Dulu, ada seorang bajak laut terkenal di seluruh lautan bernama Gol D. Roger. Ia merupakan seorang raja bajak laut yang telah berlayar mengarungi seluruh Grand Line, sayangnya ia ditangkap pemerintah dan telah dieksekusi mati. Sesaat sebelum kematiannya, Ia mengumumkan kepada dunia bahwa dirinya menyimpan sebuah harta karun bernama One Piece, sebuah harta karun yang kini menjadi incaran seluruh bajak laut yang ada di dunia.",
-   "Di Era Bajak Laut saat ini, ada seorang remaja bernama Monkey D. Luffy yang memiliki cita-cita untuk menjadi seorang Raja Bajak Laut. Namun Luffy sadar bahwa ia tidak bisa melakukannya sendiri, sembari dalam perjalanan ia juga mencari kru dan bertemu dengan teman-temannya yang baru. Berbeda dengan bajak laut lain yang ganas dan jahat, Luffy bersama teman-temannya berlayar murni atas dasar petualangan serta mencari tempat tempat baru yang akan muncul di hadapan mereka.",
-   "Di perjalanan inilah cerita mereka dimulai, mampukan Luffy bersama teman-temannya mencapai impian mereka?",
-   "(Info: Episode sebelumnya akan ditambahkan secara berkala)"
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "k1n42kmC",
-   "480p": "1wNqDZNY",
-   "720p": "bzpH359v"
-  }
- },
- {
-  "id": "kamonohashironno",
-  "releaseOrder": 15,
-  "title": "Kamonohashi Ron no Kindan Suiri Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kamonohashi-Ron-no-Kindan-Suiri-Season-2.jpg",
-  "episode": "1",
-  "updateDay": "Random",
-  "updateDate": "13 Okt",
-  "score": "7.57",
-  "producer": "Movic, AT-X, Toy's Factory, Kadokawa, Bit grooove promotion",
-  "starting": "Okt 07, 2024",
-  "studio": "Diomedéa",
-  "genre": "Adult Cast, Comedy, Mystery, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "4YEhActZ",
-   "480p": "JQkQ3pYC",
-   "720p": "Cz5s3qrK"
   }
  }
 ]
