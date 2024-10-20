@@ -37,37 +37,37 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # cf-clearance-scraper
+      # Run cf-clearance-scraper using Docker
       - name: Run cf-clearance-scraper using Docker
         run: |
-          docker run -d -p 3000:3000 \
+          docker run -d --name cf-scraper -p 3000:3000 \
             -e PORT=3000 \
             -e browserLimit=20 \
             -e timeOut=60000 \
             zfcsoftware/cf-clearance-scraper:latest
 
-      # Wait a few seconds for the service to start
-      - name: Wait a few seconds for the service to start
-        run: sleep 10
-
-      # Check if the cf-clearance-scraper service is running
-      - name: Check if service is running
-        run: |
-          curl -s http://localhost:3000/ || echo "Service not running"
-
-      # Wait for cf-clearance-scraper to be ready
+      # Wait for a few seconds to ensure the service starts
       - name: Wait for cf-clearance-scraper to be ready
         run: |
-          while ! curl -s http://localhost:3000/cf-clearance-scraper; do
-            echo "Waiting for cf-clearance-scraper to be ready..."
+          echo "Waiting for cf-clearance-scraper to be ready..."
+          for i in {1..12}; do
+            if curl -s http://localhost:3000/cf-clearance-scraper; then
+              echo "cf-clearance-scraper is ready."
+              break
+            fi
+            echo "Waiting..."
             sleep 5
           done
+
+      # Check the container logs for any issues
+      - name: Check Docker logs
+        run: docker logs cf-scraper
 
       # Run scraping script
       - name: Run Anime Scraper Script
         run: node ./src/controllers/animeScraper.mjs
-        continue-on-error: false
 
+      # Commit updated anime list
       - name: Commit updated anime list
         run: |
           git config --local user.name "github-actions[bot]"
@@ -75,11 +75,13 @@ jobs:
           git add .
           git commit -m "Update anime-list.json via scraping" || echo "No changes to commit"
 
+      # Push changes
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/mulhamdi/sstream.git HEAD:main
+
 
   # Job for deploying GitHub Pages
   deploy:
