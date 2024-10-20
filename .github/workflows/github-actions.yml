@@ -46,10 +46,6 @@ jobs:
             -e timeOut=60000 \
             zfcsoftware/cf-clearance-scraper:latest
 
-      # Wait
-      - name: Wait for cf-clearance-scraper to be ready
-        run: sleep 60
-
       # Run scraping script
       - name: Run Anime Scraper Script
         run: node ./src/controllers/animeScraper.mjs

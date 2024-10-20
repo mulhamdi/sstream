@@ -39,9 +39,6 @@ async function getCloudflareToken() {
   AXIOS_PARAMS.headers = {
     ...AXIOS_PARAMS.headers,
     ...session.headers,
-    Cookie: session.cookies
-      .map((cookie) => `${cookie.name}=${cookie.value}`)
-      .join('; '),
   };
 }
 
