@@ -37,6 +37,20 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # cf-clearance-scraper
+      - name: Run cf-clearance-scraper using Docker
+        run: |
+          docker run -d -p 3000:3000 \
+            -e PORT=3000 \
+            -e browserLimit=20 \
+            -e timeOut=60000 \
+            zfcsoftware/cf-clearance-scraper:latest
+
+      # Wait
+      - name: Wait for cf-clearance-scraper to be ready
+        run: sleep 10
+
+      # Run scraping script
       - name: Run Anime Scraper Script
         run: node ./src/controllers/animeScraper.mjs
         continue-on-error: false
@@ -47,7 +61,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Update anime-list.json via scraping" || echo "No changes to commit"
-          
+
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

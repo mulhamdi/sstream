@@ -20,6 +20,30 @@ const AXIOS_PARAMS = {
   withCredentials: true,
 };
 
+async function getCloudflareToken() {
+  const sessionResponse = await axios.post(
+    'http://localhost:3000/cf-clearance-scraper',
+    {
+      url: TARGET_URL,
+      mode: 'waf-session',
+    },
+  );
+  const session = sessionResponse.data;
+
+  if (!session || session.code !== 200) {
+    console.error(`Failed to get session: ${session}`);
+    return;
+  }
+
+  AXIOS_PARAMS.headers = {
+    ...AXIOS_PARAMS.headers,
+    ...session.headers,
+    Cookie: session.cookies
+      .map((cookie) => `${cookie.name}=${cookie.value}`)
+      .join('; '),
+  };
+}
+
 async function getHTMLSource(URL) {
   try {
     const response = await axios.get(URL, { ...AXIOS_PARAMS });
@@ -202,18 +226,20 @@ async function getAnimeData(preveousAnimeID) {
 }
 
 getPreveousAnimeID(0).then((id) => {
-  getAnimeData(id)
-    .then(() => {
-      try {
-        writeAnimesData(ANIMES_DATA);
-        console.info('Animes data successfully saved to disk.');
-      } catch (error) {
-        console.error(error.message);
+  getCloudflareToken().then(() => {
+    getAnimeData(id)
+      .then(() => {
+        try {
+          writeAnimesData(ANIMES_DATA);
+          console.info('Animes data successfully saved to disk.');
+        } catch (error) {
+          console.error(error.message);
+          process.exit(1);
+        }
+      })
+      .catch((reason) => {
+        console.info(reason);
         process.exit(1);
-      }
-    })
-    .catch((reason) => {
-      console.info(reason);
-      process.exit(1);
-    });
+      });
+  });
 });
