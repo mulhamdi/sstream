@@ -27,7 +27,7 @@ async function getCloudflareToken() {
       'http://127.0.0.1:3000/cf-clearance-scraper',
       {
         url: TARGET_URL,
-        mode: 'waf-session',
+        mode: 'source',
       },
       AXIOS_PARAMS,
     );
