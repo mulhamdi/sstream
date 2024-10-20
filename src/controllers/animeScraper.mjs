@@ -22,24 +22,32 @@ const AXIOS_PARAMS = {
 };
 
 async function getCloudflareToken() {
-  const sessionResponse = await axios.post(
-    'http://localhost:3000/cf-clearance-scraper',
-    {
-      url: TARGET_URL,
-      mode: 'source',
-    },
-  );
-  const session = sessionResponse.data;
+  try {
+    const sessionResponse = await axios.post(
+      'http://localhost:3000/cf-clearance-scraper',
+      {
+        url: TARGET_URL,
+        mode: 'source',
+      },
+      AXIOS_PARAMS,
+    );
 
-  if (!session || session.code !== 200) {
-    console.error(`Failed to get session: ${session}`);
-    return;
+    const session = sessionResponse.data;
+
+    if (!session || session.code !== 200) {
+      console.error(`Failed to get session: ${JSON.stringify(session)}`);
+      return;
+    }
+
+    AXIOS_PARAMS.headers = {
+      ...AXIOS_PARAMS.headers,
+      ...session.headers,
+    };
+
+    console.log('Successfully retrieved session headers:', session.headers);
+  } catch (error) {
+    console.error('Error fetching Cloudflare token:', error.message);
   }
-
-  AXIOS_PARAMS.headers = {
-    ...AXIOS_PARAMS.headers,
-    ...session.headers,
-  };
 }
 
 async function getHTMLSource(URL) {
