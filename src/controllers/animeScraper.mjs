@@ -26,7 +26,7 @@ async function getCloudflareToken() {
     'http://localhost:3000/cf-clearance-scraper',
     {
       url: TARGET_URL,
-      mode: 'waf-session',
+      mode: 'source',
     },
   );
   const session = sessionResponse.data;
