@@ -49,9 +49,7 @@ jobs:
       - name: Wait for cf-scraper to be ready
         run: |
           sleep 10
-      - name: Curl test
-        run: curl http:127.0.0.1/cf-clearance-scraper
-
+      
       - name: Run animeScraper
         run: |
           docker exec cf-scraper node ./src/controllers/animeScraper.mjs
