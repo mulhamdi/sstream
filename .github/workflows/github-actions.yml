@@ -52,7 +52,7 @@ jobs:
       
       - name: Run animeScraper
         run: |
-          docker exec cf-scraper node ./src/controllers/animeScraper.mjs
+          node ./src/controllers/animeScraper.mjs
       # Commit updated anime list
       - name: Commit updated anime list
         run: |
