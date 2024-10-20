@@ -63,9 +63,6 @@ jobs:
             sleep 5
           done
 
-      - name: Check Docker logs
-        run: docker logs $(docker ps -q --filter ancestor=zfcsoftware/cf-clearance-scraper)
-
       # Run scraping script
       - name: Run Anime Scraper Script
         run: node ./src/controllers/animeScraper.mjs
