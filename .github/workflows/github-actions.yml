@@ -46,6 +46,15 @@ jobs:
             -e timeOut=60000 \
             zfcsoftware/cf-clearance-scraper:latest
 
+      # Wait a few seconds for the service to start
+      - name: Wait a few seconds for the service to start
+        run: sleep 10
+
+      # Check if the cf-clearance-scraper service is running
+      - name: Check if service is running
+        run: |
+          curl -s http://localhost:3000/ || echo "Service not running"
+
       # Wait for cf-clearance-scraper to be ready
       - name: Wait for cf-clearance-scraper to be ready
         run: |
@@ -53,6 +62,9 @@ jobs:
             echo "Waiting for cf-clearance-scraper to be ready..."
             sleep 5
           done
+
+      - name: Check Docker logs
+        run: docker logs $(docker ps -q --filter ancestor=zfcsoftware/cf-clearance-scraper)
 
       # Run scraping script
       - name: Run Anime Scraper Script
