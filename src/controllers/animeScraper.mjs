@@ -18,6 +18,7 @@ const AXIOS_PARAMS = {
     'Accept-Encoding': 'gzip, deflate, br',
   },
   withCredentials: true,
+  timeout: 10000,
 };
 
 async function getCloudflareToken() {
