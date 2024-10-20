@@ -24,7 +24,7 @@ const AXIOS_PARAMS = {
 async function getCloudflareToken() {
   try {
     const sessionResponse = await axios.post(
-      'http://localhost:3000/cf-clearance-scraper',
+      'http://app:3000/cf-clearance-scraper',
       {
         url: TARGET_URL,
         mode: 'waf-session',
