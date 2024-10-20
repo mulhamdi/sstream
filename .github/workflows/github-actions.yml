@@ -44,29 +44,17 @@ jobs:
             -e PORT=3000 \
             -e browserLimit=20 \
             -e timeOut=60000 \
-            zfcsoftware/cf-clearance-scraper:latest
-
-      # Wait for a few seconds to ensure the service starts
-      - name: Wait for cf-clearance-scraper to be ready
+            zfcsoftware/cf-clearance-scraper:latest 
+            
+      - name: Wait for cf-scraper to be ready
         run: |
-          echo "Waiting for cf-clearance-scraper to be ready..."
-          for i in {1..12}; do
-            if curl -s http://localhost:3000/cf-clearance-scraper; then
-              echo "cf-clearance-scraper is ready."
-              break
-            fi
-            echo "Waiting..."
-            sleep 5
-          done
+          sleep 10
+      - name: Curl test
+        run: curl http:127.0.0.1/cf-clearance-scraper
 
-      # Check the container logs for any issues
-      - name: Check Docker logs
-        run: docker logs cf-scraper
-
-      # Run scraping script
-      - name: Run Anime Scraper Script
-        run: node ./src/controllers/animeScraper.mjs
-
+      - name: Run animeScraper
+        run: |
+          docker exec cf-scraper node ./src/controllers/animeScraper.mjs
       # Commit updated anime list
       - name: Commit updated anime list
         run: |
