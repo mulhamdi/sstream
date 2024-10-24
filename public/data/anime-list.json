@@ -1,7 +1,32 @@
 [
  {
-  "id": "acrotrip",
+  "id": "delicosnursery",
   "releaseOrder": 1,
+  "title": "Delico's Nursery",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
+  "episode": "8",
+  "updateDay": "Kamis",
+  "updateDate": "24 Okt",
+  "score": "7.01",
+  "producer": "Aniplex, Magic Capsule, Tokyo MX, BS11, Contents Seed, Watanabe Entertainment",
+  "starting": "Agu 08, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Fantasy, Mystery, Vampire",
+  "synopsis": [
+   "Mengisahkan Dali Delico, seorang bangsawan yang berasal dari keluarga terpandang dari Delico yang juga bagian anggota elit Ketsumei Gikai. Mereka yang tergabung dalam keanggotaan tersebut telah terjamin masa depannya.",
+   "Suatu waktu, terjadi sebuah insiden berupa pembunuhan berantai yang targetnya merupakan para vampir di jalanan. Saat itu, Dali mendapatkan sebuah misi khusus dari Ketsumei Gikai namun sayangnya ia menolak hal tersebut.",
+   "Walau begitu, temannya yakni Gerhard, Dino, dan Henrique mencoba untuk membujuknya. Sayang, hasilnya tetap nihil. Usut punya usut, alasan Dali menolak tugas khusus tersebut karena ia tengah sibuk mengasuh anak."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "TJEDQ8sb",
+   "480p": "rEnc4EgC",
+   "720p": "oYzkSAsh"
+  }
+ },
+ {
+  "id": "acrotrip",
+  "releaseOrder": 2,
   "title": "Acro Trip",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
   "episode": "5",
@@ -24,7 +49,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 2,
+  "releaseOrder": 3,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "13",
@@ -45,7 +70,7 @@
  },
  {
   "id": "shintennisnoouji",
-  "releaseOrder": 3,
+  "releaseOrder": 4,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
   "episode": "4",
@@ -66,7 +91,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 4,
+  "releaseOrder": 5,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "3",
@@ -90,7 +115,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "4",
@@ -113,7 +138,7 @@
  },
  {
   "id": "tasuuketsu",
-  "releaseOrder": 6,
+  "releaseOrder": 7,
   "title": "Tasuuketsu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
   "episode": "15",
@@ -137,7 +162,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 7,
+  "releaseOrder": 8,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "4",
@@ -162,7 +187,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 8,
+  "releaseOrder": 9,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "3",
@@ -187,7 +212,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 9,
+  "releaseOrder": 10,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "4",
@@ -211,7 +236,7 @@
  },
  {
   "id": "goukonniittaraon",
-  "releaseOrder": 10,
+  "releaseOrder": 11,
   "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
   "episode": "4",
@@ -236,7 +261,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 11,
+  "releaseOrder": 12,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "3",
@@ -257,7 +282,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 12,
+  "releaseOrder": 13,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "3",
@@ -280,7 +305,7 @@
  },
  {
   "id": "wajutsushi",
-  "releaseOrder": 13,
+  "releaseOrder": 14,
   "title": "Wajutsushi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
   "episode": "4",
@@ -304,7 +329,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 14,
+  "releaseOrder": 15,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "3",
@@ -324,27 +349,6 @@
    "360p": "QvuxdUBr",
    "480p": "eru4cXYN",
    "720p": "vKDgmvee"
-  }
- },
- {
-  "id": "arifuretashokugy",
-  "releaseOrder": 15,
-  "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
-  "episode": "2",
-  "updateDay": "Senin",
-  "updateDate": "21 Okt",
-  "score": "7.00",
-  "producer": "Overlap",
-  "starting": "Okt 14, 2024",
-  "studio": "asread.",
-  "genre": "Action, Adventure, Fantasy, Harem, Isekai",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "SCprLseY",
-   "480p": "dzAvnVim",
-   "720p": "xoabRzBn"
   }
  }
 ]
