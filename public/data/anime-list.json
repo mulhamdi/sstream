@@ -1,7 +1,52 @@
 [
  {
-  "id": "trilliongame",
+  "id": "25jigennoririsa",
   "releaseOrder": 1,
+  "title": "2.5-jigen no Ririsa",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/2.5-jigen-no-Ririsa.jpg",
+  "episode": "17",
+  "updateDay": "Jumat",
+  "updateDate": "25 Okt",
+  "score": "7.07",
+  "producer": "Magic Capsule, Shueisha",
+  "starting": "Jul 05, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Comedy,  , Harem, School, Shounen",
+  "synopsis": [
+   "Mengisahkan Okumura, seorang siswa SMA yang sangat menyukai karakter dua dimensinya bernama Liiel. Suatu hari, Ririsa Amano yang merupakan gadis cantik di sekolahnya mendatangi Okumura dan mengatakan bahwa ia ingin menjadi Liiel.",
+   "Rupanya, Risa merupakan gadis yang sangat suka dengan cosplay. Sama seperti Okumura, Risa juga sangat menyukai karakter Liiel. Setelah pertemuannya dengan Risa, klub manga tempat Okumura kini menjadi lokasi bagi mereka berdua menyalurkan hobi masing-masing."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "MyoPX4G1",
+   "480p": "WqhvJq1m",
+   "720p": "bRrRh3bG"
+  }
+ },
+ {
+  "id": "rurounikenshinme",
+  "releaseOrder": 2,
+  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145530.jpg",
+  "episode": "4",
+  "updateDay": "Jumat",
+  "updateDate": "25 Okt",
+  "score": "7.41",
+  "producer": "N/A",
+  "starting": "Okt 04, 2024",
+  "studio": "LIDENFILMS",
+  "genre": "Action, Historical, Samurai, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "LKvgpNhc",
+   "480p": "w3wHnXts",
+   "720p": "mPfBycVG"
+  }
+ },
+ {
+  "id": "trilliongame",
+  "releaseOrder": 3,
   "title": "Trillion Game",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Trillion-Game.jpg",
   "episode": "5",
@@ -25,7 +70,7 @@
  },
  {
   "id": "sayounararyuusei",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sayounara-Ryuusei-Konnichiwa-Jinsei-Subtitle-Indonesia.jpg",
   "episode": "4",
@@ -49,29 +94,8 @@
   }
  },
  {
-  "id": "rurounikenshinme",
-  "releaseOrder": 3,
-  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145530.jpg",
-  "episode": "4",
-  "updateDay": "Jumat",
-  "updateDate": "25 Okt",
-  "score": "7.41",
-  "producer": "N/A",
-  "starting": "Okt 04, 2024",
-  "studio": "LIDENFILMS",
-  "genre": "Action, Historical, Samurai, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "LKvgpNhc",
-   "480p": "w3wHnXts",
-   "720p": "mPfBycVG"
-  }
- },
- {
   "id": "hitoribocchinois",
-  "releaseOrder": 4,
+  "releaseOrder": 5,
   "title": "Hitoribocchi no Isekai Kouryaku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Hitoribocchi-no-Isekai-Kouryaku.jpg",
   "episode": "5",
@@ -96,7 +120,7 @@
  },
  {
   "id": "aonohako",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Ao no Hako",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Ao-no-Hako.jpg",
   "episode": "5",
@@ -120,7 +144,7 @@
  },
  {
   "id": "kekkonsuruttehon",
-  "releaseOrder": 6,
+  "releaseOrder": 7,
   "title": "Kekkon suru tte, Hontou desu ka",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kekkon-suru-tte-Hontou-desu-ka.jpg",
   "episode": "4",
@@ -145,7 +169,7 @@
  },
  {
   "id": "dandadan",
-  "releaseOrder": 7,
+  "releaseOrder": 8,
   "title": "Dandadan",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg",
   "episode": "4",
@@ -169,7 +193,7 @@
  },
  {
   "id": "negaposiangler",
-  "releaseOrder": 8,
+  "releaseOrder": 9,
   "title": "NegaPosi Angler",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/NegaPosi-Angler.png",
   "episode": "4",
@@ -193,7 +217,7 @@
  },
  {
   "id": "danmachiseason5",
-  "releaseOrder": 9,
+  "releaseOrder": 10,
   "title": "DanMachi Season 5",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/DanMachi-Season-5-Subtitle-Indonesia.jpg",
   "episode": "4",
@@ -216,7 +240,7 @@
  },
  {
   "id": "delicosnursery",
-  "releaseOrder": 10,
+  "releaseOrder": 11,
   "title": "Delico's Nursery",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
   "episode": "8",
@@ -241,7 +265,7 @@
  },
  {
   "id": "acrotrip",
-  "releaseOrder": 11,
+  "releaseOrder": 12,
   "title": "Acro Trip",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
   "episode": "5",
@@ -264,7 +288,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 12,
+  "releaseOrder": 13,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "13",
@@ -285,7 +309,7 @@
  },
  {
   "id": "shintennisnoouji",
-  "releaseOrder": 13,
+  "releaseOrder": 14,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
   "episode": "4",
@@ -306,7 +330,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 14,
+  "releaseOrder": 15,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "3",
@@ -326,29 +350,6 @@
    "360p": "fF1hhWK2",
    "480p": "hhdbfV8z",
    "720p": "mbuM7EYy"
-  }
- },
- {
-  "id": "rezerokarahajime",
-  "releaseOrder": 15,
-  "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
-  "episode": "4",
-  "updateDay": "Rabu",
-  "updateDate": "23 Okt",
-  "score": "8.69",
-  "producer": "Magic Capsule, Kadokawa",
-  "starting": "Okt 02, 2024",
-  "studio": "White Fox",
-  "genre": "Drama, Fantasy, Isekai, Psychological, Suspense",
-  "synopsis": [
-   "Musim ketiga anime Re:Zero kara Hajimeru Isekai Seikatsu Season 3 "
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "St2aFBrX",
-   "480p": "m7hmf8PN",
-   "720p": "sLZoJiCw"
   }
  }
 ]
