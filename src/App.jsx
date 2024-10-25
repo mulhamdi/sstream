@@ -64,7 +64,7 @@ function App() {
             <AnimeInformation anime={currentAnime} />
           </div>
 
-          <div className='flex flex-wrap max-sm:justify-center max-sm:gap-x-4 max-sm:gap-y-4 max-[400px]:gap-x-4 max-[400px]:gap-y-4 sm:gap-4 lg:gap-8 xl:justify-center'>
+          <div className='flex flex-wrap justify-center gap-4 lg:gap-8'>
             {animeData.map((data) => (
               <div
                 onClick={() => handleClickOnCard(data)}
@@ -81,7 +81,7 @@ function App() {
               COPY
               <span className='text-red-title'>LEFT</span> © 2024
             </p>
-            <p className='text-sm mt-4'>
+            <p className='mt-4 text-sm'>
               Situs ini tidak berafiliasi dengan Otakudesu atau pihak lainnya.
               Semua konten hanya untuk keperluan pribadi.
             </p>
