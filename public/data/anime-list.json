@@ -1,7 +1,31 @@
 [
  {
-  "id": "partykaratsuihou",
+  "id": "kimiwameidosama",
   "releaseOrder": 1,
+  "title": "Kimi wa Meido-sama.",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama..jpg",
+  "episode": "4",
+  "updateDay": "Minggu",
+  "updateDate": "27 Okt",
+  "score": "7.32",
+  "producer": "Avex Pictures",
+  "starting": "Okt 06, 2024",
+  "studio": "Felix Film",
+  "genre": "Comedy",
+  "synopsis": [
+   "Suatu hari, Hitoyoshi Yokoya didatangi oleh seorang pelayan cantik. Tentu, Yokoyo merasa kaget mendengar bahwa sang pelayan dulunya merupakan mantan pembunuh bayaran. Sayangnya, ia kini sudah tidak memiliki master dan dirinya diarahkan untuk datang ke kediaman Yokoya.",
+   "Awalnya, Yokoya menolak memperkerjakannya. Namun, sang pelayan telah menyelamatkan hidupnya dari kecelakaan dan kini mengizinkan sang pelayan untuk bekerja di rumahnya."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "VyXhctsY",
+   "480p": "T6SWPruU",
+   "720p": "JNcatmfC"
+  }
+ },
+ {
+  "id": "partykaratsuihou",
+  "releaseOrder": 2,
   "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/141123l.jpg",
   "episode": "4",
@@ -25,7 +49,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 2,
+  "releaseOrder": 3,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "3",
@@ -49,7 +73,7 @@
  },
  {
   "id": "chichikyuunoundo",
-  "releaseOrder": 3,
+  "releaseOrder": 4,
   "title": "Chi.: Chikyuu no Undou ni Tsuite",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
   "episode": "5",
@@ -72,7 +96,7 @@
  },
  {
   "id": "ranma2024",
-  "releaseOrder": 4,
+  "releaseOrder": 5,
   "title": "Ranma ½ (2024)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144299.jpg",
   "episode": "4",
@@ -96,7 +120,7 @@
  },
  {
   "id": "aonoexorcistyuki",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Ao no Exorcist: Yuki no Hate-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144043.jpg",
   "episode": "4",
@@ -120,7 +144,7 @@
  },
  {
   "id": "maou2099",
-  "releaseOrder": 6,
+  "releaseOrder": 7,
   "title": "Maou 2099",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg",
   "episode": "3",
@@ -144,7 +168,7 @@
  },
  {
   "id": "bluelockseason2",
-  "releaseOrder": 7,
+  "releaseOrder": 8,
   "title": "Blue Lock Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
   "episode": "4",
@@ -165,7 +189,7 @@
  },
  {
   "id": "maousamaretryr",
-  "releaseOrder": 8,
+  "releaseOrder": 9,
   "title": "Maou-sama, Retry! R",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
   "episode": "5",
@@ -186,7 +210,7 @@
  },
  {
   "id": "bleachsennenkess",
-  "releaseOrder": 9,
+  "releaseOrder": 10,
   "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg",
   "episode": "4",
@@ -207,7 +231,7 @@
  },
  {
   "id": "kabushikigaisham",
-  "releaseOrder": 10,
+  "releaseOrder": 11,
   "title": "Kabushikigaisha Magi-Lumière",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kabushikigaisha-Magi-Lumiere.jpg",
   "episode": "4",
@@ -232,7 +256,7 @@
  },
  {
   "id": "swordartonlineal",
-  "releaseOrder": 11,
+  "releaseOrder": 12,
   "title": "Sword Art Online Alternative: Gun Gale Online S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sword-Art-Online-Alternative-Gun-Gale-Online-s2.jpg",
   "episode": "4",
@@ -256,7 +280,7 @@
  },
  {
   "id": "25jigennoririsa",
-  "releaseOrder": 12,
+  "releaseOrder": 13,
   "title": "2.5-jigen no Ririsa",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/2.5-jigen-no-Ririsa.jpg",
   "episode": "17",
@@ -280,7 +304,7 @@
  },
  {
   "id": "rurounikenshinme",
-  "releaseOrder": 13,
+  "releaseOrder": 14,
   "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145530.jpg",
   "episode": "4",
@@ -301,7 +325,7 @@
  },
  {
   "id": "trilliongame",
-  "releaseOrder": 14,
+  "releaseOrder": 15,
   "title": "Trillion Game",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Trillion-Game.jpg",
   "episode": "5",
@@ -321,31 +345,6 @@
    "360p": "QHvKobJV",
    "480p": "8Gc5pqyE",
    "720p": "oKTrio1B"
-  }
- },
- {
-  "id": "sayounararyuusei",
-  "releaseOrder": 15,
-  "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sayounara-Ryuusei-Konnichiwa-Jinsei-Subtitle-Indonesia.jpg",
-  "episode": "4",
-  "updateDay": "Jumat",
-  "updateDate": "25 Okt",
-  "score": "N/A",
-  "producer": "DMM pictures, BloomZ",
-  "starting": "Okt 11, 2024",
-  "studio": "SynergySP, Vega Entertainment",
-  "genre": "Action, Adventure, Fantasy, Reincarnation",
-  "synopsis": [
-   "Dulu, hidup seekor naga kuno yang sayangnya terpaksa dibunuh oleh para manusia. Setelah kematiannya, sang naga berienkarnasi menjadi manusia bernama Dolan, seorang laki-laki yang hidup di sebuah desa terpencil.",
-   "Sebagaimana manusia pada umumnya, Dolan bekerja di ladang dan melakukan perburuan untuk memenuhi kehidupannya. Suatu hari, Dolan yang mendapatkan tugas untuk menyelidiki sebuah rawa-rawa bertemu dengan gadis bernama Celina, seorang lamia bertubuh manusia.",
-   "Pertemuannya dengan Lamia rupanya akan membuat kehidupan Dolan berubah."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "z7kAzHsz",
-   "480p": "9BAYFCi7",
-   "720p": "f8HBkM5m"
   }
  }
 ]
