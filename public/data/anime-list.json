@@ -1,7 +1,49 @@
 [
  {
-  "id": "kimiwameidosama",
+  "id": "shangrilafrontie",
   "releaseOrder": 1,
+  "title": "Shangri-La Frontier Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
+  "episode": "3",
+  "updateDay": "Minggu",
+  "updateDate": "27 Okt",
+  "score": "7.84",
+  "producer": "N/A",
+  "starting": "Okt 13, 2024",
+  "studio": "C2C",
+  "genre": "Action, Adventure, Fantasy, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "89BVELCL",
+   "480p": "h8nCNFce",
+   "720p": "9dXpcXmm"
+  }
+ },
+ {
+  "id": "fairytail100nenq",
+  "releaseOrder": 2,
+  "title": "Fairy Tail: 100-nen Quest",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
+  "episode": "16",
+  "updateDay": "Minggu",
+  "updateDate": "27 Okt",
+  "score": "7.02",
+  "producer": "Avex Pictures",
+  "starting": "Jul 07, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Action, Adventure, Fantasy, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "4AMECsGi",
+   "480p": "e9yNok8z",
+   "720p": "xFi5egkE"
+  }
+ },
+ {
+  "id": "kimiwameidosama",
+  "releaseOrder": 3,
   "title": "Kimi wa Meido-sama.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama..jpg",
   "episode": "4",
@@ -25,7 +67,7 @@
  },
  {
   "id": "partykaratsuihou",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/141123l.jpg",
   "episode": "4",
@@ -49,7 +91,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "3",
@@ -73,7 +115,7 @@
  },
  {
   "id": "chichikyuunoundo",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Chi.: Chikyuu no Undou ni Tsuite",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
   "episode": "5",
@@ -96,7 +138,7 @@
  },
  {
   "id": "ranma2024",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Ranma ½ (2024)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144299.jpg",
   "episode": "4",
@@ -120,7 +162,7 @@
  },
  {
   "id": "aonoexorcistyuki",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Ao no Exorcist: Yuki no Hate-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144043.jpg",
   "episode": "4",
@@ -144,7 +186,7 @@
  },
  {
   "id": "maou2099",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Maou 2099",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg",
   "episode": "3",
@@ -168,7 +210,7 @@
  },
  {
   "id": "bluelockseason2",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Blue Lock Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
   "episode": "4",
@@ -189,7 +231,7 @@
  },
  {
   "id": "maousamaretryr",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Maou-sama, Retry! R",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
   "episode": "5",
@@ -210,7 +252,7 @@
  },
  {
   "id": "bleachsennenkess",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg",
   "episode": "4",
@@ -231,7 +273,7 @@
  },
  {
   "id": "kabushikigaisham",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Kabushikigaisha Magi-Lumière",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kabushikigaisha-Magi-Lumiere.jpg",
   "episode": "4",
@@ -256,7 +298,7 @@
  },
  {
   "id": "swordartonlineal",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "Sword Art Online Alternative: Gun Gale Online S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sword-Art-Online-Alternative-Gun-Gale-Online-s2.jpg",
   "episode": "4",
@@ -280,7 +322,7 @@
  },
  {
   "id": "25jigennoririsa",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "2.5-jigen no Ririsa",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/2.5-jigen-no-Ririsa.jpg",
   "episode": "17",
@@ -300,51 +342,6 @@
    "360p": "MyoPX4G1",
    "480p": "WqhvJq1m",
    "720p": "bRrRh3bG"
-  }
- },
- {
-  "id": "rurounikenshinme",
-  "releaseOrder": 14,
-  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145530.jpg",
-  "episode": "4",
-  "updateDay": "Jumat",
-  "updateDate": "25 Okt",
-  "score": "7.41",
-  "producer": "N/A",
-  "starting": "Okt 04, 2024",
-  "studio": "LIDENFILMS",
-  "genre": "Action, Historical, Samurai, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "LKvgpNhc",
-   "480p": "w3wHnXts",
-   "720p": "mPfBycVG"
-  }
- },
- {
-  "id": "trilliongame",
-  "releaseOrder": 15,
-  "title": "Trillion Game",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Trillion-Game.jpg",
-  "episode": "5",
-  "updateDay": "Jumat",
-  "updateDate": "25 Okt",
-  "score": "6.52",
-  "producer": "Magic Capsule, Kadokawa",
-  "starting": "Okt 04, 2024",
-  "studio": "Madhouse",
-  "genre": "Adult Cast, Drama, Seinen",
-  "synopsis": [
-   "Haru, seorang pria dengan karakter ceria dan mampu berkomunikasi dengan baik. Sedangkan Gaku, pria yang ahli dalam komputer namun pemalu Ketika berbicara dengan orang lain. Sifat keduanya tentu berbanding terbalik namun mereka merupakan sahabat sejak SMP.",
-   "Beberapa tahun berlalu sejak mereka lulus, Haru dan Gaku kini telah mulai mencari pekerjaan. Sayangnya, mereka berdua gagal dan memutuskan untuk bekerja sama dalam membuat sebuah Perusahaan baru. Mereka pun mempunyai tujuan untuk mendapatkan 1 triliun dollar."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "QHvKobJV",
-   "480p": "8Gc5pqyE",
-   "720p": "oKTrio1B"
   }
  }
 ]
