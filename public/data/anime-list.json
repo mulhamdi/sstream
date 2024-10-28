@@ -1,7 +1,28 @@
 [
  {
-  "id": "nagekinoboureiwa",
+  "id": "mfghostseason2",
   "releaseOrder": 1,
+  "title": "MF Ghost Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
+  "episode": "4",
+  "updateDay": "Senin",
+  "updateDate": "28 Okt",
+  "score": "7.67",
+  "producer": "Animax, Kodansha, Avex Pictures, Sammy, Crunchyroll, Techno Sound",
+  "starting": "Okt 07, 2024",
+  "studio": "Felix Film",
+  "genre": "Racing, Seinen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "xG8d88Bt",
+   "480p": "xdG2pZwL",
+   "720p": "A1ei42wF"
+  }
+ },
+ {
+  "id": "nagekinoboureiwa",
+  "releaseOrder": 2,
   "title": "Nageki no Bourei wa Intai shitai",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
   "episode": "5",
@@ -25,7 +46,7 @@
  },
  {
   "id": "nanatsunotaizaim",
-  "releaseOrder": 2,
+  "releaseOrder": 3,
   "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg",
   "episode": "4",
@@ -46,7 +67,7 @@
  },
  {
   "id": "lovelivesupersta",
-  "releaseOrder": 3,
+  "releaseOrder": 4,
   "title": "Love Live! Superstar!! Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
   "episode": "4",
@@ -69,7 +90,7 @@
  },
  {
   "id": "tsumashougakusei",
-  "releaseOrder": 4,
+  "releaseOrder": 5,
   "title": "Tsuma, Shougakusei ni Naru.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
   "episode": "5",
@@ -93,7 +114,7 @@
  },
  {
   "id": "shangrilafrontie",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Shangri-La Frontier Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
   "episode": "3",
@@ -114,7 +135,7 @@
  },
  {
   "id": "fairytail100nenq",
-  "releaseOrder": 6,
+  "releaseOrder": 7,
   "title": "Fairy Tail: 100-nen Quest",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
   "episode": "16",
@@ -135,7 +156,7 @@
  },
  {
   "id": "kimiwameidosama",
-  "releaseOrder": 7,
+  "releaseOrder": 8,
   "title": "Kimi wa Meido-sama.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama..jpg",
   "episode": "4",
@@ -159,7 +180,7 @@
  },
  {
   "id": "partykaratsuihou",
-  "releaseOrder": 8,
+  "releaseOrder": 9,
   "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/141123l.jpg",
   "episode": "4",
@@ -183,7 +204,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 9,
+  "releaseOrder": 10,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "3",
@@ -207,7 +228,7 @@
  },
  {
   "id": "chichikyuunoundo",
-  "releaseOrder": 10,
+  "releaseOrder": 11,
   "title": "Chi.: Chikyuu no Undou ni Tsuite",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
   "episode": "5",
@@ -230,7 +251,7 @@
  },
  {
   "id": "ranma2024",
-  "releaseOrder": 11,
+  "releaseOrder": 12,
   "title": "Ranma ½ (2024)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144299.jpg",
   "episode": "4",
@@ -254,7 +275,7 @@
  },
  {
   "id": "aonoexorcistyuki",
-  "releaseOrder": 12,
+  "releaseOrder": 13,
   "title": "Ao no Exorcist: Yuki no Hate-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144043.jpg",
   "episode": "4",
@@ -278,7 +299,7 @@
  },
  {
   "id": "maou2099",
-  "releaseOrder": 13,
+  "releaseOrder": 14,
   "title": "Maou 2099",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg",
   "episode": "3",
@@ -302,7 +323,7 @@
  },
  {
   "id": "bluelockseason2",
-  "releaseOrder": 14,
+  "releaseOrder": 15,
   "title": "Blue Lock Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
   "episode": "4",
@@ -319,27 +340,6 @@
    "360p": "h43KQ11a",
    "480p": "iMsCdGyP",
    "720p": "rNkz5Nzy"
-  }
- },
- {
-  "id": "maousamaretryr",
-  "releaseOrder": 15,
-  "title": "Maou-sama, Retry! R",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
-  "episode": "5",
-  "updateDay": "Minggu",
-  "updateDate": "27 Okt",
-  "score": "N/A",
-  "producer": "N/A",
-  "starting": "Okt 05, 2024",
-  "studio": "ekkou",
-  "genre": "Action, Adventure, Fantasy, Isekai",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "Z2GQyHDK",
-   "480p": "iwYyvZgp",
-   "720p": "M3v6bcwM"
   }
  }
 ]
