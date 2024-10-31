@@ -1,7 +1,76 @@
 [
  {
-  "id": "delicosnursery",
+  "id": "danmachiseason5",
   "releaseOrder": 1,
+  "title": "DanMachi Season 5",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/DanMachi-Season-5-Subtitle-Indonesia.jpg",
+  "episode": "5",
+  "updateDay": "Kamis",
+  "updateDate": "31 Okt",
+  "score": "N/A",
+  "producer": "Egg Firm",
+  "starting": "Okt 05, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Action, Adventure, Fantasy",
+  "synopsis": [
+   "Setelah berhasil Kembali dari ruang bawah tanah, Bell Cranel kini menjalankan kehidupan sehari-harinya seperti biasa. Namun, suatu hari Bell mendapatkan sepucuk surat dari seorang gadis yang bekerja di sebuah kedai.Isi surat tersebut meminta Bell untuk berkencan dengannya Ketika Festival Dewi nanti. Rupanya, gadis yang mengirim surat itu adalah Syr. Tentu, ada alasan kenapa Syr sangat ingin berkencan dengan Bell Cranel.Sekarang mampukah gadis kecil dari kedai ini meluluhkan hati Bell?"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "DP82NZac",
+   "480p": "1LyxQUE1",
+   "720p": "B3sKVUdf"
+  }
+ },
+ {
+  "id": "mechaudetv",
+  "releaseOrder": 2,
+  "title": "Mecha-ude (TV)",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/127958.jpg",
+  "episode": "4",
+  "updateDay": "Jumat",
+  "updateDate": "31 Okt",
+  "score": "7.10",
+  "producer": "Pony Canyon",
+  "starting": "Okt 04, 2024",
+  "studio": "TriF Studio",
+  "genre": "Action, Sci-Fi",
+  "synopsis": [
+   "Suatu hari, Hikaru Amatsuga yang bersekolah di SMP Kota Kitakagami bertemu dengan Arma, robot berbentuk tangan dengan tipe “Ude”. Awalnya, Arma ingin bergabung dengan tubuh Hikaru namun gagal. Walau begitu, rupanya ia kini bisa menyatu dengan hoodie yang Hikaru kenakan.",
+   "Usut punya usut, Arma merupakan salah satu benda yang diincar oleh Kagami Group, sebuah Perusahaan yang bergerak di bidang mecha dan ingin menjadikan Arma sebagai senjata. Sementara itu, ada juga organisasi bernama ARMS yang ingin menyelamatkan Arma dari organisasi jahat tersebut.",
+   "Karena hal tersebut, Hikaru kini harus berhadapan dengan banyak sekali masalah."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "GsQnJvte",
+   "480p": "oGTWXmdd",
+   "720p": "oeWzg2oJ"
+  }
+ },
+ {
+  "id": "fairytail100nenq",
+  "releaseOrder": 3,
+  "title": "Fairy Tail: 100-nen Quest",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
+  "episode": "16",
+  "updateDay": "Minggu",
+  "updateDate": "31 Okt",
+  "score": "7.02",
+  "producer": "Avex Pictures",
+  "starting": "Jul 07, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Action, Adventure, Fantasy, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "JrNd5Esc",
+   "480p": "tJydmwgn",
+   "720p": "8E3ToAjK"
+  }
+ },
+ {
+  "id": "delicosnursery",
+  "releaseOrder": 4,
   "title": "Delico's Nursery",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
   "episode": "9",
@@ -26,7 +95,7 @@
  },
  {
   "id": "shintennisnoouji",
-  "releaseOrder": 2,
+  "releaseOrder": 5,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
   "episode": "5",
@@ -47,7 +116,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 3,
+  "releaseOrder": 6,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "14",
@@ -68,7 +137,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 4,
+  "releaseOrder": 7,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "4",
@@ -92,7 +161,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 5,
+  "releaseOrder": 8,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "5",
@@ -115,7 +184,7 @@
  },
  {
   "id": "tasuuketsu",
-  "releaseOrder": 6,
+  "releaseOrder": 9,
   "title": "Tasuuketsu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
   "episode": "16",
@@ -139,7 +208,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 7,
+  "releaseOrder": 10,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "5",
@@ -164,7 +233,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 8,
+  "releaseOrder": 11,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "5",
@@ -188,7 +257,7 @@
  },
  {
   "id": "kamonohashironno",
-  "releaseOrder": 9,
+  "releaseOrder": 12,
   "title": "Kamonohashi Ron no Kindan Suiri Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kamonohashi-Ron-no-Kindan-Suiri-Season-2.jpg",
   "episode": "3",
@@ -209,7 +278,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 10,
+  "releaseOrder": 13,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "4",
@@ -234,7 +303,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 11,
+  "releaseOrder": 14,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "4",
@@ -258,7 +327,7 @@
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 12,
+  "releaseOrder": 15,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "4",
@@ -278,74 +347,6 @@
    "360p": "ry5UNC97",
    "480p": "RjRihHHw",
    "720p": "RADkqp8d"
-  }
- },
- {
-  "id": "seireigensoukise",
-  "releaseOrder": 13,
-  "title": "Seirei Gensouki Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
-  "episode": "4",
-  "updateDay": "Selasa",
-  "updateDate": "29 Okt",
-  "score": "7.20",
-  "producer": "Nippon Columbia, Kanon Sound, TMS Music",
-  "starting": "Okt 08, 2024",
-  "studio": "TMS Entertainment",
-  "genre": "Action, Adventure, Fantasy, Harem, Isekai, Reincarnation, Romance",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "GPn7Mp88",
-   "480p": "bQtFYUDg",
-   "720p": "a57o9fga"
-  }
- },
- {
-  "id": "natsumeyuujincho",
-  "releaseOrder": 14,
-  "title": "Natsume Yuujinchou Season 7",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
-  "episode": "4",
-  "updateDay": "Selasa",
-  "updateDate": "29 Okt",
-  "score": "8.10",
-  "producer": "Aniplex, Nihon Ad Systems, Ai Addiction",
-  "starting": "Okt 08, 2024",
-  "studio": "Shuka",
-  "genre": "Mythology, Shoujo, Slice of Life, Supernatural",
-  "synopsis": [
-   "Season ke 7 dari anime Natsume Yuujinchou"
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "bEB19U64",
-   "480p": "cDaWPqaN",
-   "720p": "wcwNZKm2"
-  }
- },
- {
-  "id": "wajutsushi",
-  "releaseOrder": 15,
-  "title": "Wajutsushi",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
-  "episode": "5",
-  "updateDay": "Selasa",
-  "updateDate": "29 Okt",
-  "score": "N/A",
-  "producer": "DAX Production, GREE Entertainment",
-  "starting": "Okt 07, 2024",
-  "studio": "Felix Film, Ga-Crew",
-  "genre": "Action, Adventure, Fantasy",
-  "synopsis": [
-   "Mengisahkan Noel, seorang anak laki-laki dan juga cucu dari pahlawan legendaris bernama Over Death. Ketika kecil dulu, Noel kehilangan sang kakek karena melindungi dirinya dari serangan Void. Ia pun berjanji akan mengikuti jejak sang kakek menjadi seorang Seeker.",
-   "Beberapa tahun setelahnya, Noel kini menjadi seorang Seeker dengan mengemban tugas sebagai pendukung karena ia tidak memiliki kekuatan untuk bertarung. Walau begitu, Noel yang jago dalam berkomunikasi menggunakan kemampuannya tersebut untuk membentuk sebuah kelompok."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "RN2koMqU",
-   "480p": "7nj1uKPL",
-   "720p": "GbqmYF75"
   }
  }
 ]
