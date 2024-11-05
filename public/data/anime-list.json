@@ -1,28 +1,81 @@
 [
  {
-  "id": "monogatariseries",
+  "id": "amagamisanchinoe",
   "releaseOrder": 1,
-  "title": "Monogatari Series: Off & Monster Season",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/140952.jpg",
-  "episode": "1",
-  "updateDay": "Minggu",
-  "updateDate": "05 Nov",
-  "score": "8.80",
-  "producer": "Aniplex, Kodansha, Rakuonsha",
-  "starting": "Jul 06, 2024",
-  "studio": "Shaft",
-  "genre": "Comedy, Mystery, Supernatural, Vampire",
-  "synopsis": "N/A",
+  "title": "Amagami-san Chi no Enmusubi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
+  "episode": "6",
+  "updateDay": "Rabu",
+  "updateDate": "06 Nov",
+  "score": "7.00",
+  "producer": "N/A",
+  "starting": "Okt 02, 2024",
+  "studio": "Drive",
+  "genre": "Comedy, Harem, Romance, Shounen",
+  "synopsis": [
+   "Uryu Kamihate, siswa kelas 2 SMA memiliki tujuan untuk masuk di Fakultas Kedokteran Universitas Kyoto. Sejak ibunya meninggal, Uryuu tinggal dan besar di panti asuhan. Namun, suatu hari ia dibawa oleh Kepala Pendeta Kuil Kanjin di Kyoto.",
+   "Sesampainya di kuil tersebut, Uryuu justru bertemu dengan tiga gadis cantik. Di sana, Uryuu diberitahu bahwa ia akan menikahi salah satu gadis tersebut dan mewarisi kuil. Tentu, awalnya Uryuu merasa terkejut karena tujuan awalnya datang ke kuil tersebut hanya untuk menetap saja.",
+   "Walau begitu, takdir yang mengikat Uryuu dan ketiga gadis tersebut perlahan mulai terhubung. Kini, siapakah gadis yang akan Uryuu nikahi?"
+  ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "UdmvUPWH",
-   "480p": "4xVRAzcQ",
-   "720p": "vXuraPvx"
+   "360p": "5nBf4Dgn",
+   "480p": "tXc6cbxU",
+   "720p": "pqLCwZGE"
+  }
+ },
+ {
+  "id": "youkaigakkounose",
+  "releaseOrder": 2,
+  "title": "Youkai Gakkou no Sensei Hajimemashita!",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
+  "episode": "5",
+  "updateDay": "Selasa",
+  "updateDate": "06 Nov",
+  "score": "N/A",
+  "producer": "Kappa Entertainment",
+  "starting": "Okt 08, 2024",
+  "studio": "Satelight",
+  "genre": "Comedy, Fantasy, Mythology, School, Shounen, Workplace",
+  "synopsis": [
+   "Haruaki Abe, seorang guru dewasa yang sangat pengecut dan sering di bully oleh orang lain. Suatu hari, ia mendapatkan tugas untuk mengajar di sebuah sekolah bernama Akademi Hyakki, sebuah sekolah khusus untuk para siluman.",
+   "Di sana, Abe harus berhadapan dengan para siluman yang memiliki karakteristik berbeda-beda. Walau begitu, rupanya Abe merupakan salah satu manusia terkuat dan menjadi keturunan langsung dari leluhurnya yang pernah membasmi siluman jahat.",
+   "Kini, kehidupan Abe sebagai seorang guru di sekolah siluman telah dimulai."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "gzwTrDw4",
+   "480p": "JfF1jZCZ",
+   "720p": "j5cUDhv5"
+  }
+ },
+ {
+  "id": "rekishininokorua",
+  "releaseOrder": 3,
+  "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
+  "episode": "6",
+  "updateDay": "Selasa",
+  "updateDate": "06 Nov",
+  "score": "7.10",
+  "producer": "Lantis, Half H.P Studio",
+  "starting": "Okt 02, 2024",
+  "studio": "Lantis, Half H.P StudioStudio: Maho Film",
+  "genre": "Comedy, Fantasy, Isekai, Romance, Shoujo",
+  "synopsis": [
+   "Berbeda dengan kebanyakan orang, Alicia justru ingin menjadi seorang heroine jahat. Untuk membuatnya menjadi seorang antagonis paling jahat di cerita novel, Alicia mulai melakukan berbagai hal yang tidak menjadi kebiasaannya dulu.",
+   "Mulai dari bangun pagi, pergi ke perpustakaan, hingga berlatih pedang. Namun, siapa sangka perubahan ini justru membuatnya menjadi gadis  sangat kuat dan cantik. Bahkan, respon dari orang-orang di sekitar Alicia menganggapnya sebagai salah satu Wanita yang jauh dari kata antagonis."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "7y2UhA7C",
+   "480p": "1B8Sf5mP",
+   "720p": "Tv3Asat3"
   }
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "5",
@@ -46,7 +99,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -67,7 +120,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "5",
@@ -90,7 +143,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "5",
@@ -114,7 +167,7 @@
  },
  {
   "id": "wajutsushi",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Wajutsushi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
   "episode": "6",
@@ -138,7 +191,7 @@
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
   "episode": "4",
@@ -159,7 +212,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "5",
@@ -183,7 +236,7 @@
  },
  {
   "id": "lovelivesupersta",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Love Live! Superstar!! Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -206,7 +259,7 @@
  },
  {
   "id": "mfghostseason2",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "MF Ghost Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -227,7 +280,7 @@
  },
  {
   "id": "nagekinoboureiwa",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Nageki no Bourei wa Intai shitai",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
   "episode": "6",
@@ -251,7 +304,7 @@
  },
  {
   "id": "tenseikizokukant",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/143705.jpg",
   "episode": "5",
@@ -272,7 +325,7 @@
  },
  {
   "id": "tsumashougakusei",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "Tsuma, Shougakusei ni Naru.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
   "episode": "6",
@@ -292,48 +345,6 @@
    "360p": "oJyJxXiB",
    "480p": "W9oUF2Q4",
    "720p": "uDiFDWT3"
-  }
- },
- {
-  "id": "shangrilafrontie",
-  "releaseOrder": 14,
-  "title": "Shangri-La Frontier Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
-  "episode": "4",
-  "updateDay": "Minggu",
-  "updateDate": "03 Nov",
-  "score": "7.84",
-  "producer": "N/A",
-  "starting": "Okt 13, 2024",
-  "studio": "C2C",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "QvpwUoTv",
-   "480p": "ATgwhQBn",
-   "720p": "A6mhXa7H"
-  }
- },
- {
-  "id": "fairytail100nenq",
-  "releaseOrder": 15,
-  "title": "Fairy Tail: 100-nen Quest",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
-  "episode": "17",
-  "updateDay": "Minggu",
-  "updateDate": "03 Nov",
-  "score": "7.02",
-  "producer": "Avex Pictures",
-  "starting": "Jul 07, 2024",
-  "studio": "J.C.Staff",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "L6yB8Ajc",
-   "480p": "WCkXM854",
-   "720p": "Qk71jX6N"
   }
  }
 ]
