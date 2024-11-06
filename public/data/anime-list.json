@@ -1,32 +1,54 @@
 [
  {
-  "id": "amagamisanchinoe",
+  "id": "rezerokarahajime",
   "releaseOrder": 1,
-  "title": "Amagami-san Chi no Enmusubi",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
+  "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "6",
   "updateDay": "Rabu",
   "updateDate": "06 Nov",
-  "score": "7.00",
-  "producer": "N/A",
+  "score": "8.69",
+  "producer": "Magic Capsule, Kadokawa",
   "starting": "Okt 02, 2024",
-  "studio": "Drive",
-  "genre": "Comedy, Harem, Romance, Shounen",
+  "studio": "White Fox",
+  "genre": "Drama, Fantasy, Isekai, Psychological, Suspense",
   "synopsis": [
-   "Uryu Kamihate, siswa kelas 2 SMA memiliki tujuan untuk masuk di Fakultas Kedokteran Universitas Kyoto. Sejak ibunya meninggal, Uryuu tinggal dan besar di panti asuhan. Namun, suatu hari ia dibawa oleh Kepala Pendeta Kuil Kanjin di Kyoto.",
-   "Sesampainya di kuil tersebut, Uryuu justru bertemu dengan tiga gadis cantik. Di sana, Uryuu diberitahu bahwa ia akan menikahi salah satu gadis tersebut dan mewarisi kuil. Tentu, awalnya Uryuu merasa terkejut karena tujuan awalnya datang ke kuil tersebut hanya untuk menetap saja.",
-   "Walau begitu, takdir yang mengikat Uryuu dan ketiga gadis tersebut perlahan mulai terhubung. Kini, siapakah gadis yang akan Uryuu nikahi?"
+   "Musim ketiga anime Re:Zero kara Hajimeru Isekai Seikatsu Season 3 "
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "5nBf4Dgn",
-   "480p": "tXc6cbxU",
-   "720p": "pqLCwZGE"
+   "360p": "kY4g6cub",
+   "480p": "bo43rLQ7",
+   "720p": "uRaQETYE"
+  }
+ },
+ {
+  "id": "tasuuketsu",
+  "releaseOrder": 2,
+  "title": "Tasuuketsu",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
+  "episode": "17",
+  "updateDay": "Rabu",
+  "updateDate": "06 Nov",
+  "score": "N/A",
+  "producer": "VAP, Team Kawadon",
+  "starting": "Jul 03, 2024",
+  "studio": "Satelight",
+  "genre": "Action, Drama, Psychological, Suspense",
+  "synopsis": [
+   "Suatu hari, dunia tiba-tiba mengalami kejadian aneh yang mana hampir seluruh masyarkat Jepang tewas. Kini, hanya tersisa 1 juta orang yang masih hidup. Sekarang, orang yang masih hidup harus mengikuti sebuah permainan.",
+   "Aturannya cuman satu, yakni Kematian Mayoritas. Itu berarti, seluruh orang yang tersisa harus bertahan hidup dan melawan kekuatan yang nantinya akan mengubah takdir mereka."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "HeLy7skf",
+   "480p": "9uNbbzdL",
+   "720p": "Sa5nNnrC"
   }
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 2,
+  "releaseOrder": 3,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "5",
@@ -50,8 +72,33 @@
   }
  },
  {
+  "id": "amagamisanchinoe",
+  "releaseOrder": 4,
+  "title": "Amagami-san Chi no Enmusubi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
+  "episode": "6",
+  "updateDay": "Rabu",
+  "updateDate": "06 Nov",
+  "score": "7.00",
+  "producer": "N/A",
+  "starting": "Okt 02, 2024",
+  "studio": "Drive",
+  "genre": "Comedy, Harem, Romance, Shounen",
+  "synopsis": [
+   "Uryu Kamihate, siswa kelas 2 SMA memiliki tujuan untuk masuk di Fakultas Kedokteran Universitas Kyoto. Sejak ibunya meninggal, Uryuu tinggal dan besar di panti asuhan. Namun, suatu hari ia dibawa oleh Kepala Pendeta Kuil Kanjin di Kyoto.",
+   "Sesampainya di kuil tersebut, Uryuu justru bertemu dengan tiga gadis cantik. Di sana, Uryuu diberitahu bahwa ia akan menikahi salah satu gadis tersebut dan mewarisi kuil. Tentu, awalnya Uryuu merasa terkejut karena tujuan awalnya datang ke kuil tersebut hanya untuk menetap saja.",
+   "Walau begitu, takdir yang mengikat Uryuu dan ketiga gadis tersebut perlahan mulai terhubung. Kini, siapakah gadis yang akan Uryuu nikahi?"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "5nBf4Dgn",
+   "480p": "tXc6cbxU",
+   "720p": "pqLCwZGE"
+  }
+ },
+ {
   "id": "rekishininokorua",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "6",
@@ -75,7 +122,7 @@
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "5",
@@ -99,7 +146,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -120,7 +167,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "5",
@@ -143,7 +190,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "5",
@@ -167,7 +214,7 @@
  },
  {
   "id": "wajutsushi",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Wajutsushi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
   "episode": "6",
@@ -191,7 +238,7 @@
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
   "episode": "4",
@@ -212,7 +259,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "5",
@@ -236,7 +283,7 @@
  },
  {
   "id": "lovelivesupersta",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Love Live! Superstar!! Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -259,7 +306,7 @@
  },
  {
   "id": "mfghostseason2",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "MF Ghost Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -280,7 +327,7 @@
  },
  {
   "id": "nagekinoboureiwa",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "Nageki no Bourei wa Intai shitai",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
   "episode": "6",
@@ -300,51 +347,6 @@
    "360p": "244YNkiS",
    "480p": "1SQTPiW7",
    "720p": "XwwfuHBK"
-  }
- },
- {
-  "id": "tenseikizokukant",
-  "releaseOrder": 14,
-  "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/143705.jpg",
-  "episode": "5",
-  "updateDay": "Senin",
-  "updateDate": "04 Nov",
-  "score": "7.24",
-  "producer": "N/A",
-  "starting": "Sep 29, 2024",
-  "studio": "studio MOTHER",
-  "genre": "Adventure, Fantasy, Isekai, Reincarnation",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "BfyyzxS7",
-   "480p": "XQqfzNHp",
-   "720p": "nAkXdBVY"
-  }
- },
- {
-  "id": "tsumashougakusei",
-  "releaseOrder": 15,
-  "title": "Tsuma, Shougakusei ni Naru.",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
-  "episode": "6",
-  "updateDay": "Senin",
-  "updateDate": "03 Nov",
-  "score": "7.21",
-  "producer": "Pierrot, VAP, Tohokushinsha Film Corporation, Houbunsha, TC Entertainment, BS11, Crunchyroll, Yomiuri TV Enterprise",
-  "starting": "Okt 06, 2024",
-  "studio": "Studio Signpost",
-  "genre": "Comedy, Reincarnation, Romance, Seinen",
-  "synopsis": [
-   "Keisuke Niijima, seorang pria yang telah kehilangan istri tercintanya 10 tahun lalu. Namun suatu hari, ia kedatangan seorang gadis SD bernama Marika Shiraishi yang mengaku bahwa ia merupakan reinkarnasi dari istrinya bernama Takae.",
-   "Tentu, awalnya Niijima kaget dan tidak mempercayainya. Namun setelah mendengar beberapa rahasia yang hanya ia dan istrinya ketahui, Niijima pun percaya. Kini, kehidupan yang absurd antara bapak-bapak dan seorang gadis SD reinkarnasi istrinya telah dimulai."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "oJyJxXiB",
-   "480p": "W9oUF2Q4",
-   "720p": "uDiFDWT3"
   }
  }
 ]
