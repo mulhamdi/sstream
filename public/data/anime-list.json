@@ -1,7 +1,52 @@
 [
  {
-  "id": "rezerokarahajime",
+  "id": "yarinaoshireijou",
   "releaseOrder": 1,
+  "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
+  "episode": "5",
+  "updateDay": "Kamis",
+  "updateDate": "07 Nov",
+  "score": "7.04",
+  "producer": "Magic Capsule, Kadokawa",
+  "starting": "Okt 09, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Comedy, Fantasy, Romance, Shoujo",
+  "synopsis": [
+   "Jill Savelle, seorang Wanita yang mendapatkan julukan sebagai Dewi Perang ini mendapatkan hukuman mati setelah ia dituduh meracuni putri. Tuduhan palsu tersebut disampaikan langsung oleh tunangannya, Gerald de Kleitos.",
+   "Sebelum eksekusi dilakukan, Jill Kembali ke usianya yang 10 tahun lalu dan berada di sebuah pesta. Untuk menghindari masa depan yang sama seperti sebelumnya, Jill memilih menikah dengan Hades Theos Rave, musuh bebuyutannya Ketika masih menjadi seorang Dewi Perang dulu."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "ypjmmr5k",
+   "480p": "kuinoeYN",
+   "720p": "EVxsHbvP"
+  }
+ },
+ {
+  "id": "sengokuyoukosenm",
+  "releaseOrder": 2,
+  "title": "Sengoku Youko: Senma Konton-hen",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
+  "episode": "15",
+  "updateDay": "Kamis",
+  "updateDate": "07 Nov",
+  "score": "N/A",
+  "producer": "N/A",
+  "starting": "Jul 18, 2024",
+  "studio": "White Fox",
+  "genre": "Action, Adventure, Fantasy, Historical, Mythology, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "XSXLyPBu",
+   "480p": "qkc2GVzB",
+   "720p": "A73wcXdm"
+  }
+ },
+ {
+  "id": "rezerokarahajime",
+  "releaseOrder": 3,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "6",
@@ -24,7 +69,7 @@
  },
  {
   "id": "tasuuketsu",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Tasuuketsu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
   "episode": "17",
@@ -48,7 +93,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "5",
@@ -73,7 +118,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "6",
@@ -98,7 +143,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "6",
@@ -122,7 +167,7 @@
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "5",
@@ -146,7 +191,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -167,7 +212,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "5",
@@ -190,7 +235,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "5",
@@ -214,7 +259,7 @@
  },
  {
   "id": "wajutsushi",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Wajutsushi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
   "episode": "6",
@@ -238,7 +283,7 @@
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
   "episode": "4",
@@ -259,7 +304,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "5",
@@ -283,7 +328,7 @@
  },
  {
   "id": "lovelivesupersta",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "Love Live! Superstar!! Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -302,51 +347,6 @@
    "360p": "yGXcyLvr",
    "480p": "R1SafLci",
    "720p": "XGme7cpN"
-  }
- },
- {
-  "id": "mfghostseason2",
-  "releaseOrder": 14,
-  "title": "MF Ghost Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
-  "episode": "5",
-  "updateDay": "Senin",
-  "updateDate": "04 Nov",
-  "score": "7.67",
-  "producer": "Animax, Kodansha, Avex Pictures, Sammy, Crunchyroll, Techno Sound",
-  "starting": "Okt 07, 2024",
-  "studio": "Felix Film",
-  "genre": "Racing, Seinen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "ZEDFDu3R",
-   "480p": "9m7xjmWM",
-   "720p": "sfKaG6gv"
-  }
- },
- {
-  "id": "nagekinoboureiwa",
-  "releaseOrder": 15,
-  "title": "Nageki no Bourei wa Intai shitai",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
-  "episode": "6",
-  "updateDay": "Senin",
-  "updateDate": "04 Nov",
-  "score": "N/A",
-  "producer": "Avex Pictures, GREE Entertainment, Saber Links",
-  "starting": "Sep 09, 2024",
-  "studio": "Zero-G",
-  "genre": "Action, Adventure, Fantasy",
-  "synopsis": [
-   "Di masa sekarang, orang-orang memilih untuk menjadi pemburu harta karun. Sebab, pekerjaan ini menjanjikan hasil yang sangat bagus. Walau begitu, untuk mendapatkan kekayaan, mereka harus bertaruh nyawa dalam menjalankan misi yang berbahaya.",
-   "Krai Andrey, berhasil membuat sebuah kelompok paling kuat Bersama dengan teman masa kecilnya. Klan bernama First Step tersebut menjadi begitu populer di penjuru dunia. Karena kepopulerannya, seluruh teman masa kecilnya meminta Krai untuk menjadi pemimpin."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "244YNkiS",
-   "480p": "1SQTPiW7",
-   "720p": "XwwfuHBK"
   }
  }
 ]
