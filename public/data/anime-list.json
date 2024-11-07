@@ -1,7 +1,53 @@
 [
  {
-  "id": "yarinaoshireijou",
+  "id": "delicosnursery",
   "releaseOrder": 1,
+  "title": "Delico's Nursery",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
+  "episode": "10",
+  "updateDay": "Kamis",
+  "updateDate": "07 Nov",
+  "score": "7.01",
+  "producer": "Aniplex, Magic Capsule, Tokyo MX, BS11, Contents Seed, Watanabe Entertainment",
+  "starting": "Agu 08, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Fantasy, Mystery, Vampire",
+  "synopsis": [
+   "Mengisahkan Dali Delico, seorang bangsawan yang berasal dari keluarga terpandang dari Delico yang juga bagian anggota elit Ketsumei Gikai. Mereka yang tergabung dalam keanggotaan tersebut telah terjamin masa depannya.",
+   "Suatu waktu, terjadi sebuah insiden berupa pembunuhan berantai yang targetnya merupakan para vampir di jalanan. Saat itu, Dali mendapatkan sebuah misi khusus dari Ketsumei Gikai namun sayangnya ia menolak hal tersebut.",
+   "Walau begitu, temannya yakni Gerhard, Dino, dan Henrique mencoba untuk membujuknya. Sayang, hasilnya tetap nihil. Usut punya usut, alasan Dali menolak tugas khusus tersebut karena ia tengah sibuk mengasuh anak."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "PjEGF5cZ",
+   "480p": "oqR8qQZ7",
+   "720p": "eWjsv1Yy"
+  }
+ },
+ {
+  "id": "shintennisnoouji",
+  "releaseOrder": 2,
+  "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
+  "episode": "6",
+  "updateDay": "Kamis",
+  "updateDate": "07 Nov",
+  "score": "N/A",
+  "producer": "Nihon Ad Systems, Jinnan Studio",
+  "starting": "Okt 03, 2024",
+  "studio": "Nihon Ad Systems, Jinnan StudioStudio: M.S.C",
+  "genre": "School, Shounen, Sports",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "AgHKX6qf",
+   "480p": "cyW64Hdc",
+   "720p": "RLcssktE"
+  }
+ },
+ {
+  "id": "yarinaoshireijou",
+  "releaseOrder": 3,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "5",
@@ -25,7 +71,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "15",
@@ -46,7 +92,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "6",
@@ -69,7 +115,7 @@
  },
  {
   "id": "tasuuketsu",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Tasuuketsu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
   "episode": "17",
@@ -93,7 +139,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "5",
@@ -118,7 +164,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "6",
@@ -143,7 +189,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "6",
@@ -167,7 +213,7 @@
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "5",
@@ -191,7 +237,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "5",
@@ -212,7 +258,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "5",
@@ -235,7 +281,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "5",
@@ -259,7 +305,7 @@
  },
  {
   "id": "wajutsushi",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "Wajutsushi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
   "episode": "6",
@@ -283,7 +329,7 @@
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
   "episode": "4",
@@ -300,53 +346,6 @@
    "360p": "y6bvMWcQ",
    "480p": "BpETRPAr",
    "720p": "txw3ubZn"
-  }
- },
- {
-  "id": "touhaiuraratemah",
-  "releaseOrder": 14,
-  "title": "Touhai: Ura Rate Mahjong Touhai Roku",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
-  "episode": "5",
-  "updateDay": "Kamis",
-  "updateDate": "04 Nov",
-  "score": "N/A",
-  "producer": "Studio Mausu",
-  "starting": "Okt 05, 2024",
-  "studio": "Studio MausuStudio: East Fish Studio",
-  "genre": "Drama, Psychological, Seinen, Strategy Game, Suspense",
-  "synopsis": [
-   "Bagi seorang pria, uang dan Wanita merupakan sesuatu yang wajib untuk mereka miliki. Namun, terdapat pria yang lebih tertarik untuk bermain mahjong di sebuah tempat rahasia dan menghancurkan tempat tersebut.",
-   "Pria tersebut adalah Kori no K, seorang remaja yang memiliki otak dan permainan yang begitu kalem dan membuat lawannya tidak mampu berkutik. Di dunia bawah, ia merupakan salah satu pemain paling hebat di bidang mahjong."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "b18YBvpT",
-   "480p": "BYm2YX9E",
-   "720p": "VJMN6EzZ"
-  }
- },
- {
-  "id": "lovelivesupersta",
-  "releaseOrder": 15,
-  "title": "Love Live! Superstar!! Season 3",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
-  "episode": "5",
-  "updateDay": "Senin",
-  "updateDate": "04 Nov",
-  "score": "N/A",
-  "producer": "Lantis",
-  "starting": "Okt 06, 2024",
-  "studio": "Sunrise",
-  "genre": "Music, School, Slice of Life",
-  "synopsis": [
-   "Season ke-3 dari anime Love Live! Superstar!!"
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "yGXcyLvr",
-   "480p": "R1SafLci",
-   "720p": "XGme7cpN"
   }
  }
 ]
