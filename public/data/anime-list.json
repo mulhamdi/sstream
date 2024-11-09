@@ -1,7 +1,51 @@
 [
  {
-  "id": "kabushikigaisham",
+  "id": "bleachsennenkess",
   "releaseOrder": 1,
+  "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg",
+  "episode": "6",
+  "updateDay": "Minggu",
+  "updateDate": "09 Nov",
+  "score": "8.94",
+  "producer": "Pierrot, Zack Promotion",
+  "starting": "Okt 05, 2024",
+  "studio": "Pierrot Films",
+  "genre": "Action, Adventure, Shounen, Supernatural",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "MeL2Q6F2",
+   "480p": "JbRs6oym",
+   "720p": "TRmLZGDD"
+  }
+ },
+ {
+  "id": "acrotrip",
+  "releaseOrder": 2,
+  "title": "Acro Trip",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
+  "episode": "7",
+  "updateDay": "Kamis",
+  "updateDate": "09 Nov",
+  "score": "7.01",
+  "producer": "Fuji TV, KlockWorx, Tokyopop, Ai Addiction, Tokyo MX, King Records, Shueisha, Yomiuri TV Enterprise, BS NTV, Happinet Phantom Studios",
+  "starting": "Okt 02, 2024",
+  "studio": "Fuji TV, KlockWorx, Tokyopop, Ai Addiction, Tokyo MX, King Records, Shueisha, Yomiuri TV Enterprise, BS NTV, Happinet Phantom StudiosStudio: Voil",
+  "genre": "Comedy, Fantasy, Shoujo",
+  "synopsis": [
+   "Mengisahkan Chizuko, seorang gadis yang mendatangi kakeknya di sebuah tempat. Di sana, ia bertemu dengan Berry Blossom, seorang gadis penyihir yang memiliki tugas untuk melindungi kota dari tindak kejahatan.Sejak pertemuan pertamanya, Chizuko langsung tertarik dengan Berry Blossom. Sayangnya, ketertarikannya tersebut mulai memudar setelah Chroma, sang pemimpin organisasi jahat Fossa Magna yang terlalu lemah ini membuat pertarungannya dengan Berry menjadi tidak begitu seru.Untuk membuat pertarungan menjadi lebih menarik lagi, Chizuko terpaksa membantu Chroma agar bisa mengalahkan idolanya sendiri."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "RUTX7aaU",
+   "480p": "xmR6Kjr4",
+   "720p": "cJzHeQwT"
+  }
+ },
+ {
+  "id": "kabushikigaisham",
+  "releaseOrder": 3,
   "title": "Kabushikigaisha Magi-Lumière",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kabushikigaisha-Magi-Lumiere.jpg",
   "episode": "6",
@@ -26,7 +70,7 @@
  },
  {
   "id": "swordartonlineal",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Sword Art Online Alternative: Gun Gale Online S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sword-Art-Online-Alternative-Gun-Gale-Online-s2.jpg",
   "episode": "6",
@@ -50,7 +94,7 @@
  },
  {
   "id": "25jigennoririsa",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "2.5-jigen no Ririsa",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/2.5-jigen-no-Ririsa.jpg",
   "episode": "19",
@@ -74,7 +118,7 @@
  },
  {
   "id": "goukonniittaraon",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
   "episode": "6",
@@ -99,7 +143,7 @@
  },
  {
   "id": "aonohako",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Ao no Hako",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Ao-no-Hako.jpg",
   "episode": "7",
@@ -123,7 +167,7 @@
  },
  {
   "id": "trilliongame",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Trillion Game",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Trillion-Game.jpg",
   "episode": "7",
@@ -147,7 +191,7 @@
  },
  {
   "id": "sayounararyuusei",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sayounara-Ryuusei-Konnichiwa-Jinsei-Subtitle-Indonesia.jpg",
   "episode": "6",
@@ -172,7 +216,7 @@
  },
  {
   "id": "hitoribocchinois",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Hitoribocchi no Isekai Kouryaku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Hitoribocchi-no-Isekai-Kouryaku.jpg",
   "episode": "7",
@@ -197,7 +241,7 @@
  },
  {
   "id": "rurounikenshinme",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145530.jpg",
   "episode": "6",
@@ -218,7 +262,7 @@
  },
  {
   "id": "kekkonsuruttehon",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Kekkon suru tte, Hontou desu ka",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kekkon-suru-tte-Hontou-desu-ka.jpg",
   "episode": "6",
@@ -243,7 +287,7 @@
  },
  {
   "id": "dandadan",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Dandadan",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg",
   "episode": "6",
@@ -267,7 +311,7 @@
  },
  {
   "id": "negaposiangler",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "NegaPosi Angler",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/NegaPosi-Angler.png",
   "episode": "6",
@@ -291,7 +335,7 @@
  },
  {
   "id": "danmachiseason5",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "DanMachi Season 5",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/DanMachi-Season-5-Subtitle-Indonesia.jpg",
   "episode": "6",
@@ -310,52 +354,6 @@
    "360p": "5BskvnFi",
    "480p": "GKWaTVe7",
    "720p": "EBAp5aGP"
-  }
- },
- {
-  "id": "delicosnursery",
-  "releaseOrder": 14,
-  "title": "Delico's Nursery",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
-  "episode": "10",
-  "updateDay": "Kamis",
-  "updateDate": "07 Nov",
-  "score": "7.01",
-  "producer": "Aniplex, Magic Capsule, Tokyo MX, BS11, Contents Seed, Watanabe Entertainment",
-  "starting": "Agu 08, 2024",
-  "studio": "J.C.Staff",
-  "genre": "Fantasy, Mystery, Vampire",
-  "synopsis": [
-   "Mengisahkan Dali Delico, seorang bangsawan yang berasal dari keluarga terpandang dari Delico yang juga bagian anggota elit Ketsumei Gikai. Mereka yang tergabung dalam keanggotaan tersebut telah terjamin masa depannya.",
-   "Suatu waktu, terjadi sebuah insiden berupa pembunuhan berantai yang targetnya merupakan para vampir di jalanan. Saat itu, Dali mendapatkan sebuah misi khusus dari Ketsumei Gikai namun sayangnya ia menolak hal tersebut.",
-   "Walau begitu, temannya yakni Gerhard, Dino, dan Henrique mencoba untuk membujuknya. Sayang, hasilnya tetap nihil. Usut punya usut, alasan Dali menolak tugas khusus tersebut karena ia tengah sibuk mengasuh anak."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "PjEGF5cZ",
-   "480p": "oqR8qQZ7",
-   "720p": "eWjsv1Yy"
-  }
- },
- {
-  "id": "shintennisnoouji",
-  "releaseOrder": 15,
-  "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
-  "episode": "6",
-  "updateDay": "Kamis",
-  "updateDate": "07 Nov",
-  "score": "N/A",
-  "producer": "Nihon Ad Systems, Jinnan Studio",
-  "starting": "Okt 03, 2024",
-  "studio": "Nihon Ad Systems, Jinnan StudioStudio: M.S.C",
-  "genre": "School, Shounen, Sports",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "AgHKX6qf",
-   "480p": "cyW64Hdc",
-   "720p": "RLcssktE"
   }
  }
 ]
