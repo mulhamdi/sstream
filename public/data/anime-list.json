@@ -1,7 +1,28 @@
 [
  {
-  "id": "sengokuyoukosenm",
+  "id": "shintennisnoouji",
   "releaseOrder": 1,
+  "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
+  "episode": "7",
+  "updateDay": "Kamis",
+  "updateDate": "14 Nov",
+  "score": "N/A",
+  "producer": "Nihon Ad Systems, Jinnan Studio",
+  "starting": "Okt 03, 2024",
+  "studio": "Nihon Ad Systems, Jinnan StudioStudio: M.S.C",
+  "genre": "School, Shounen, Sports",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "uMqC9BvA",
+   "480p": "kGUwJDFh",
+   "720p": "8porg4af"
+  }
+ },
+ {
+  "id": "sengokuyoukosenm",
+  "releaseOrder": 2,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "16",
@@ -22,7 +43,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 2,
+  "releaseOrder": 3,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "6",
@@ -46,7 +67,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 3,
+  "releaseOrder": 4,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "7",
@@ -69,7 +90,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 4,
+  "releaseOrder": 5,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "7",
@@ -93,7 +114,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "7",
@@ -118,7 +139,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 6,
+  "releaseOrder": 7,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "6",
@@ -143,7 +164,7 @@
  },
  {
   "id": "goukonniittaraon",
-  "releaseOrder": 7,
+  "releaseOrder": 8,
   "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
   "episode": "7",
@@ -168,7 +189,7 @@
  },
  {
   "id": "mechaudetv",
-  "releaseOrder": 8,
+  "releaseOrder": 9,
   "title": "Mecha-ude (TV)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/127958.jpg",
   "episode": "5",
@@ -193,7 +214,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 9,
+  "releaseOrder": 10,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "6",
@@ -216,7 +237,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 10,
+  "releaseOrder": 11,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "6",
@@ -237,7 +258,7 @@
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 11,
+  "releaseOrder": 12,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "6",
@@ -261,7 +282,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 12,
+  "releaseOrder": 13,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "6",
@@ -285,7 +306,7 @@
  },
  {
   "id": "wajutsushi",
-  "releaseOrder": 13,
+  "releaseOrder": 14,
   "title": "Wajutsushi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
   "episode": "7",
@@ -309,7 +330,7 @@
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 14,
+  "releaseOrder": 15,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
   "episode": "5",
@@ -326,30 +347,6 @@
    "360p": "Kf4BDKBm",
    "480p": "frQnbmpM",
    "720p": "qfHPeBUM"
-  }
- },
- {
-  "id": "tasuuketsu",
-  "releaseOrder": 15,
-  "title": "Tasuuketsu",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
-  "episode": "18",
-  "updateDay": "Rabu",
-  "updateDate": "11 Nov",
-  "score": "N/A",
-  "producer": "VAP, Team Kawadon",
-  "starting": "Jul 03, 2024",
-  "studio": "Satelight",
-  "genre": "Action, Drama, Psychological, Suspense",
-  "synopsis": [
-   "Suatu hari, dunia tiba-tiba mengalami kejadian aneh yang mana hampir seluruh masyarkat Jepang tewas. Kini, hanya tersisa 1 juta orang yang masih hidup. Sekarang, orang yang masih hidup harus mengikuti sebuah permainan.",
-   "Aturannya cuman satu, yakni Kematian Mayoritas. Itu berarti, seluruh orang yang tersisa harus bertahan hidup dan melawan kekuatan yang nantinya akan mengubah takdir mereka."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "r4RBkexH",
-   "480p": "9zKDeTBL",
-   "720p": "C4y11NYo"
   }
  }
 ]
