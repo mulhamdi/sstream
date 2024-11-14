@@ -1,7 +1,78 @@
 [
  {
-  "id": "delicosnursery",
+  "id": "dandadan",
   "releaseOrder": 1,
+  "title": "Dandadan",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg",
+  "episode": "7",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "8.64",
+  "producer": "Aniplex, Mainichi Broadcasting System",
+  "starting": "Okt 04, 2024",
+  "studio": "Science SARU",
+  "genre": "Action, Comedy, Shounen, Supernatural",
+  "synopsis": [
+   "Ken Takakura dan Momo merupakan dua siswa SMA yang memiliki kepercayaan masing-masing. Ken Takakura percaya bahwa alien itu ada sementara Momo meyakini bahwa hantu itu ada. Untuk membuktikannya, kedua siswa tersebut mendatangi rumah sakit bekas untuk mencari keberadaan UFO. Sementara itu, Ken mendatangi terowongan yang diyakini berhantu.",
+   "Ternyata, di Lokasi mereka masing-masing terjadi kejadian misterius yang membawa keduanya ke hal-hal di luar nalar manusia."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "7ZNFwtsu",
+   "480p": "gEm3i7EM",
+   "720p": "LtNys9Q9"
+  }
+ },
+ {
+  "id": "negaposiangler",
+  "releaseOrder": 2,
+  "title": "NegaPosi Angler",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/NegaPosi-Angler.png",
+  "episode": "7",
+  "updateDay": "Kamis",
+  "updateDate": "15 Nov",
+  "score": "7.10",
+  "producer": "Kadokawa",
+  "starting": "Okt 03, 2024",
+  "studio": "Nut",
+  "genre": "Adult Cast",
+  "synopsis": [
+   "Mengisahkan Tsunehiro Sasaki, mahasiswa yang saat ini Tengah terlibat dengan banyak sekali hutang. Terlebih, ia baru mendapatkan kabar dari sang dokter bahwa dirinya hanya memiliki waktu tersisa selama 2 tahun lagi untuk hidup.",
+   "Suatu hari, Tsunehiro yang sedang dikejar oleh debt collector terjatuh di laut dan ia diselematkan oleh Hana serta Takaaki yang tengah memancing di sekitar sana. Pertemuannya dengan Hana dan Takaaki membuat Hiro ingin menikmati sisa-sisa hidupnya dengan Bahagia."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "d6PAGAdu",
+   "480p": "eSz15zK3",
+   "720p": "6EYYT918"
+  }
+ },
+ {
+  "id": "danmachiseason5",
+  "releaseOrder": 3,
+  "title": "DanMachi Season 5",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/DanMachi-Season-5-Subtitle-Indonesia.jpg",
+  "episode": "7",
+  "updateDay": "Kamis",
+  "updateDate": "14 Nov",
+  "score": "N/A",
+  "producer": "Egg Firm",
+  "starting": "Okt 05, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Action, Adventure, Fantasy",
+  "synopsis": [
+   "Setelah berhasil Kembali dari ruang bawah tanah, Bell Cranel kini menjalankan kehidupan sehari-harinya seperti biasa. Namun, suatu hari Bell mendapatkan sepucuk surat dari seorang gadis yang bekerja di sebuah kedai.Isi surat tersebut meminta Bell untuk berkencan dengannya Ketika Festival Dewi nanti. Rupanya, gadis yang mengirim surat itu adalah Syr. Tentu, ada alasan kenapa Syr sangat ingin berkencan dengan Bell Cranel.Sekarang mampukah gadis kecil dari kedai ini meluluhkan hati Bell?"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "W13PQ7hd",
+   "480p": "BuvZfYT8",
+   "720p": "wtc2Lgob"
+  }
+ },
+ {
+  "id": "delicosnursery",
+  "releaseOrder": 4,
   "title": "Delico's Nursery",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
   "episode": "11",
@@ -26,7 +97,7 @@
  },
  {
   "id": "acrotrip",
-  "releaseOrder": 2,
+  "releaseOrder": 5,
   "title": "Acro Trip",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
   "episode": "8",
@@ -49,7 +120,7 @@
  },
  {
   "id": "shintennisnoouji",
-  "releaseOrder": 3,
+  "releaseOrder": 6,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
   "episode": "7",
@@ -70,7 +141,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 4,
+  "releaseOrder": 7,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "16",
@@ -91,7 +162,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 5,
+  "releaseOrder": 8,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "6",
@@ -115,7 +186,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 6,
+  "releaseOrder": 9,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "7",
@@ -138,7 +209,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 7,
+  "releaseOrder": 10,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "7",
@@ -162,7 +233,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 8,
+  "releaseOrder": 11,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "7",
@@ -187,7 +258,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 9,
+  "releaseOrder": 12,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "6",
@@ -212,7 +283,7 @@
  },
  {
   "id": "goukonniittaraon",
-  "releaseOrder": 10,
+  "releaseOrder": 13,
   "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
   "episode": "7",
@@ -237,7 +308,7 @@
  },
  {
   "id": "mechaudetv",
-  "releaseOrder": 11,
+  "releaseOrder": 14,
   "title": "Mecha-ude (TV)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/127958.jpg",
   "episode": "5",
@@ -262,7 +333,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 12,
+  "releaseOrder": 15,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "6",
@@ -281,75 +352,6 @@
    "360p": "fkN1ez38",
    "480p": "Gcdt45yr",
    "720p": "AJTaQzV4"
-  }
- },
- {
-  "id": "seireigensoukise",
-  "releaseOrder": 13,
-  "title": "Seirei Gensouki Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
-  "episode": "6",
-  "updateDay": "Selasa",
-  "updateDate": "12 Nov",
-  "score": "7.20",
-  "producer": "Nippon Columbia, Kanon Sound, TMS Music",
-  "starting": "Okt 08, 2024",
-  "studio": "TMS Entertainment",
-  "genre": "Action, Adventure, Fantasy, Harem, Isekai, Reincarnation, Romance",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "se2ZjQ92",
-   "480p": "zCZE62eu",
-   "720p": "RhXkc6nY"
-  }
- },
- {
-  "id": "raisewataningaii",
-  "releaseOrder": 14,
-  "title": "Raise wa Tanin ga Ii",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
-  "episode": "6",
-  "updateDay": "Selasa",
-  "updateDate": "12 Nov",
-  "score": "7.00",
-  "producer": "Pony Canyon, Half H.P Studio",
-  "starting": "Okt 07, 2024",
-  "studio": "Pony Canyon, Half H.P StudioStudio: Studio Deen",
-  "genre": "Crime, Romance, Seinen",
-  "synopsis": [
-   "Yoshino Somei, cucu cari Renji Somei yang merupakan pemimpin Yakuza Someo-gumi telah dijodohkan lansung sama Kirishima Miyama dari keluarga dari Tokusa-kai. Akibat perjodohan tersebut, Yoshino harus merantau ke Tokyo dari Osaka.",
-   "Sesampainya di sana, Yoshino menganggap bahwa Kirishima sama seperti Yakuza pada umumnya. Namun, ia baru menyadari bahwa Kirishima tidak seperti yang Ia bayangkan."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "cDCJmBjg",
-   "480p": "nV9G5WzQ",
-   "720p": "oR5oxW8i"
-  }
- },
- {
-  "id": "hoshifuruoukokun",
-  "releaseOrder": 15,
-  "title": "Hoshifuru Oukoku no Nina",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
-  "episode": "6",
-  "updateDay": "Senin",
-  "updateDate": "12 Nov",
-  "score": "N/A",
-  "producer": "flying DOG, Nikkatsu",
-  "starting": "Okt 10, 2024",
-  "studio": "Signal.MD",
-  "genre": "Fantasy, Josei, Romance",
-  "synopsis": [
-   "Nina, seorang gadis yatim piatu yang tinggal di Fortna. Karena warna matanya yang biru tua layaknya lapis Lazuli, Nina ditugaskan untuk menggantikan peran dari Alisha, putri Fortna yang tewas karena kecelakaan kereta kuda.",
-   "Tentu, untuk menjalankan tugas layaknya seorang putri bukanlah hal mudah. Ia harus belajar tentang etika dan segala hal lainnya. Selain itu, Nina juga diminta untuk menipu Sett, calon pria yang akan dinikahinya nanti."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "HNavHa5t",
-   "480p": "L5GxxJ9U",
-   "720p": "n45JkTZo"
   }
  }
 ]
