@@ -1,7 +1,32 @@
 [
  {
-  "id": "dandadan",
+  "id": "hitoribocchinois",
   "releaseOrder": 1,
+  "title": "Hitoribocchi no Isekai Kouryaku",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Hitoribocchi-no-Isekai-Kouryaku.jpg",
+  "episode": "8",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "N/A",
+  "producer": "Pony Canyon",
+  "starting": "Okt 04, 2024",
+  "studio": "Passione, Hayabusa Film",
+  "genre": "Action, Adventure, Fantasy, Isekai",
+  "synopsis": [
+   "Mengisahkan Haruka, seorang anak SMA yang suka menyendiri secara tiba-tiba dipanggil ke dunia lain Bersama dengan teman-temannya. Di dunia lain ini, semua orang mendapatkan skill khusus dari Dewa. Mereka semua bisa memilih skill favorit termasuk dengan skill illegal layaknya cheat.",
+   "Sayang sekali, Haruka justru tidak mendapatkan skill karena ia keduluan oleh orang lain. Karena hal tersebut, Haruka terpaksa melakukan petualangan dengan skill miliknya bernama Bocchi atau Penyendiri.",
+   "Karena skill tersebut, Haruka tidak bisa membentuk party atau bergabung dengan party lain."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "VCCa4y4C",
+   "480p": "uBh6vhaY",
+   "720p": "ef91ZSYf"
+  }
+ },
+ {
+  "id": "dandadan",
+  "releaseOrder": 2,
   "title": "Dandadan",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg",
   "episode": "7",
@@ -25,7 +50,7 @@
  },
  {
   "id": "negaposiangler",
-  "releaseOrder": 2,
+  "releaseOrder": 3,
   "title": "NegaPosi Angler",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/NegaPosi-Angler.png",
   "episode": "7",
@@ -49,7 +74,7 @@
  },
  {
   "id": "danmachiseason5",
-  "releaseOrder": 3,
+  "releaseOrder": 4,
   "title": "DanMachi Season 5",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/DanMachi-Season-5-Subtitle-Indonesia.jpg",
   "episode": "7",
@@ -72,7 +97,7 @@
  },
  {
   "id": "delicosnursery",
-  "releaseOrder": 4,
+  "releaseOrder": 5,
   "title": "Delico's Nursery",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
   "episode": "11",
@@ -97,7 +122,7 @@
  },
  {
   "id": "acrotrip",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Acro Trip",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
   "episode": "8",
@@ -120,7 +145,7 @@
  },
  {
   "id": "shintennisnoouji",
-  "releaseOrder": 6,
+  "releaseOrder": 7,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
   "episode": "7",
@@ -141,7 +166,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 7,
+  "releaseOrder": 8,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "16",
@@ -162,7 +187,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 8,
+  "releaseOrder": 9,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "6",
@@ -186,7 +211,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 9,
+  "releaseOrder": 10,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "7",
@@ -209,7 +234,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 10,
+  "releaseOrder": 11,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "7",
@@ -233,7 +258,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 11,
+  "releaseOrder": 12,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "7",
@@ -258,7 +283,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 12,
+  "releaseOrder": 13,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "6",
@@ -283,7 +308,7 @@
  },
  {
   "id": "goukonniittaraon",
-  "releaseOrder": 13,
+  "releaseOrder": 14,
   "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
   "episode": "7",
@@ -308,7 +333,7 @@
  },
  {
   "id": "mechaudetv",
-  "releaseOrder": 14,
+  "releaseOrder": 15,
   "title": "Mecha-ude (TV)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/127958.jpg",
   "episode": "5",
@@ -329,29 +354,6 @@
    "360p": "78LePh5B",
    "480p": "1hJUF4ie",
    "720p": "aY6cPbp7"
-  }
- },
- {
-  "id": "natsumeyuujincho",
-  "releaseOrder": 15,
-  "title": "Natsume Yuujinchou Season 7",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
-  "episode": "6",
-  "updateDay": "Selasa",
-  "updateDate": "12 Nov",
-  "score": "8.10",
-  "producer": "Aniplex, Nihon Ad Systems, Ai Addiction",
-  "starting": "Okt 08, 2024",
-  "studio": "Shuka",
-  "genre": "Mythology, Shoujo, Slice of Life, Supernatural",
-  "synopsis": [
-   "Season ke 7 dari anime Natsume Yuujinchou"
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "fkN1ez38",
-   "480p": "Gcdt45yr",
-   "720p": "AJTaQzV4"
   }
  }
 ]
