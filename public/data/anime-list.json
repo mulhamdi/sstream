@@ -1,7 +1,55 @@
 [
  {
-  "id": "shintennisnoouji",
+  "id": "delicosnursery",
   "releaseOrder": 1,
+  "title": "Delico's Nursery",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
+  "episode": "11",
+  "updateDay": "Kamis",
+  "updateDate": "14 Nov",
+  "score": "7.01",
+  "producer": "Aniplex, Magic Capsule, Tokyo MX, BS11, Contents Seed, Watanabe Entertainment",
+  "starting": "Agu 08, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Fantasy, Mystery, Vampire",
+  "synopsis": [
+   "Mengisahkan Dali Delico, seorang bangsawan yang berasal dari keluarga terpandang dari Delico yang juga bagian anggota elit Ketsumei Gikai. Mereka yang tergabung dalam keanggotaan tersebut telah terjamin masa depannya.",
+   "Suatu waktu, terjadi sebuah insiden berupa pembunuhan berantai yang targetnya merupakan para vampir di jalanan. Saat itu, Dali mendapatkan sebuah misi khusus dari Ketsumei Gikai namun sayangnya ia menolak hal tersebut.",
+   "Walau begitu, temannya yakni Gerhard, Dino, dan Henrique mencoba untuk membujuknya. Sayang, hasilnya tetap nihil. Usut punya usut, alasan Dali menolak tugas khusus tersebut karena ia tengah sibuk mengasuh anak."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "orxepH2r",
+   "480p": "EUHTR4Af",
+   "720p": "w1ocJTGW"
+  }
+ },
+ {
+  "id": "acrotrip",
+  "releaseOrder": 2,
+  "title": "Acro Trip",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
+  "episode": "8",
+  "updateDay": "Kamis",
+  "updateDate": "14 Nov",
+  "score": "7.01",
+  "producer": "Fuji TV, KlockWorx, Tokyopop, Ai Addiction, Tokyo MX, King Records, Shueisha, Yomiuri TV Enterprise, BS NTV, Happinet Phantom Studios",
+  "starting": "Okt 02, 2024",
+  "studio": "Fuji TV, KlockWorx, Tokyopop, Ai Addiction, Tokyo MX, King Records, Shueisha, Yomiuri TV Enterprise, BS NTV, Happinet Phantom StudiosStudio: Voil",
+  "genre": "Comedy, Fantasy, Shoujo",
+  "synopsis": [
+   "Mengisahkan Chizuko, seorang gadis yang mendatangi kakeknya di sebuah tempat. Di sana, ia bertemu dengan Berry Blossom, seorang gadis penyihir yang memiliki tugas untuk melindungi kota dari tindak kejahatan.Sejak pertemuan pertamanya, Chizuko langsung tertarik dengan Berry Blossom. Sayangnya, ketertarikannya tersebut mulai memudar setelah Chroma, sang pemimpin organisasi jahat Fossa Magna yang terlalu lemah ini membuat pertarungannya dengan Berry menjadi tidak begitu seru.Untuk membuat pertarungan menjadi lebih menarik lagi, Chizuko terpaksa membantu Chroma agar bisa mengalahkan idolanya sendiri."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "GuEEa3Zx",
+   "480p": "KSBqgPgh",
+   "720p": "V4rk1Hyu"
+  }
+ },
+ {
+  "id": "shintennisnoouji",
+  "releaseOrder": 3,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
   "episode": "7",
@@ -22,7 +70,7 @@
  },
  {
   "id": "sengokuyoukosenm",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Sengoku Youko: Senma Konton-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
   "episode": "16",
@@ -43,7 +91,7 @@
  },
  {
   "id": "yarinaoshireijou",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "6",
@@ -67,7 +115,7 @@
  },
  {
   "id": "rezerokarahajime",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
   "episode": "7",
@@ -90,7 +138,7 @@
  },
  {
   "id": "rekishininokorua",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Rekishi ni Nokoru Akujo ni Naru zo",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
   "episode": "7",
@@ -114,7 +162,7 @@
  },
  {
   "id": "amagamisanchinoe",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Amagami-san Chi no Enmusubi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
   "episode": "7",
@@ -139,7 +187,7 @@
  },
  {
   "id": "youkaigakkounose",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Youkai Gakkou no Sensei Hajimemashita!",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
   "episode": "6",
@@ -164,7 +212,7 @@
  },
  {
   "id": "goukonniittaraon",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
   "episode": "7",
@@ -189,7 +237,7 @@
  },
  {
   "id": "mechaudetv",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Mecha-ude (TV)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/127958.jpg",
   "episode": "5",
@@ -214,7 +262,7 @@
  },
  {
   "id": "natsumeyuujincho",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Natsume Yuujinchou Season 7",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "6",
@@ -237,7 +285,7 @@
  },
  {
   "id": "seireigensoukise",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Seirei Gensouki Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
   "episode": "6",
@@ -258,7 +306,7 @@
  },
  {
   "id": "raisewataningaii",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "Raise wa Tanin ga Ii",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
   "episode": "6",
@@ -282,7 +330,7 @@
  },
  {
   "id": "hoshifuruoukokun",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "Hoshifuru Oukoku no Nina",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "6",
@@ -302,51 +350,6 @@
    "360p": "HNavHa5t",
    "480p": "L5GxxJ9U",
    "720p": "n45JkTZo"
-  }
- },
- {
-  "id": "wajutsushi",
-  "releaseOrder": 14,
-  "title": "Wajutsushi",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
-  "episode": "7",
-  "updateDay": "Selasa",
-  "updateDate": "12 Nov",
-  "score": "N/A",
-  "producer": "DAX Production, GREE Entertainment",
-  "starting": "Okt 07, 2024",
-  "studio": "Felix Film, Ga-Crew",
-  "genre": "Action, Adventure, Fantasy",
-  "synopsis": [
-   "Mengisahkan Noel, seorang anak laki-laki dan juga cucu dari pahlawan legendaris bernama Over Death. Ketika kecil dulu, Noel kehilangan sang kakek karena melindungi dirinya dari serangan Void. Ia pun berjanji akan mengikuti jejak sang kakek menjadi seorang Seeker.",
-   "Beberapa tahun setelahnya, Noel kini menjadi seorang Seeker dengan mengemban tugas sebagai pendukung karena ia tidak memiliki kekuatan untuk bertarung. Walau begitu, Noel yang jago dalam berkomunikasi menggunakan kemampuannya tersebut untuk membentuk sebuah kelompok."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "eKinxn6X",
-   "480p": "aPeksJin",
-   "720p": "12WSkw6w"
-  }
- },
- {
-  "id": "arifuretashokugy",
-  "releaseOrder": 15,
-  "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
-  "episode": "5",
-  "updateDay": "Senin",
-  "updateDate": "11 Nov",
-  "score": "7.00",
-  "producer": "Overlap",
-  "starting": "Okt 14, 2024",
-  "studio": "asread.",
-  "genre": "Action, Adventure, Fantasy, Harem, Isekai",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "Kf4BDKBm",
-   "480p": "frQnbmpM",
-   "720p": "qfHPeBUM"
   }
  }
 ]
