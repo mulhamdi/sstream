@@ -1,7 +1,286 @@
 [
  {
-  "id": "hitoribocchinois",
+  "id": "bluelockseason2",
   "releaseOrder": 1,
+  "title": "Blue Lock Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
+  "episode": "7",
+  "updateDay": "Minggu",
+  "updateDate": "17 Nov",
+  "score": "7.78",
+  "producer": "TV Asahi, Kodansha, Crunchyroll, Chiptune, Bandai Spirits, Bit grooove promotion, Bandai Namco Filmworks, Bandai Namco Music Live",
+  "starting": "Okt 05, 2024",
+  "studio": "8bit",
+  "genre": "Shounen, Sports",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "nF745SyW",
+   "480p": "5e8Sdxqi",
+   "720p": "THCGZGew"
+  }
+ },
+ {
+  "id": "maousamaretryr",
+  "releaseOrder": 2,
+  "title": "Maou-sama, Retry! R",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
+  "episode": "8",
+  "updateDay": "Minggu",
+  "updateDate": "17 Nov",
+  "score": "N/A",
+  "producer": "N/A",
+  "starting": "Okt 05, 2024",
+  "studio": "ekkou",
+  "genre": "Action, Adventure, Fantasy, Isekai",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "PbxeAEej",
+   "480p": "qKjGReS9",
+   "720p": "bPG5P9DG"
+  }
+ },
+ {
+  "id": "bleachsennenkess",
+  "releaseOrder": 3,
+  "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg",
+  "episode": "7",
+  "updateDay": "Minggu",
+  "updateDate": "16 Nov",
+  "score": "8.94",
+  "producer": "Pierrot, Zack Promotion",
+  "starting": "Okt 05, 2024",
+  "studio": "Pierrot Films",
+  "genre": "Action, Adventure, Shounen, Supernatural",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "2kXfcnys",
+   "480p": "kwBjG283",
+   "720p": "xgpUZsFQ"
+  }
+ },
+ {
+  "id": "swordartonlineal",
+  "releaseOrder": 4,
+  "title": "Sword Art Online Alternative: Gun Gale Online S2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sword-Art-Online-Alternative-Gun-Gale-Online-s2.jpg",
+  "episode": "7",
+  "updateDay": "Sabtu",
+  "updateDate": "16 Nov",
+  "score": "7.03",
+  "producer": "Aniplex, Magic Capsule, Egg Firm, Straight Edge",
+  "starting": "Okt 05, 2024",
+  "studio": "A-1 Pictures",
+  "genre": "Action, Military",
+  "synopsis": [
+   "Musim kedua dari Gun Gale Online mengisahkan LLEN dan Pito yang akhirnya memutuskan untuk bekerja sama dalam Squad Jam ketiga. Dalam turnamen ini, mereka membentuk tim Bersama dengan Fukaziroh serta M.",
+   "Tentu, tim baru ini menjadi kandidat juara dalam turnamen tersebut. Terlebih, Pito memastikan bahwa mereka ingin membawa kemenangan dalam turnamen ini. Walau begitu, hal tersebut tidaklah mudah mengingat banyak tim yang juga memiliki tujuan sama dengan mereka.Mampukah tim LPFM memenangkan Squad Jam edisi ketiga ini?"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "2ywmBR8K",
+   "480p": "Ng2Xnshe",
+   "720p": "19Gtk8Ec"
+  }
+ },
+ {
+  "id": "kabushikigaisham",
+  "releaseOrder": 5,
+  "title": "Kabushikigaisha Magi-Lumière",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kabushikigaisha-Magi-Lumiere.jpg",
+  "episode": "7",
+  "updateDay": "Sabtu",
+  "updateDate": "16 Nov",
+  "score": "7.07",
+  "producer": "N/A",
+  "starting": "Okt 04, 2024",
+  "studio": "J.C.Staff, Studio Moe",
+  "genre": "Action, Adult Cast, Comedy, Fantasy, Shounen",
+  "synopsis": [
+   "Di masa sekarang, gadis penyihir atau Mahou Shoujo merupakan sebuah profesi yang banyak dikerjakan oleh para gadis. Sebab, penghasilan dari pekerjaan ini sangatlah fantastis. Suatu hari, Kana Sakugaragi yang baru saja lulus dari universitas telah melamar di berbagai tempat.",
+   "Namun, sayangnya ia masih sulit untuk mendapatkan pekerjaan. Dalam sebuah wawancara, ia terjebak karena ulah Kaii, monster yang ada di dunia tersebut. Di sana, Sakuragi di selamatkan oleh Hitomi Koshigaya, gadis penyihir namun dengan style Yankee.",
+   "Karena insiden tersebut, Sakuragi memutuskan untuk bekerja di Perusahaan Magi-Lumiere, tempat Hitomi bekerja."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "fKDUAbBC",
+   "480p": "AGVAUN36",
+   "720p": "YkCHE3uW"
+  }
+ },
+ {
+  "id": "25jigennoririsa",
+  "releaseOrder": 6,
+  "title": "2.5-jigen no Ririsa",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/2.5-jigen-no-Ririsa.jpg",
+  "episode": "20",
+  "updateDay": "Jumat",
+  "updateDate": "16 Nov",
+  "score": "7.07",
+  "producer": "Magic Capsule, Shueisha",
+  "starting": "Jul 05, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Comedy,  , Harem, School, Shounen",
+  "synopsis": [
+   "Mengisahkan Okumura, seorang siswa SMA yang sangat menyukai karakter dua dimensinya bernama Liiel. Suatu hari, Ririsa Amano yang merupakan gadis cantik di sekolahnya mendatangi Okumura dan mengatakan bahwa ia ingin menjadi Liiel.",
+   "Rupanya, Risa merupakan gadis yang sangat suka dengan cosplay. Sama seperti Okumura, Risa juga sangat menyukai karakter Liiel. Setelah pertemuannya dengan Risa, klub manga tempat Okumura kini menjadi lokasi bagi mereka berdua menyalurkan hobi masing-masing."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "1m2ZUy6P",
+   "480p": "HQKsKvCv",
+   "720p": "4PQhwQ9E"
+  }
+ },
+ {
+  "id": "trilliongame",
+  "releaseOrder": 7,
+  "title": "Trillion Game",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Trillion-Game.jpg",
+  "episode": "8",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "6.52",
+  "producer": "Magic Capsule, Kadokawa",
+  "starting": "Okt 04, 2024",
+  "studio": "Madhouse",
+  "genre": "Adult Cast, Drama, Seinen",
+  "synopsis": [
+   "Haru, seorang pria dengan karakter ceria dan mampu berkomunikasi dengan baik. Sedangkan Gaku, pria yang ahli dalam komputer namun pemalu Ketika berbicara dengan orang lain. Sifat keduanya tentu berbanding terbalik namun mereka merupakan sahabat sejak SMP.",
+   "Beberapa tahun berlalu sejak mereka lulus, Haru dan Gaku kini telah mulai mencari pekerjaan. Sayangnya, mereka berdua gagal dan memutuskan untuk bekerja sama dalam membuat sebuah Perusahaan baru. Mereka pun mempunyai tujuan untuk mendapatkan 1 triliun dollar."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "C3mztcUo",
+   "480p": "uqhGxUx6",
+   "720p": "Amm8uTj2"
+  }
+ },
+ {
+  "id": "dandadan",
+  "releaseOrder": 8,
+  "title": "Dandadan",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg",
+  "episode": "7",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "8.64",
+  "producer": "Aniplex, Mainichi Broadcasting System",
+  "starting": "Okt 04, 2024",
+  "studio": "Science SARU",
+  "genre": "Action, Comedy, Shounen, Supernatural",
+  "synopsis": [
+   "Ken Takakura dan Momo merupakan dua siswa SMA yang memiliki kepercayaan masing-masing. Ken Takakura percaya bahwa alien itu ada sementara Momo meyakini bahwa hantu itu ada. Untuk membuktikannya, kedua siswa tersebut mendatangi rumah sakit bekas untuk mencari keberadaan UFO. Sementara itu, Ken mendatangi terowongan yang diyakini berhantu.",
+   "Ternyata, di Lokasi mereka masing-masing terjadi kejadian misterius yang membawa keduanya ke hal-hal di luar nalar manusia."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "7ZNFwtsu",
+   "480p": "gEm3i7EM",
+   "720p": "LtNys9Q9"
+  }
+ },
+ {
+  "id": "sayounararyuusei",
+  "releaseOrder": 9,
+  "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Sayounara-Ryuusei-Konnichiwa-Jinsei-Subtitle-Indonesia.jpg",
+  "episode": "7",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "N/A",
+  "producer": "DMM pictures, BloomZ",
+  "starting": "Okt 11, 2024",
+  "studio": "SynergySP, Vega Entertainment",
+  "genre": "Action, Adventure, Fantasy, Reincarnation",
+  "synopsis": [
+   "Dulu, hidup seekor naga kuno yang sayangnya terpaksa dibunuh oleh para manusia. Setelah kematiannya, sang naga berienkarnasi menjadi manusia bernama Dolan, seorang laki-laki yang hidup di sebuah desa terpencil.",
+   "Sebagaimana manusia pada umumnya, Dolan bekerja di ladang dan melakukan perburuan untuk memenuhi kehidupannya. Suatu hari, Dolan yang mendapatkan tugas untuk menyelidiki sebuah rawa-rawa bertemu dengan gadis bernama Celina, seorang lamia bertubuh manusia.",
+   "Pertemuannya dengan Lamia rupanya akan membuat kehidupan Dolan berubah."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "VuZALYzC",
+   "480p": "cn9VFrgB",
+   "720p": "V3GAf1qS"
+  }
+ },
+ {
+  "id": "rurounikenshinme",
+  "releaseOrder": 10,
+  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145530.jpg",
+  "episode": "7",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "7.41",
+  "producer": "N/A",
+  "starting": "Okt 04, 2024",
+  "studio": "LIDENFILMS",
+  "genre": "Action, Historical, Samurai, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "1BS8gBS8",
+   "480p": "QyBV6Mx1",
+   "720p": "T8F6k81N"
+  }
+ },
+ {
+  "id": "kekkonsuruttehon",
+  "releaseOrder": 11,
+  "title": "Kekkon suru tte, Hontou desu ka",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kekkon-suru-tte-Hontou-desu-ka.jpg",
+  "episode": "7",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "7.10",
+  "producer": "Pony Canyon, Studio Mausu",
+  "starting": "Okt 03, 2024",
+  "studio": "Pony Canyon, Studio MausuStudio: Ashi Productions",
+  "genre": "Adult Cast, Romance, Seinen",
+  "synopsis": [
+   "Takuya dan Rika merupakan dua orang dewasa yang bekerja di Perusahaan bernama JTC, sebuah agen perjalanan yang berlokasi di Tokyo. Baik Takuya dan Rika memiliki masalah mereka masing-masing, mulai dari Takuya yang tidak terlalu menonjol hingga Rika yang kurang mampu berkomunikasi.",
+   "Suatu hari, Perusahaan tempat mereka bekerja akan membuat cabang di Anchorage, Alaska. Untuk itu, mereka membutuhkan karyawan yang masih single agar bisa ditempatkan di sana. Guna menghindari hal tersebut, Takuya dan Rika sepakat untuk berpura-pura menikah.",
+   "Tentu, tidak mudah untuk menjalankan kehidupan seperti ini."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "jEWkTXwR",
+   "480p": "t9UsRYg3",
+   "720p": "n87TDmvH"
+  }
+ },
+ {
+  "id": "aonohako",
+  "releaseOrder": 12,
+  "title": "Ao no Hako",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Ao-no-Hako.jpg",
+  "episode": "8",
+  "updateDay": "Jumat",
+  "updateDate": "15 Nov",
+  "score": "7.86",
+  "producer": "Unlimited Produce by TMS",
+  "starting": "Okt 03, 2024",
+  "studio": "Telecom Animation Film",
+  "genre": "Romance, School, Shounen, Sports, Team Sports",
+  "synopsis": [
+   "Berlatar di Akademi Eimei, sebuah sekolah yang memiliki keunggulan dalam menciptakan atlet-atlet berbakat. Taiki Inomata, anggota dari klub bulu tangkis selalu datang di pagi hari untuk berlatih sendirian. Namun, sayangnya ia selalu kalah cepat oleh Chinatsu Kano, anggota klub basket.",
+   "Taiki yang sangat mengagumi Chinatsu pun bertekad untuk menjadi pemain terkenal agar bisa bersanding dengan gadis yang ia cintai tersebut. Untuk mencapai tujuannya tentu tidak mudah, terlebih hubungan mereka berdua mulai mengalami perubahan setelah keduanya tinggal Bersama-sama."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "FU58jn3Z",
+   "480p": "5ZSXX2K4",
+   "720p": "MNWVurGK"
+  }
+ },
+ {
+  "id": "hitoribocchinois",
+  "releaseOrder": 13,
   "title": "Hitoribocchi no Isekai Kouryaku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Hitoribocchi-no-Isekai-Kouryaku.jpg",
   "episode": "8",
@@ -25,32 +304,8 @@
   }
  },
  {
-  "id": "dandadan",
-  "releaseOrder": 2,
-  "title": "Dandadan",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Subtitle-Indonesia.jpg",
-  "episode": "7",
-  "updateDay": "Jumat",
-  "updateDate": "15 Nov",
-  "score": "8.64",
-  "producer": "Aniplex, Mainichi Broadcasting System",
-  "starting": "Okt 04, 2024",
-  "studio": "Science SARU",
-  "genre": "Action, Comedy, Shounen, Supernatural",
-  "synopsis": [
-   "Ken Takakura dan Momo merupakan dua siswa SMA yang memiliki kepercayaan masing-masing. Ken Takakura percaya bahwa alien itu ada sementara Momo meyakini bahwa hantu itu ada. Untuk membuktikannya, kedua siswa tersebut mendatangi rumah sakit bekas untuk mencari keberadaan UFO. Sementara itu, Ken mendatangi terowongan yang diyakini berhantu.",
-   "Ternyata, di Lokasi mereka masing-masing terjadi kejadian misterius yang membawa keduanya ke hal-hal di luar nalar manusia."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "7ZNFwtsu",
-   "480p": "gEm3i7EM",
-   "720p": "LtNys9Q9"
-  }
- },
- {
   "id": "negaposiangler",
-  "releaseOrder": 3,
+  "releaseOrder": 14,
   "title": "NegaPosi Angler",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/NegaPosi-Angler.png",
   "episode": "7",
@@ -74,7 +329,7 @@
  },
  {
   "id": "danmachiseason5",
-  "releaseOrder": 4,
+  "releaseOrder": 15,
   "title": "DanMachi Season 5",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/DanMachi-Season-5-Subtitle-Indonesia.jpg",
   "episode": "7",
@@ -93,267 +348,6 @@
    "360p": "W13PQ7hd",
    "480p": "BuvZfYT8",
    "720p": "wtc2Lgob"
-  }
- },
- {
-  "id": "delicosnursery",
-  "releaseOrder": 5,
-  "title": "Delico's Nursery",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Delicos-Nursery.jpg",
-  "episode": "11",
-  "updateDay": "Kamis",
-  "updateDate": "14 Nov",
-  "score": "7.01",
-  "producer": "Aniplex, Magic Capsule, Tokyo MX, BS11, Contents Seed, Watanabe Entertainment",
-  "starting": "Agu 08, 2024",
-  "studio": "J.C.Staff",
-  "genre": "Fantasy, Mystery, Vampire",
-  "synopsis": [
-   "Mengisahkan Dali Delico, seorang bangsawan yang berasal dari keluarga terpandang dari Delico yang juga bagian anggota elit Ketsumei Gikai. Mereka yang tergabung dalam keanggotaan tersebut telah terjamin masa depannya.",
-   "Suatu waktu, terjadi sebuah insiden berupa pembunuhan berantai yang targetnya merupakan para vampir di jalanan. Saat itu, Dali mendapatkan sebuah misi khusus dari Ketsumei Gikai namun sayangnya ia menolak hal tersebut.",
-   "Walau begitu, temannya yakni Gerhard, Dino, dan Henrique mencoba untuk membujuknya. Sayang, hasilnya tetap nihil. Usut punya usut, alasan Dali menolak tugas khusus tersebut karena ia tengah sibuk mengasuh anak."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "orxepH2r",
-   "480p": "EUHTR4Af",
-   "720p": "w1ocJTGW"
-  }
- },
- {
-  "id": "acrotrip",
-  "releaseOrder": 6,
-  "title": "Acro Trip",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Acro-Trip.jpg",
-  "episode": "8",
-  "updateDay": "Kamis",
-  "updateDate": "14 Nov",
-  "score": "7.01",
-  "producer": "Fuji TV, KlockWorx, Tokyopop, Ai Addiction, Tokyo MX, King Records, Shueisha, Yomiuri TV Enterprise, BS NTV, Happinet Phantom Studios",
-  "starting": "Okt 02, 2024",
-  "studio": "Fuji TV, KlockWorx, Tokyopop, Ai Addiction, Tokyo MX, King Records, Shueisha, Yomiuri TV Enterprise, BS NTV, Happinet Phantom StudiosStudio: Voil",
-  "genre": "Comedy, Fantasy, Shoujo",
-  "synopsis": [
-   "Mengisahkan Chizuko, seorang gadis yang mendatangi kakeknya di sebuah tempat. Di sana, ia bertemu dengan Berry Blossom, seorang gadis penyihir yang memiliki tugas untuk melindungi kota dari tindak kejahatan.Sejak pertemuan pertamanya, Chizuko langsung tertarik dengan Berry Blossom. Sayangnya, ketertarikannya tersebut mulai memudar setelah Chroma, sang pemimpin organisasi jahat Fossa Magna yang terlalu lemah ini membuat pertarungannya dengan Berry menjadi tidak begitu seru.Untuk membuat pertarungan menjadi lebih menarik lagi, Chizuko terpaksa membantu Chroma agar bisa mengalahkan idolanya sendiri."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "GuEEa3Zx",
-   "480p": "KSBqgPgh",
-   "720p": "V4rk1Hyu"
-  }
- },
- {
-  "id": "shintennisnoouji",
-  "releaseOrder": 7,
-  "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
-  "episode": "7",
-  "updateDay": "Kamis",
-  "updateDate": "14 Nov",
-  "score": "N/A",
-  "producer": "Nihon Ad Systems, Jinnan Studio",
-  "starting": "Okt 03, 2024",
-  "studio": "Nihon Ad Systems, Jinnan StudioStudio: M.S.C",
-  "genre": "School, Shounen, Sports",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "uMqC9BvA",
-   "480p": "kGUwJDFh",
-   "720p": "8porg4af"
-  }
- },
- {
-  "id": "sengokuyoukosenm",
-  "releaseOrder": 8,
-  "title": "Sengoku Youko: Senma Konton-hen",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
-  "episode": "16",
-  "updateDay": "Kamis",
-  "updateDate": "14 Nov",
-  "score": "N/A",
-  "producer": "N/A",
-  "starting": "Jul 18, 2024",
-  "studio": "White Fox",
-  "genre": "Action, Adventure, Fantasy, Historical, Mythology, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "jx7n1enQ",
-   "480p": "jbucaab9",
-   "720p": "RF4Tov79"
-  }
- },
- {
-  "id": "yarinaoshireijou",
-  "releaseOrder": 9,
-  "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
-  "episode": "6",
-  "updateDay": "Kamis",
-  "updateDate": "14 Nov",
-  "score": "7.04",
-  "producer": "Magic Capsule, Kadokawa",
-  "starting": "Okt 09, 2024",
-  "studio": "J.C.Staff",
-  "genre": "Comedy, Fantasy, Romance, Shoujo",
-  "synopsis": [
-   "Jill Savelle, seorang Wanita yang mendapatkan julukan sebagai Dewi Perang ini mendapatkan hukuman mati setelah ia dituduh meracuni putri. Tuduhan palsu tersebut disampaikan langsung oleh tunangannya, Gerald de Kleitos.",
-   "Sebelum eksekusi dilakukan, Jill Kembali ke usianya yang 10 tahun lalu dan berada di sebuah pesta. Untuk menghindari masa depan yang sama seperti sebelumnya, Jill memilih menikah dengan Hades Theos Rave, musuh bebuyutannya Ketika masih menjadi seorang Dewi Perang dulu."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "zXBQkeE8",
-   "480p": "Q5a7VGUF",
-   "720p": "FzdBkU3A"
-  }
- },
- {
-  "id": "rezerokarahajime",
-  "releaseOrder": 10,
-  "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
-  "episode": "7",
-  "updateDay": "Rabu",
-  "updateDate": "14 Nov",
-  "score": "8.69",
-  "producer": "Magic Capsule, Kadokawa",
-  "starting": "Okt 02, 2024",
-  "studio": "White Fox",
-  "genre": "Drama, Fantasy, Isekai, Psychological, Suspense",
-  "synopsis": [
-   "Musim ketiga anime Re:Zero kara Hajimeru Isekai Seikatsu Season 3 "
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "3HAZkNPv",
-   "480p": "9x7EDrzA",
-   "720p": "YapP1xNJ"
-  }
- },
- {
-  "id": "rekishininokorua",
-  "releaseOrder": 11,
-  "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
-  "episode": "7",
-  "updateDay": "Selasa",
-  "updateDate": "13 Nov",
-  "score": "7.10",
-  "producer": "Lantis, Half H.P Studio",
-  "starting": "Okt 02, 2024",
-  "studio": "Lantis, Half H.P StudioStudio: Maho Film",
-  "genre": "Comedy, Fantasy, Isekai, Romance, Shoujo",
-  "synopsis": [
-   "Berbeda dengan kebanyakan orang, Alicia justru ingin menjadi seorang heroine jahat. Untuk membuatnya menjadi seorang antagonis paling jahat di cerita novel, Alicia mulai melakukan berbagai hal yang tidak menjadi kebiasaannya dulu.",
-   "Mulai dari bangun pagi, pergi ke perpustakaan, hingga berlatih pedang. Namun, siapa sangka perubahan ini justru membuatnya menjadi gadis  sangat kuat dan cantik. Bahkan, respon dari orang-orang di sekitar Alicia menganggapnya sebagai salah satu Wanita yang jauh dari kata antagonis."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "vBC6AbET",
-   "480p": "Gs8mcxA5",
-   "720p": "pNbDknAX"
-  }
- },
- {
-  "id": "amagamisanchinoe",
-  "releaseOrder": 12,
-  "title": "Amagami-san Chi no Enmusubi",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
-  "episode": "7",
-  "updateDay": "Rabu",
-  "updateDate": "13 Nov",
-  "score": "7.00",
-  "producer": "N/A",
-  "starting": "Okt 02, 2024",
-  "studio": "Drive",
-  "genre": "Comedy, Harem, Romance, Shounen",
-  "synopsis": [
-   "Uryu Kamihate, siswa kelas 2 SMA memiliki tujuan untuk masuk di Fakultas Kedokteran Universitas Kyoto. Sejak ibunya meninggal, Uryuu tinggal dan besar di panti asuhan. Namun, suatu hari ia dibawa oleh Kepala Pendeta Kuil Kanjin di Kyoto.",
-   "Sesampainya di kuil tersebut, Uryuu justru bertemu dengan tiga gadis cantik. Di sana, Uryuu diberitahu bahwa ia akan menikahi salah satu gadis tersebut dan mewarisi kuil. Tentu, awalnya Uryuu merasa terkejut karena tujuan awalnya datang ke kuil tersebut hanya untuk menetap saja.",
-   "Walau begitu, takdir yang mengikat Uryuu dan ketiga gadis tersebut perlahan mulai terhubung. Kini, siapakah gadis yang akan Uryuu nikahi?"
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "gvKJhn96",
-   "480p": "wBR1FksH",
-   "720p": "NLLz5wxu"
-  }
- },
- {
-  "id": "youkaigakkounose",
-  "releaseOrder": 13,
-  "title": "Youkai Gakkou no Sensei Hajimemashita!",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
-  "episode": "6",
-  "updateDay": "Selasa",
-  "updateDate": "13 Nov",
-  "score": "N/A",
-  "producer": "Kappa Entertainment",
-  "starting": "Okt 08, 2024",
-  "studio": "Satelight",
-  "genre": "Comedy, Fantasy, Mythology, School, Shounen, Workplace",
-  "synopsis": [
-   "Haruaki Abe, seorang guru dewasa yang sangat pengecut dan sering di bully oleh orang lain. Suatu hari, ia mendapatkan tugas untuk mengajar di sebuah sekolah bernama Akademi Hyakki, sebuah sekolah khusus untuk para siluman.",
-   "Di sana, Abe harus berhadapan dengan para siluman yang memiliki karakteristik berbeda-beda. Walau begitu, rupanya Abe merupakan salah satu manusia terkuat dan menjadi keturunan langsung dari leluhurnya yang pernah membasmi siluman jahat.",
-   "Kini, kehidupan Abe sebagai seorang guru di sekolah siluman telah dimulai."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "oVdUiEUa",
-   "480p": "PsUSaAB6",
-   "720p": "e2MbS9gz"
-  }
- },
- {
-  "id": "goukonniittaraon",
-  "releaseOrder": 14,
-  "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
-  "episode": "7",
-  "updateDay": "Senin",
-  "updateDate": "12 Nov",
-  "score": "N/A",
-  "producer": "Studio Mausu, NBCUniversal Entertainment Japan",
-  "starting": "Okt 05, 2024",
-  "studio": "Studio Mausu, NBCUniversal Entertainment JapanStudio: Ashi Productions",
-  "genre": "Comedy, Romance",
-  "synopsis": [
-   "Tokiwa, seorang mahasiswa mendapat ajakan untuk kencan buta oleh temannya bernama Suo, seorang gadis di kelasnya. Karena hal tersebut, Tokiwa mengajak dua rekannya bernama Asagi dan Hagi yang baru pertama kali ikut kencan buta.",
-   "Mereka bertiga dengan penuh semangat mendatangi Lokasi kencan buta. Sesampainya di sana, ketiganya terkejut karena mendapati rekan kencan buta mereka merupakan tiga cewek dengan make up cowok.",
-   "Tentu, hal ini membuat Tokiwa dan teman-temannya begitu kaget. Walau begitu, mereka berdua juga mengetahui bahwa ketiga cewek ini sangatlah cantik."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "Yec25sGT",
-   "480p": "iGsjUTen",
-   "720p": "NrSLPxqQ"
-  }
- },
- {
-  "id": "mechaudetv",
-  "releaseOrder": 15,
-  "title": "Mecha-ude (TV)",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/127958.jpg",
-  "episode": "5",
-  "updateDay": "Jumat",
-  "updateDate": "12 Nov",
-  "score": "7.10",
-  "producer": "Pony Canyon",
-  "starting": "Okt 04, 2024",
-  "studio": "TriF Studio",
-  "genre": "Action, Sci-Fi",
-  "synopsis": [
-   "Suatu hari, Hikaru Amatsuga yang bersekolah di SMP Kota Kitakagami bertemu dengan Arma, robot berbentuk tangan dengan tipe “Ude”. Awalnya, Arma ingin bergabung dengan tubuh Hikaru namun gagal. Walau begitu, rupanya ia kini bisa menyatu dengan hoodie yang Hikaru kenakan.",
-   "Usut punya usut, Arma merupakan salah satu benda yang diincar oleh Kagami Group, sebuah Perusahaan yang bergerak di bidang mecha dan ingin menjadikan Arma sebagai senjata. Sementara itu, ada juga organisasi bernama ARMS yang ingin menyelamatkan Arma dari organisasi jahat tersebut.",
-   "Karena hal tersebut, Hikaru kini harus berhadapan dengan banyak sekali masalah."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "78LePh5B",
-   "480p": "1hJUF4ie",
-   "720p": "aY6cPbp7"
   }
  }
 ]
