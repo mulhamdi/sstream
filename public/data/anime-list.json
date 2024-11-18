@@ -1,7 +1,72 @@
 [
  {
-  "id": "nagekinoboureiwa",
+  "id": "lovelivesupersta",
   "releaseOrder": 1,
+  "title": "Love Live! Superstar!! Season 3",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
+  "episode": "7",
+  "updateDay": "Senin",
+  "updateDate": "18 Nov",
+  "score": "N/A",
+  "producer": "Lantis",
+  "starting": "Okt 06, 2024",
+  "studio": "Sunrise",
+  "genre": "Music, School, Slice of Life",
+  "synopsis": [
+   "Season ke-3 dari anime Love Live! Superstar!!"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "nVjyAHjp",
+   "480p": "vno9AerB",
+   "720p": "1Z9nKwKF"
+  }
+ },
+ {
+  "id": "mfghostseason2",
+  "releaseOrder": 2,
+  "title": "MF Ghost Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
+  "episode": "7",
+  "updateDay": "Senin",
+  "updateDate": "18 Nov",
+  "score": "7.67",
+  "producer": "Animax, Kodansha, Avex Pictures, Sammy, Crunchyroll, Techno Sound",
+  "starting": "Okt 07, 2024",
+  "studio": "Felix Film",
+  "genre": "Racing, Seinen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "9Yu3ca5e",
+   "480p": "V5E5wEkB",
+   "720p": "STcF5X82"
+  }
+ },
+ {
+  "id": "tenseikizokukant",
+  "releaseOrder": 3,
+  "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/143705.jpg",
+  "episode": "7",
+  "updateDay": "Senin",
+  "updateDate": "18 Nov",
+  "score": "7.24",
+  "producer": "N/A",
+  "starting": "Sep 29, 2024",
+  "studio": "studio MOTHER",
+  "genre": "Adventure, Fantasy, Isekai, Reincarnation",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "5StztFSj",
+   "480p": "GhrsEDcR",
+   "720p": "1Yp7bvx2"
+  }
+ },
+ {
+  "id": "nagekinoboureiwa",
+  "releaseOrder": 4,
   "title": "Nageki no Bourei wa Intai shitai",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
   "episode": "8",
@@ -25,7 +90,7 @@
  },
  {
   "id": "tsumashougakusei",
-  "releaseOrder": 2,
+  "releaseOrder": 5,
   "title": "Tsuma, Shougakusei ni Naru.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
   "episode": "8",
@@ -49,7 +114,7 @@
  },
  {
   "id": "shangrilafrontie",
-  "releaseOrder": 3,
+  "releaseOrder": 6,
   "title": "Shangri-La Frontier Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
   "episode": "6",
@@ -70,7 +135,7 @@
  },
  {
   "id": "nanatsunotaizaim",
-  "releaseOrder": 4,
+  "releaseOrder": 7,
   "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg",
   "episode": "6",
@@ -91,7 +156,7 @@
  },
  {
   "id": "fairytail100nenq",
-  "releaseOrder": 5,
+  "releaseOrder": 8,
   "title": "Fairy Tail: 100-nen Quest",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
   "episode": "19",
@@ -112,7 +177,7 @@
  },
  {
   "id": "partykaratsuihou",
-  "releaseOrder": 6,
+  "releaseOrder": 9,
   "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/141123l.jpg",
   "episode": "7",
@@ -136,7 +201,7 @@
  },
  {
   "id": "kimiwameidosama",
-  "releaseOrder": 7,
+  "releaseOrder": 10,
   "title": "Kimi wa Meido-sama.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama..jpg",
   "episode": "7",
@@ -160,7 +225,7 @@
  },
  {
   "id": "aonoexorcistyuki",
-  "releaseOrder": 8,
+  "releaseOrder": 11,
   "title": "Ao no Exorcist: Yuki no Hate-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144043.jpg",
   "episode": "7",
@@ -184,7 +249,7 @@
  },
  {
   "id": "chichikyuunoundo",
-  "releaseOrder": 9,
+  "releaseOrder": 12,
   "title": "Chi.: Chikyuu no Undou ni Tsuite",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
   "episode": "8",
@@ -207,7 +272,7 @@
  },
  {
   "id": "maou2099",
-  "releaseOrder": 10,
+  "releaseOrder": 13,
   "title": "Maou 2099",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg",
   "episode": "6",
@@ -231,7 +296,7 @@
  },
  {
   "id": "touhaiuraratemah",
-  "releaseOrder": 11,
+  "releaseOrder": 14,
   "title": "Touhai: Ura Rate Mahjong Touhai Roku",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
   "episode": "7",
@@ -255,7 +320,7 @@
  },
  {
   "id": "ranma2024",
-  "releaseOrder": 12,
+  "releaseOrder": 15,
   "title": "Ranma ½ (2024)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144299.jpg",
   "episode": "7",
@@ -275,69 +340,6 @@
    "360p": "qwVD9Ynq",
    "480p": "xPmFaxo6",
    "720p": "W2bGa5d2"
-  }
- },
- {
-  "id": "bluelockseason2",
-  "releaseOrder": 13,
-  "title": "Blue Lock Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
-  "episode": "7",
-  "updateDay": "Minggu",
-  "updateDate": "17 Nov",
-  "score": "7.78",
-  "producer": "TV Asahi, Kodansha, Crunchyroll, Chiptune, Bandai Spirits, Bit grooove promotion, Bandai Namco Filmworks, Bandai Namco Music Live",
-  "starting": "Okt 05, 2024",
-  "studio": "8bit",
-  "genre": "Shounen, Sports",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "nF745SyW",
-   "480p": "5e8Sdxqi",
-   "720p": "THCGZGew"
-  }
- },
- {
-  "id": "bleachsennenkess",
-  "releaseOrder": 14,
-  "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg",
-  "episode": "7",
-  "updateDay": "Minggu",
-  "updateDate": "17 Nov",
-  "score": "8.94",
-  "producer": "Pierrot, Zack Promotion",
-  "starting": "Okt 05, 2024",
-  "studio": "Pierrot Films",
-  "genre": "Action, Adventure, Shounen, Supernatural",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "2kXfcnys",
-   "480p": "kwBjG283",
-   "720p": "xgpUZsFQ"
-  }
- },
- {
-  "id": "maousamaretryr",
-  "releaseOrder": 15,
-  "title": "Maou-sama, Retry! R",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
-  "episode": "8",
-  "updateDay": "Minggu",
-  "updateDate": "17 Nov",
-  "score": "N/A",
-  "producer": "N/A",
-  "starting": "Okt 05, 2024",
-  "studio": "ekkou",
-  "genre": "Action, Adventure, Fantasy, Isekai",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "PbxeAEej",
-   "480p": "qKjGReS9",
-   "720p": "bPG5P9DG"
   }
  }
 ]
