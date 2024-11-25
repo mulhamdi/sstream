@@ -1,7 +1,53 @@
 [
  {
-  "id": "nagekinoboureiwa",
+  "id": "goukonniittaraon",
   "releaseOrder": 1,
+  "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi.jpg",
+  "episode": "9",
+  "updateDay": "Senin",
+  "updateDate": "25 Nov",
+  "score": "N/A",
+  "producer": "Studio Mausu, NBCUniversal Entertainment Japan",
+  "starting": "Okt 05, 2024",
+  "studio": "Studio Mausu, NBCUniversal Entertainment JapanStudio: Ashi Productions",
+  "genre": "Comedy, Romance",
+  "synopsis": [
+   "Tokiwa, seorang mahasiswa mendapat ajakan untuk kencan buta oleh temannya bernama Suo, seorang gadis di kelasnya. Karena hal tersebut, Tokiwa mengajak dua rekannya bernama Asagi dan Hagi yang baru pertama kali ikut kencan buta.",
+   "Mereka bertiga dengan penuh semangat mendatangi Lokasi kencan buta. Sesampainya di sana, ketiganya terkejut karena mendapati rekan kencan buta mereka merupakan tiga cewek dengan make up cowok.",
+   "Tentu, hal ini membuat Tokiwa dan teman-temannya begitu kaget. Walau begitu, mereka berdua juga mengetahui bahwa ketiga cewek ini sangatlah cantik."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "fNKBd2xb",
+   "480p": "nrPWGdFL",
+   "720p": "rXch2zDJ"
+  }
+ },
+ {
+  "id": "mfghostseason2",
+  "releaseOrder": 2,
+  "title": "MF Ghost Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
+  "episode": "8",
+  "updateDay": "Senin",
+  "updateDate": "25 Nov",
+  "score": "7.67",
+  "producer": "Animax, Kodansha, Avex Pictures, Sammy, Crunchyroll, Techno Sound",
+  "starting": "Okt 07, 2024",
+  "studio": "Felix Film",
+  "genre": "Racing, Seinen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "J14dw5uk",
+   "480p": "93Pp7mc2",
+   "720p": "ZcdAYjme"
+  }
+ },
+ {
+  "id": "nagekinoboureiwa",
+  "releaseOrder": 3,
   "title": "Nageki no Bourei wa Intai shitai",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
   "episode": "9",
@@ -25,7 +71,7 @@
  },
  {
   "id": "tenseikizokukant",
-  "releaseOrder": 2,
+  "releaseOrder": 4,
   "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/143705.jpg",
   "episode": "8",
@@ -46,7 +92,7 @@
  },
  {
   "id": "tsumashougakusei",
-  "releaseOrder": 3,
+  "releaseOrder": 5,
   "title": "Tsuma, Shougakusei ni Naru.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
   "episode": "9",
@@ -70,7 +116,7 @@
  },
  {
   "id": "shangrilafrontie",
-  "releaseOrder": 4,
+  "releaseOrder": 6,
   "title": "Shangri-La Frontier Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
   "episode": "7",
@@ -91,7 +137,7 @@
  },
  {
   "id": "nanatsunotaizaim",
-  "releaseOrder": 5,
+  "releaseOrder": 7,
   "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg",
   "episode": "7",
@@ -112,7 +158,7 @@
  },
  {
   "id": "fairytail100nenq",
-  "releaseOrder": 6,
+  "releaseOrder": 8,
   "title": "Fairy Tail: 100-nen Quest",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
   "episode": "20",
@@ -133,7 +179,7 @@
  },
  {
   "id": "aonoexorcistyuki",
-  "releaseOrder": 7,
+  "releaseOrder": 9,
   "title": "Ao no Exorcist: Yuki no Hate-hen",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144043.jpg",
   "episode": "8",
@@ -157,7 +203,7 @@
  },
  {
   "id": "kimiwameidosama",
-  "releaseOrder": 8,
+  "releaseOrder": 10,
   "title": "Kimi wa Meido-sama.",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama..jpg",
   "episode": "8",
@@ -181,7 +227,7 @@
  },
  {
   "id": "partykaratsuihou",
-  "releaseOrder": 9,
+  "releaseOrder": 11,
   "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/141123l.jpg",
   "episode": "8",
@@ -205,7 +251,7 @@
  },
  {
   "id": "chichikyuunoundo",
-  "releaseOrder": 10,
+  "releaseOrder": 12,
   "title": "Chi.: Chikyuu no Undou ni Tsuite",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
   "episode": "9",
@@ -228,7 +274,7 @@
  },
  {
   "id": "maou2099",
-  "releaseOrder": 11,
+  "releaseOrder": 13,
   "title": "Maou 2099",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg",
   "episode": "7",
@@ -252,7 +298,7 @@
  },
  {
   "id": "ranma2024",
-  "releaseOrder": 12,
+  "releaseOrder": 14,
   "title": "Ranma ½ (2024)",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144299.jpg",
   "episode": "8",
@@ -276,7 +322,7 @@
  },
  {
   "id": "maousamaretryr",
-  "releaseOrder": 13,
+  "releaseOrder": 15,
   "title": "Maou-sama, Retry! R",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
   "episode": "9",
@@ -293,48 +339,6 @@
    "360p": "NRAtVBjs",
    "480p": "36Vwe4ka",
    "720p": "j8nymd78"
-  }
- },
- {
-  "id": "bluelockseason2",
-  "releaseOrder": 14,
-  "title": "Blue Lock Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
-  "episode": "8",
-  "updateDay": "Minggu",
-  "updateDate": "24 Nov",
-  "score": "7.78",
-  "producer": "TV Asahi, Kodansha, Crunchyroll, Chiptune, Bandai Spirits, Bit grooove promotion, Bandai Namco Filmworks, Bandai Namco Music Live",
-  "starting": "Okt 05, 2024",
-  "studio": "8bit",
-  "genre": "Shounen, Sports",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "hT415pka",
-   "480p": "tZZ1Km7T",
-   "720p": "fU3iz587"
-  }
- },
- {
-  "id": "bleachsennenkess",
-  "releaseOrder": 15,
-  "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144074.jpg",
-  "episode": "8",
-  "updateDay": "Minggu",
-  "updateDate": "23 Nov",
-  "score": "8.94",
-  "producer": "Pierrot, Zack Promotion",
-  "starting": "Okt 05, 2024",
-  "studio": "Pierrot Films",
-  "genre": "Action, Adventure, Shounen, Supernatural",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "K9DGdjtp",
-   "480p": "uoUFyppT",
-   "720p": "dnw4UdFQ"
   }
  }
 ]
