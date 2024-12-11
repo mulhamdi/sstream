@@ -1,57 +1,223 @@
 [
  {
-  "id": "mfghostseason2",
+  "id": "yarinaoshireijou",
   "releaseOrder": 1,
-  "title": "MF Ghost Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/MF-Ghost-Season-2-Subtitle-Indonesia.jpg",
+  "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg",
   "episode": "10",
-  "updateDay": "Senin",
-  "updateDate": "09 Des",
-  "score": "7.67",
-  "producer": "Animax, Kodansha, Avex Pictures, Sammy, Crunchyroll, Techno Sound",
-  "starting": "Okt 07, 2024",
-  "studio": "Felix Film",
-  "genre": "Racing, Seinen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "nVMW5ruv",
-   "480p": "E9zPfURB",
-   "720p": "R6L36UiY"
-  }
- },
- {
-  "id": "nagekinoboureiwa",
-  "releaseOrder": 2,
-  "title": "Nageki no Bourei wa Intai shitai",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/Nageki-no-Bourei-wa-Intai-shitai.jpg",
-  "episode": "11",
-  "updateDay": "Senin",
-  "updateDate": "09 Des",
-  "score": "N/A",
-  "producer": "Avex Pictures, GREE Entertainment, Saber Links",
-  "starting": "Sep 09, 2024",
-  "studio": "Zero-G",
-  "genre": "Action, Adventure, Fantasy",
+  "updateDay": "Kamis",
+  "updateDate": "12 Des",
+  "score": "7.04",
+  "producer": "Magic Capsule, Kadokawa",
+  "starting": "Okt 09, 2024",
+  "studio": "J.C.Staff",
+  "genre": "Comedy, Fantasy, Romance, Shoujo",
   "synopsis": [
-   "Di masa sekarang, orang-orang memilih untuk menjadi pemburu harta karun. Sebab, pekerjaan ini menjanjikan hasil yang sangat bagus. Walau begitu, untuk mendapatkan kekayaan, mereka harus bertaruh nyawa dalam menjalankan misi yang berbahaya.",
-   "Krai Andrey, berhasil membuat sebuah kelompok paling kuat Bersama dengan teman masa kecilnya. Klan bernama First Step tersebut menjadi begitu populer di penjuru dunia. Karena kepopulerannya, seluruh teman masa kecilnya meminta Krai untuk menjadi pemimpin."
+   "Jill Savelle, seorang Wanita yang mendapatkan julukan sebagai Dewi Perang ini mendapatkan hukuman mati setelah ia dituduh meracuni putri. Tuduhan palsu tersebut disampaikan langsung oleh tunangannya, Gerald de Kleitos.",
+   "Sebelum eksekusi dilakukan, Jill Kembali ke usianya yang 10 tahun lalu dan berada di sebuah pesta. Untuk menghindari masa depan yang sama seperti sebelumnya, Jill memilih menikah dengan Hades Theos Rave, musuh bebuyutannya Ketika masih menjadi seorang Dewi Perang dulu."
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "QGPX8XfK",
-   "480p": "bzdmWUgk",
-   "720p": "yYd5TpWQ"
+   "360p": "WHFUTa9i",
+   "480p": "dUYTKrdX",
+   "720p": "WCUTiDrD"
+  }
+ },
+ {
+  "id": "shintennisnoouji",
+  "releaseOrder": 2,
+  "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg",
+  "episode": "11",
+  "updateDay": "Kamis",
+  "updateDate": "12 Des",
+  "score": "N/A",
+  "producer": "Nihon Ad Systems, Jinnan Studio",
+  "starting": "Okt 03, 2024",
+  "studio": "Nihon Ad Systems, Jinnan StudioStudio: M.S.C",
+  "genre": "School, Shounen, Sports",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "fsLUHuXg",
+   "480p": "ziWPjhrn",
+   "720p": "5L3KbEF5"
+  }
+ },
+ {
+  "id": "sengokuyoukosenm",
+  "releaseOrder": 3,
+  "title": "Sengoku Youko: Senma Konton-hen",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg",
+  "episode": "20",
+  "updateDay": "Kamis",
+  "updateDate": "12 Des",
+  "score": "N/A",
+  "producer": "N/A",
+  "starting": "Jul 18, 2024",
+  "studio": "White Fox",
+  "genre": "Action, Adventure, Fantasy, Historical, Mythology, Shounen",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "T8hWnGMf",
+   "480p": "sjwQd3HU",
+   "720p": "iYqjNpfa"
+  }
+ },
+ {
+  "id": "tasuuketsu",
+  "releaseOrder": 4,
+  "title": "Tasuuketsu",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg",
+  "episode": "22",
+  "updateDay": "Rabu",
+  "updateDate": "11 Des",
+  "score": "N/A",
+  "producer": "VAP, Team Kawadon",
+  "starting": "Jul 03, 2024",
+  "studio": "Satelight",
+  "genre": "Action, Drama, Psychological, Suspense",
+  "synopsis": [
+   "Suatu hari, dunia tiba-tiba mengalami kejadian aneh yang mana hampir seluruh masyarkat Jepang tewas. Kini, hanya tersisa 1 juta orang yang masih hidup. Sekarang, orang yang masih hidup harus mengikuti sebuah permainan.",
+   "Aturannya cuman satu, yakni Kematian Mayoritas. Itu berarti, seluruh orang yang tersisa harus bertahan hidup dan melawan kekuatan yang nantinya akan mengubah takdir mereka."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "pQQZ1htq",
+   "480p": "snjbR1Vh",
+   "720p": "2YVnLXPv"
+  }
+ },
+ {
+  "id": "raisewataningaii",
+  "releaseOrder": 5,
+  "title": "Raise wa Tanin ga Ii",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Raise-wa-Tanin-ga-Ii.jpg",
+  "episode": "10",
+  "updateDay": "Selasa",
+  "updateDate": "11 Des",
+  "score": "7.00",
+  "producer": "Pony Canyon, Half H.P Studio",
+  "starting": "Okt 07, 2024",
+  "studio": "Pony Canyon, Half H.P StudioStudio: Studio Deen",
+  "genre": "Crime, Romance, Seinen",
+  "synopsis": [
+   "Yoshino Somei, cucu cari Renji Somei yang merupakan pemimpin Yakuza Someo-gumi telah dijodohkan lansung sama Kirishima Miyama dari keluarga dari Tokusa-kai. Akibat perjodohan tersebut, Yoshino harus merantau ke Tokyo dari Osaka.",
+   "Sesampainya di sana, Yoshino menganggap bahwa Kirishima sama seperti Yakuza pada umumnya. Namun, ia baru menyadari bahwa Kirishima tidak seperti yang Ia bayangkan."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "C4usyNUN",
+   "480p": "vEftRXmA",
+   "720p": "3z1mYUmL"
+  }
+ },
+ {
+  "id": "amagamisanchinoe",
+  "releaseOrder": 6,
+  "title": "Amagami-san Chi no Enmusubi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
+  "episode": "11",
+  "updateDay": "Rabu",
+  "updateDate": "11 Des",
+  "score": "7.00",
+  "producer": "N/A",
+  "starting": "Okt 02, 2024",
+  "studio": "Drive",
+  "genre": "Comedy, Harem, Romance, Shounen",
+  "synopsis": [
+   "Uryu Kamihate, siswa kelas 2 SMA memiliki tujuan untuk masuk di Fakultas Kedokteran Universitas Kyoto. Sejak ibunya meninggal, Uryuu tinggal dan besar di panti asuhan. Namun, suatu hari ia dibawa oleh Kepala Pendeta Kuil Kanjin di Kyoto.",
+   "Sesampainya di kuil tersebut, Uryuu justru bertemu dengan tiga gadis cantik. Di sana, Uryuu diberitahu bahwa ia akan menikahi salah satu gadis tersebut dan mewarisi kuil. Tentu, awalnya Uryuu merasa terkejut karena tujuan awalnya datang ke kuil tersebut hanya untuk menetap saja.",
+   "Walau begitu, takdir yang mengikat Uryuu dan ketiga gadis tersebut perlahan mulai terhubung. Kini, siapakah gadis yang akan Uryuu nikahi?"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "2RvkFBqk",
+   "480p": "2HL1Yfhw",
+   "720p": "2HL1Yfhw"
+  }
+ },
+ {
+  "id": "rekishininokorua",
+  "releaseOrder": 7,
+  "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Rekishi-ni-Nokoru-Akujo-ni-Naru-zo.jpg",
+  "episode": "11",
+  "updateDay": "Selasa",
+  "updateDate": "11 Des",
+  "score": "7.10",
+  "producer": "Lantis, Half H.P Studio",
+  "starting": "Okt 02, 2024",
+  "studio": "Lantis, Half H.P StudioStudio: Maho Film",
+  "genre": "Comedy, Fantasy, Isekai, Romance, Shoujo",
+  "synopsis": [
+   "Berbeda dengan kebanyakan orang, Alicia justru ingin menjadi seorang heroine jahat. Untuk membuatnya menjadi seorang antagonis paling jahat di cerita novel, Alicia mulai melakukan berbagai hal yang tidak menjadi kebiasaannya dulu.",
+   "Mulai dari bangun pagi, pergi ke perpustakaan, hingga berlatih pedang. Namun, siapa sangka perubahan ini justru membuatnya menjadi gadis  sangat kuat dan cantik. Bahkan, respon dari orang-orang di sekitar Alicia menganggapnya sebagai salah satu Wanita yang jauh dari kata antagonis."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "U2CTo7rr",
+   "480p": "LsUh8nnK",
+   "720p": "vYUfZQRd"
+  }
+ },
+ {
+  "id": "youkaigakkounose",
+  "releaseOrder": 8,
+  "title": "Youkai Gakkou no Sensei Hajimemashita!",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
+  "episode": "10",
+  "updateDay": "Selasa",
+  "updateDate": "11 Des",
+  "score": "N/A",
+  "producer": "Kappa Entertainment",
+  "starting": "Okt 08, 2024",
+  "studio": "Satelight",
+  "genre": "Comedy, Fantasy, Mythology, School, Shounen, Workplace",
+  "synopsis": [
+   "Haruaki Abe, seorang guru dewasa yang sangat pengecut dan sering di bully oleh orang lain. Suatu hari, ia mendapatkan tugas untuk mengajar di sebuah sekolah bernama Akademi Hyakki, sebuah sekolah khusus untuk para siluman.",
+   "Di sana, Abe harus berhadapan dengan para siluman yang memiliki karakteristik berbeda-beda. Walau begitu, rupanya Abe merupakan salah satu manusia terkuat dan menjadi keturunan langsung dari leluhurnya yang pernah membasmi siluman jahat.",
+   "Kini, kehidupan Abe sebagai seorang guru di sekolah siluman telah dimulai."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "CM6dAp9F",
+   "480p": "RMTWpSTG",
+   "720p": "bWQqw6RJ"
+  }
+ },
+ {
+  "id": "lovelivesupersta",
+  "releaseOrder": 9,
+  "title": "Love Live! Superstar!! Season 3",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
+  "episode": "10",
+  "updateDay": "Senin",
+  "updateDate": "10 Des",
+  "score": "N/A",
+  "producer": "Lantis",
+  "starting": "Okt 06, 2024",
+  "studio": "Sunrise",
+  "genre": "Music, School, Slice of Life",
+  "synopsis": [
+   "Season ke-3 dari anime Love Live! Superstar!!"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "WusBCXi3",
+   "480p": "wYk3YUgD",
+   "720p": "DmSRKrft"
   }
  },
  {
   "id": "kamonohashironno",
-  "releaseOrder": 3,
+  "releaseOrder": 10,
   "title": "Kamonohashi Ron no Kindan Suiri Season 2",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kamonohashi-Ron-no-Kindan-Suiri-Season-2.jpg",
-  "episode": "9",
-  "updateDay": "Random",
-  "updateDate": "09 Des",
+  "episode": "10",
+  "updateDay": "Selasa",
+  "updateDate": "10 Des",
   "score": "7.57",
   "producer": "Movic, AT-X, Toy's Factory, Kadokawa, Bit grooove promotion",
   "starting": "Okt 07, 2024",
@@ -60,281 +226,122 @@
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "Wvv69bp9",
-   "480p": "XL4RHQJt",
-   "720p": "UtEApo5n"
+   "360p": "wx5ke7a1",
+   "480p": "QvzWqHV5",
+   "720p": "ixAxpP5B"
   }
  },
  {
-  "id": "tsumashougakusei",
-  "releaseOrder": 4,
-  "title": "Tsuma, Shougakusei ni Naru.",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145548.jpg",
-  "episode": "11",
-  "updateDay": "Senin",
-  "updateDate": "09 Des",
-  "score": "7.21",
-  "producer": "Pierrot, VAP, Tohokushinsha Film Corporation, Houbunsha, TC Entertainment, BS11, Crunchyroll, Yomiuri TV Enterprise",
-  "starting": "Okt 06, 2024",
-  "studio": "Studio Signpost",
-  "genre": "Comedy, Reincarnation, Romance, Seinen",
-  "synopsis": [
-   "Keisuke Niijima, seorang pria yang telah kehilangan istri tercintanya 10 tahun lalu. Namun suatu hari, ia kedatangan seorang gadis SD bernama Marika Shiraishi yang mengaku bahwa ia merupakan reinkarnasi dari istrinya bernama Takae.",
-   "Tentu, awalnya Niijima kaget dan tidak mempercayainya. Namun setelah mendengar beberapa rahasia yang hanya ia dan istrinya ketahui, Niijima pun percaya. Kini, kehidupan yang absurd antara bapak-bapak dan seorang gadis SD reinkarnasi istrinya telah dimulai."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "WGMeaSq4",
-   "480p": "doXmtGQ6",
-   "720p": "ppmhMexf"
-  }
- },
- {
-  "id": "tenseikizokukant",
-  "releaseOrder": 5,
-  "title": "Tensei Kizoku, Kantei Skill de Nariagaru S2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/143705.jpg",
-  "episode": "10",
-  "updateDay": "Senin",
-  "updateDate": "09 Des",
-  "score": "7.24",
-  "producer": "N/A",
-  "starting": "Sep 29, 2024",
-  "studio": "studio MOTHER",
-  "genre": "Adventure, Fantasy, Isekai, Reincarnation",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "sz1JnfDR",
-   "480p": "BbauhSKA",
-   "720p": "yND9tsUZ"
-  }
- },
- {
-  "id": "shangrilafrontie",
-  "releaseOrder": 6,
-  "title": "Shangri-La Frontier Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
-  "episode": "9",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.84",
-  "producer": "N/A",
-  "starting": "Okt 13, 2024",
-  "studio": "C2C",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "TyyfPHJH",
-   "480p": "g4TNTFND",
-   "720p": "XGdeUtiq"
-  }
- },
- {
-  "id": "nanatsunotaizaim",
-  "releaseOrder": 7,
-  "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg",
-  "episode": "9",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.07",
-  "producer": "Unlimited Produce by TMS",
-  "starting": "Okt 06, 2024",
-  "studio": "Telecom Animation Film",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "F4PLrJRm",
-   "480p": "iXiLfDpV",
-   "720p": "DUkk3EEL"
-  }
- },
- {
-  "id": "fairytail100nenq",
-  "releaseOrder": 8,
-  "title": "Fairy Tail: 100-nen Quest",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/07/144083.jpg",
-  "episode": "22",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.02",
-  "producer": "Avex Pictures",
-  "starting": "Jul 07, 2024",
-  "studio": "J.C.Staff",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "ivveaEJz",
-   "480p": "A1kJNWe7",
-   "720p": "5m6mxbqv"
-  }
- },
- {
-  "id": "touhaiuraratemah",
-  "releaseOrder": 9,
-  "title": "Touhai: Ura Rate Mahjong Touhai Roku",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg",
-  "episode": "10",
-  "updateDay": "Kamis",
-  "updateDate": "08 Des",
-  "score": "N/A",
-  "producer": "Studio Mausu",
-  "starting": "Okt 05, 2024",
-  "studio": "Studio MausuStudio: East Fish Studio",
-  "genre": "Drama, Psychological, Seinen, Strategy Game, Suspense",
-  "synopsis": [
-   "Bagi seorang pria, uang dan Wanita merupakan sesuatu yang wajib untuk mereka miliki. Namun, terdapat pria yang lebih tertarik untuk bermain mahjong di sebuah tempat rahasia dan menghancurkan tempat tersebut.",
-   "Pria tersebut adalah Kori no K, seorang remaja yang memiliki otak dan permainan yang begitu kalem dan membuat lawannya tidak mampu berkutik. Di dunia bawah, ia merupakan salah satu pemain paling hebat di bidang mahjong."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "CNAXwsaL",
-   "480p": "4DENZaD2",
-   "720p": "i94FHxtR"
-  }
- },
- {
-  "id": "chichikyuunoundo",
-  "releaseOrder": 10,
-  "title": "Chi.: Chikyuu no Undou ni Tsuite",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
-  "episode": "11",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.83",
-  "producer": "N/A",
-  "starting": "Okt 05, 2024",
-  "studio": "Madhouse",
-  "genre": "Drama, Historical, Seinen",
-  "synopsis": [
-   "Berlatar di abad ke-15 Eropa, terdapat seorang remaja bernama Rafal yang berhasil masuk ke sebuah universitas berkat nilainya yang begitu tinggi. Karena besarnya harapan orang-orang terhadapnya, Rafal memilih masuk ke jurusan Teologi yang dinilai sebagai jurusan paling penting. Sayangnya, Rafal sebenarnya ingin masuk ke Astronomi namun Impian tersebut ia kubur selamanya.Suatu hari, Rafal bertemu dengan seorang misterius bernama Hubert. Kala itu, Hubert Tengah dipenjara dan mendapatkan siksaan karena idenya yang dianggap menyesatkan. Untuk membuktikan berbagai teori tersebut, mereka berdua memilih bekerja sama."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "pHThar25",
-   "480p": "9kRf8iJV",
-   "720p": "JmCytBzN"
-  }
- },
- {
-  "id": "kimiwameidosama",
+  "id": "hoshifuruoukokun",
   "releaseOrder": 11,
-  "title": "Kimi wa Meido-sama.",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kimi-wa-Meido-sama..jpg",
+  "title": "Hoshifuru Oukoku no Nina",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Hoshifuru-Oukoku-no-Nina.jpg",
   "episode": "10",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.32",
-  "producer": "Avex Pictures",
-  "starting": "Okt 06, 2024",
-  "studio": "Felix Film",
-  "genre": "Comedy",
+  "updateDay": "Senin",
+  "updateDate": "10 Des",
+  "score": "N/A",
+  "producer": "flying DOG, Nikkatsu",
+  "starting": "Okt 10, 2024",
+  "studio": "Signal.MD",
+  "genre": "Fantasy, Josei, Romance",
   "synopsis": [
-   "Suatu hari, Hitoyoshi Yokoya didatangi oleh seorang pelayan cantik. Tentu, Yokoyo merasa kaget mendengar bahwa sang pelayan dulunya merupakan mantan pembunuh bayaran. Sayangnya, ia kini sudah tidak memiliki master dan dirinya diarahkan untuk datang ke kediaman Yokoya.",
-   "Awalnya, Yokoya menolak memperkerjakannya. Namun, sang pelayan telah menyelamatkan hidupnya dari kecelakaan dan kini mengizinkan sang pelayan untuk bekerja di rumahnya."
+   "Nina, seorang gadis yatim piatu yang tinggal di Fortna. Karena warna matanya yang biru tua layaknya lapis Lazuli, Nina ditugaskan untuk menggantikan peran dari Alisha, putri Fortna yang tewas karena kecelakaan kereta kuda.",
+   "Tentu, untuk menjalankan tugas layaknya seorang putri bukanlah hal mudah. Ia harus belajar tentang etika dan segala hal lainnya. Selain itu, Nina juga diminta untuk menipu Sett, calon pria yang akan dinikahinya nanti."
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "jvoKf3Cs",
-   "480p": "rrnhB3K9",
-   "720p": "a8RzfX6u"
+   "360p": "MXEo2JD3",
+   "480p": "vJo6ksky",
+   "720p": "LMuVZB5v"
   }
  },
  {
-  "id": "partykaratsuihou",
+  "id": "natsumeyuujincho",
   "releaseOrder": 12,
-  "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/141123l.jpg",
+  "title": "Natsume Yuujinchou Season 7",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Natsume-Yuujinchou-Season-7.jpg",
   "episode": "10",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "6.68",
-  "producer": "NBCUniversal Entertainment Japan, ABC Animation, Procen Studio",
-  "starting": "Okt 06, 2024",
-  "studio": "NBCUniversal Entertainment Japan, ABC Animation, Procen StudioStudio: Studio Elle",
+  "updateDay": "Selasa",
+  "updateDate": "10 Des",
+  "score": "8.10",
+  "producer": "Aniplex, Nihon Ad Systems, Ai Addiction",
+  "starting": "Okt 08, 2024",
+  "studio": "Shuka",
+  "genre": "Mythology, Shoujo, Slice of Life, Supernatural",
+  "synopsis": [
+   "Season ke 7 dari anime Natsume Yuujinchou"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "y7waA3Af",
+   "480p": "Zfp1fM6M",
+   "720p": "rhLfXnWx"
+  }
+ },
+ {
+  "id": "seireigensoukise",
+  "releaseOrder": 13,
+  "title": "Seirei Gensouki Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Seirei-Gensouki-Season-2-Subtitle-Indonesia.jpg",
+  "episode": "10",
+  "updateDay": "Selasa",
+  "updateDate": "10 Des",
+  "score": "7.20",
+  "producer": "Nippon Columbia, Kanon Sound, TMS Music",
+  "starting": "Okt 08, 2024",
+  "studio": "TMS Entertainment",
+  "genre": "Action, Adventure, Fantasy, Harem, Isekai, Reincarnation, Romance",
+  "synopsis": "N/A",
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "mjUZxkdx",
+   "480p": "8jBKdChj",
+   "720p": "9D2wraYy"
+  }
+ },
+ {
+  "id": "wajutsushi",
+  "releaseOrder": 14,
+  "title": "Wajutsushi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145446.jpg",
+  "episode": "11",
+  "updateDay": "Selasa",
+  "updateDate": "10 Des",
+  "score": "N/A",
+  "producer": "DAX Production, GREE Entertainment",
+  "starting": "Okt 07, 2024",
+  "studio": "Felix Film, Ga-Crew",
   "genre": "Action, Adventure, Fantasy",
   "synopsis": [
-   "Lust, seorang petualang dengan role healer ini telah dikeluarkan dari party karena dianggap tidak memberikan kontribusi apapun. Walau begitu, ada seorang gadis bernama Narsena yang mengajak Lust untuk membentuk sebuah party.",
-   "Awalnya, banyak yang meragukan Keputusan Narsena untuk membentuk party dengan Lust. Walau begitu, Narsena tetap bertekad agar bisa Bersama dengan pria tersebut. Usut punya usut, Lust merupakan orang yang menyelamatkan Narsenal Ketika diserang monster beberapa tahun lalu."
+   "Mengisahkan Noel, seorang anak laki-laki dan juga cucu dari pahlawan legendaris bernama Over Death. Ketika kecil dulu, Noel kehilangan sang kakek karena melindungi dirinya dari serangan Void. Ia pun berjanji akan mengikuti jejak sang kakek menjadi seorang Seeker.",
+   "Beberapa tahun setelahnya, Noel kini menjadi seorang Seeker dengan mengemban tugas sebagai pendukung karena ia tidak memiliki kekuatan untuk bertarung. Walau begitu, Noel yang jago dalam berkomunikasi menggunakan kemampuannya tersebut untuk membentuk sebuah kelompok."
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "JNUPPTkE",
-   "480p": "fh5VGJPh",
-   "720p": "bKjWQAqe"
+   "360p": "SRN6UA5T",
+   "480p": "Mzb3Ht6v",
+   "720p": "am6zS3yz"
   }
  },
  {
-  "id": "ranma2024",
-  "releaseOrder": 13,
-  "title": "Ranma ½ (2024)",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144299.jpg",
-  "episode": "10",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.78",
-  "producer": "Shogakukan-Shueisha Productions, dugout",
-  "starting": "Okt 06, 2024",
-  "studio": "MAPPA",
-  "genre": "Action, Comedy,  , Romance, Shounen",
-  "synopsis": [
-   "Menceritakan Ranma Saotome, seorang anak laki-laki yang dijodohkan dengan Akane Tendou, putri ketiga dari pemilik Dojo. Sayangnya, perjodohan mereka menemui jalan buntu. Hal ini tidak lepas dari masalah yang Ranma alami.",
-   "Pasalnya, ia dan ayahnya yang telah berlatih di Jusenkyou Tiongkok secara tidak sengaja jatuh di sebuah kolam dan membuat Ranma bisa berubah menjadi seorang Wanita jika terkena air dingin. Sebaliknya, ia akan Kembali jadi pria jika terkena air panas."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "dZVRJVdC",
-   "480p": "sCNvhX6b",
-   "720p": "kavHrtRk"
-  }
- },
- {
-  "id": "maou2099",
-  "releaseOrder": 14,
-  "title": "Maou 2099",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg",
-  "episode": "9",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "7.15",
-  "producer": "Aniplex",
-  "starting": "Okt 13, 2024",
-  "studio": "J.C.Staff",
-  "genre": "Action, Fantasy, Sci-Fi",
-  "synopsis": [
-   "Berlatar di Jepang, Kota Shinjuku tepatnya pada tahun 2099, Raja Iblis bernama Veltol Kembali di kota futuristic tersebut. Walau kota tersebut bersinar dengan sangat terang, namun ada beberapa hal kegelapan yang tersembunyi jauh di sana.",
-   "500 tahun sejak saat itu, Raja Iblis memutuskan Kembali ke dunia dan ingin menguasai segala hal yang ada saat ini. Namun, apakah rencananya akan berjalan dengan sempurna atau tidak?"
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "3JF1q2ZV",
-   "480p": "hHG2pM39",
-   "720p": "JLd4EPQv"
-  }
- },
- {
-  "id": "maousamaretryr",
+  "id": "arifuretashokugy",
   "releaseOrder": 15,
-  "title": "Maou-sama, Retry! R",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/09/142080l.jpg",
-  "episode": "11",
-  "updateDay": "Minggu",
-  "updateDate": "08 Des",
-  "score": "N/A",
-  "producer": "N/A",
-  "starting": "Okt 05, 2024",
-  "studio": "ekkou",
-  "genre": "Action, Adventure, Fantasy, Isekai",
+  "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
+  "episode": "9",
+  "updateDay": "Senin",
+  "updateDate": "10 Des",
+  "score": "7.00",
+  "producer": "Overlap",
+  "starting": "Okt 14, 2024",
+  "studio": "asread.",
+  "genre": "Action, Adventure, Fantasy, Harem, Isekai",
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "CaBBfdVP",
-   "480p": "Z1eG7Att",
-   "720p": "wumD1xn8"
+   "360p": "WqjRXJki",
+   "480p": "fKLDgeMT",
+   "720p": "KhiP1DAy"
   }
  }
 ]
