@@ -1,47 +1,47 @@
 [
  {
-  "id": "aonohako",
+  "id": "dousekoishiteshi",
   "releaseOrder": 1,
-  "title": "Ao no Hako",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Ao-no-Hako.jpg",
-  "episode": "14",
+  "title": "Douse, Koishite Shimaunda.",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/02/141789.jpg",
+  "episode": "2",
   "updateDay": "Jumat",
-  "updateDate": "03 Jan",
-  "score": "7.86",
-  "producer": "Unlimited Produce by TMS",
-  "starting": "Okt 03, 2024",
-  "studio": "Telecom Animation Film",
-  "genre": "Romance, School, Shounen, Sports, Team Sports",
-  "synopsis": [
-   "Berlatar di Akademi Eimei, sebuah sekolah yang memiliki keunggulan dalam menciptakan atlet-atlet berbakat. Taiki Inomata, anggota dari klub bulu tangkis selalu datang di pagi hari untuk berlatih sendirian. Namun, sayangnya ia selalu kalah cepat oleh Chinatsu Kano, anggota klub basket.",
-   "Taiki yang sangat mengagumi Chinatsu pun bertekad untuk menjadi pemain terkenal agar bisa bersanding dengan gadis yang ia cintai tersebut. Untuk mencapai tujuannya tentu tidak mudah, terlebih hubungan mereka berdua mulai mengalami perubahan setelah keduanya tinggal Bersama-sama."
-  ],
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "yo6KKrx3",
-   "480p": "WaEHHHcz",
-   "720p": "VVakBF5R"
-  }
- },
- {
-  "id": "bangdreamavemuji",
-  "releaseOrder": 2,
-  "title": "BanG Dream! Ave Mujica",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/146762.jpg",
-  "episode": "1",
-  "updateDay": "Jumat",
-  "updateDate": "03 Jan",
-  "score": "7.55",
-  "producer": "Ultra Super Pictures, Bushiroad, Tokyo MX, Good Smile Company, Bushiroad Music, HoriPro International",
-  "starting": "Jan 02, 2025",
-  "studio": "SANZIGEN",
-  "genre": "Drama, Music",
+  "updateDate": "06 Feb",
+  "score": "N/A",
+  "producer": "TBS, Kodansha, Universal Music Japan, BS11, Crunchyroll, Nichion, arma bianca, Pia, Happinet Media Marketing",
+  "starting": "Jan 10, 2025",
+  "studio": "Typhoon Graphics",
+  "genre": "Drama, Romance, School, Shoujo",
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "5n3D23Pp",
-   "480p": "qm5NVPVW",
-   "720p": "SVeBJCvM"
+   "360p": "vfsPWCHA",
+   "480p": "UbAkARwG",
+   "720p": "NsdyHzKc"
+  }
+ },
+ {
+  "id": "grisaiaphantomtr",
+  "releaseOrder": 2,
+  "title": "Grisaia: Phantom Trigger",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/142188.jpg",
+  "episode": "6",
+  "updateDay": "Kamis",
+  "updateDate": "06 Feb",
+  "score": "7.00",
+  "producer": "Front Wing, WOWMAX",
+  "starting": "Jan 02, 2025",
+  "studio": "Bibury Animation Studios",
+  "genre": "Action, School",
+  "synopsis": [
+   "Seri lanjutan setelah Trilogi Grisaia, Phantom Trigger menceritakan para siswa Akademi Mihama yang menjalani kehidupan mereka setelah mengerjakan misi berbahaya. Kali ini, Akademi Mihama kedatangan siswa baru bernama Sengoku Taiga, anak dari keluarga Sengoku. Ternyata, Taiga merupakan guru dari Rena Fukami.",
+   "Kehidupan para siswa di Akademi Mihama berjalan cukup normal. Mereka semua menjalani hidup sambil memikirkan bagaimana menyelesaikan masa lalu mereka hingga suatu hari terjadi insiden Ledakan di gunung Kitaoka."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "LyusfnKi",
+   "480p": "rdtoUgDz",
+   "720p": "jWe5Nm4T"
   }
  },
  {
@@ -49,179 +49,269 @@
   "releaseOrder": 3,
   "title": "Ameku Takao no Suiri Karte",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/Ameku-Takao-no-Suiri-Karte.jpg",
-  "episode": "2",
+  "episode": "6",
   "updateDay": "Kamis",
-  "updateDate": "02 Jan",
+  "updateDate": "06 Feb",
   "score": "7.01",
   "producer": "Aniplex, Magic Capsule",
   "starting": "Jan 02, 2025",
   "studio": "Project No.9",
   "genre": "Mystery",
-  "synopsis": "N/A",
+  "synopsis": [
+   "Takao Ameku, seorang Direktur dari Departemen Diagnosa Umum memiliki sebuah kemampuan dalam memecahkan berbagai misteri yang berkaitan dengan pasien di rumah sakit. Selama bekerja, ia dibantu oleh juniornya bernama Yuu Takanashi yang juga merupakan pekerja lepas di Rumah Sakit Umum Tekinai.",
+   "Berbekal kemampuan milik Takao, ia mampu membantu polisi dalam mengungkapkan kasus pembunuhan dan kematian yang terjadi secara misterius."
+  ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "61XaN75n",
-   "480p": "awLSz7u5",
-   "720p": "2FS3o1Ce"
+   "360p": "FxzSb5iP",
+   "480p": "S47PF2Qy",
+   "720p": "73LAn49J"
   }
  },
  {
-  "id": "grisaiaphantomtr",
+  "id": "honeylemonsoda",
   "releaseOrder": 4,
-  "title": "Grisaia: Phantom Trigger",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/142188.jpg",
-  "episode": "1",
+  "title": "Honey Lemon Soda",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/Honey-Lemon-Soda.jpg",
+  "episode": "5",
   "updateDay": "Kamis",
-  "updateDate": "02 Jan",
+  "updateDate": "06 Feb",
   "score": "7.00",
-  "producer": "Front Wing, WOWMAX",
-  "starting": "Jan 02, 2025",
-  "studio": "Bibury Animation Studios",
-  "genre": "Action, School",
-  "synopsis": "N/A",
+  "producer": "Unlimited Produce by TMS",
+  "starting": "Jan 09, 2025",
+  "studio": "J.C.Staff",
+  "genre": "Romance, School, Shoujo",
+  "synopsis": [
+   "Uka Ishimori, seorang gadis yang memutuskan untuk bersekolah di SMA swasta ini bertemu dengan Kai Miura, laki-laki yang sering membawa minuman Lemon Soda bersamanya. Perlu diketahui, ini bukanlah kali pertama Ishimori bertemu dengan Kai.",
+   "Awalnya, pertemuan mereka di sekolah berjalan cukup canggung. Namun suatu hari, Ishimori yang tengah diganggu oleh mantan temannya waktu SMP memutuskan untuk meminta bantuan kepada Kai bersama dengan rekan-rekannya. Karena hal tersebut juga, Ishimori akhirnya keluar dari zona nyamannya dan ingin hidup bebas tanpa terkekang masa lalu lagi."
+  ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "Xv5qTaxk",
-   "480p": "a2Y16wc5",
-   "720p": "GKBYgXnM"
+   "360p": "QNH8DDkw",
+   "480p": "cFEau8Q2",
+   "720p": "NpVtoeci"
+  }
+ },
+ {
+  "id": "magicmakerisekai",
+  "releaseOrder": 5,
+  "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/146725.jpg",
+  "episode": "5",
+  "updateDay": "Kamis",
+  "updateDate": "06 Feb",
+  "score": "7.04",
+  "producer": "Frontier Works, Half H.P Studio, Toy's Factory, Kadokawa",
+  "starting": "Jan 09, 2025",
+  "studio": "Frontier Works, Half H.P Studio, Toy's Factory, KadokawaStudio: Studio Deen",
+  "genre": "Fantasy, Isekai, Reincarnation",
+  "synopsis": [
+   "Mengisahkan Ornstein, keluarga bangsawan kelas bawah yang menjadi pemimpin di wilayah bernama Listia. Di keluarga ini terdapat dua orang anak, yakni Marie dan Shion. Marie merupakan gadis cantik dan periang sementara adiknya yaitu Shion merupakan laki-laki yang sangat tertarik dengan ilmu sihir.",
+   "Suatu hari, Shion dan Marie yang Tengah berada di danau mendapati sebuah fenomena aneh. Di sana, Shion mengambil sebuah Kesimpulan bahwa ini merupakan bentuk sihir yang melibatkan kasih sayang sesama.",
+   "Tentu, penemuan ilmu sihir yang Shion dapatkan ini akan mengubah tatanan dunia yang ia tempati."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "SqRhcJte",
+   "480p": "NwCUJ84R",
+   "720p": "4wisdfBr"
   }
  },
  {
   "id": "izuresaikyounore",
-  "releaseOrder": 5,
+  "releaseOrder": 6,
   "title": "Izure Saikyou no Renkinjutsushi?",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/146222.jpg",
-  "episode": "1",
+  "episode": "6",
   "updateDay": "Kamis",
-  "updateDate": "02 Jan",
+  "updateDate": "06 Feb",
   "score": "N/A",
   "producer": "Pony Canyon, Jinnan Studio",
   "starting": "Jan 08, 2025",
   "studio": "Pony Canyon, Jinnan StudioStudio: Studio Comet",
   "genre": "Adventure, Fantasy, Isekai",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "uD14VA77",
-   "480p": "VMRmd9BK",
-   "720p": "DXfQBPhZ"
-  }
- },
- {
-  "id": "lovelivesupersta",
-  "releaseOrder": 6,
-  "title": "Love Live! Superstar!! Season 3",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg",
-  "episode": "12",
-  "updateDay": "Senin",
-  "updateDate": "02 Jan",
-  "score": "N/A",
-  "producer": "Lantis",
-  "starting": "Okt 06, 2024",
-  "studio": "Sunrise",
-  "genre": "Music, School, Slice of Life",
   "synopsis": [
-   "Season ke-3 dari anime Love Live! Superstar!!"
+   "Mengisahkan Takumi Iruama, seorang pekerja kantoran yang secara tidak sengaja terpanggil ke dunia lain sebagai pahlawan. Karena kesalahan tersebut, Dewi Norn pun memberikan kesempatan kepada Takumi untuk memilih skill yang ia inginkan.",
+   "Mengingat di kehidupan sebelumnya ia bekerja dengan penuh tekanan, Takumi memutuskan mengambil skill Alkimia dan menjalani hidup sederhana tanpa keingingan untuk bertempur. Namun, siapa sangka bahwa skill Alkimia miliknya sangatlah kuat dan mampu menciptakan berbagai benda."
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "wuanBkfP",
-   "480p": "82d9NHHL",
-   "720p": "NFvn5amE"
+   "360p": "Z87SeNTB",
+   "480p": "z4UgNFF5",
+   "720p": "riBasbbP"
   }
  },
  {
-  "id": "salarymangaiseka",
+  "id": "ishuraseason2",
   "releaseOrder": 7,
-  "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/144352l.jpg",
-  "episode": "1",
-  "updateDay": "Kamis",
-  "updateDate": "02 Jan",
+  "title": "Ishura Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/146979.jpg",
+  "episode": "5",
+  "updateDay": "Rabu",
+  "updateDate": "06 Feb",
   "score": "N/A",
-  "producer": "Pony Canyon, Overlap",
-  "starting": "Jan 06, 2025",
-  "studio": "Geek Toys, CompTown",
-  "genre": "Adventure, Comedy, Fantasy, Isekai, Reincarnation",
+  "producer": "Magic Capsule, Kadokawa",
+  "starting": "Jan 08, 2025",
+  "studio": "Passione",
+  "genre": "Action, Adventure, Fantasy, Gore, Isekai",
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "nsBQABCn",
-   "480p": "pikVErXY",
-   "720p": "p4YuVUXu"
+   "360p": "vZiCcF1C",
+   "480p": "d5Z6oV1h",
+   "720p": "d7PsJffx"
+  }
+ },
+ {
+  "id": "rezerokarahajime",
+  "releaseOrder": 8,
+  "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144725.jpg",
+  "episode": "9",
+  "updateDay": "Rabu",
+  "updateDate": "05 Feb",
+  "score": "8.69",
+  "producer": "Magic Capsule, Kadokawa",
+  "starting": "Okt 02, 2024",
+  "studio": "White Fox",
+  "genre": "Drama, Fantasy, Isekai, Psychological, Suspense",
+  "synopsis": [
+   "Musim ketiga anime Re:Zero kara Hajimeru Isekai Seikatsu Season 3 "
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "NJUgDcXK",
+   "480p": "YVYbVPAP",
+   "720p": "rLeQGN61"
+  }
+ },
+ {
+  "id": "hanawasakushuran",
+  "releaseOrder": 9,
+  "title": "Hana wa Saku, Shura no Gotoku",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/146809.jpg",
+  "episode": "5",
+  "updateDay": "Random",
+  "updateDate": "05 Feb",
+  "score": "7.41",
+  "producer": "Magic Capsule, King Records",
+  "starting": "Jan 08, 2025",
+  "studio": "Studio Bind",
+  "genre": "Drama, School, Seinen",
+  "synopsis": [
+   "Hana Haruyama, gadis cantik yang tinggal di pulau Tonakijima yang hanya memiliki sedikit penduduk. Di sana, ia sangat suka membacakan buku dongeng untuk anak-anak. Karena hal itu juga, Mizuki yang merupakan anggota klub penyiaran SMA merekrut Hana untuk bergabung bersamanya.Awalnya, Hana menolak ajakan untuk bergabung. Namun, ia akhirnya memutuskan ikut ke klub anggota penyiaran bersama dengan siswa lainnya."
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "Fjsb6QpQ",
+   "480p": "LUfPcwQB",
+   "720p": "ZqGQ5772"
+  }
+ },
+ {
+  "id": "amagamisanchinoe",
+  "releaseOrder": 10,
+  "title": "Amagami-san Chi no Enmusubi",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg",
+  "episode": "17",
+  "updateDay": "Rabu",
+  "updateDate": "05 Feb",
+  "score": "7.00",
+  "producer": "N/A",
+  "starting": "Okt 02, 2024",
+  "studio": "Drive",
+  "genre": "Comedy, Harem, Romance, Shounen",
+  "synopsis": [
+   "Uryu Kamihate, siswa kelas 2 SMA memiliki tujuan untuk masuk di Fakultas Kedokteran Universitas Kyoto. Sejak ibunya meninggal, Uryuu tinggal dan besar di panti asuhan. Namun, suatu hari ia dibawa oleh Kepala Pendeta Kuil Kanjin di Kyoto.",
+   "Sesampainya di kuil tersebut, Uryuu justru bertemu dengan tiga gadis cantik. Di sana, Uryuu diberitahu bahwa ia akan menikahi salah satu gadis tersebut dan mewarisi kuil. Tentu, awalnya Uryuu merasa terkejut karena tujuan awalnya datang ke kuil tersebut hanya untuk menetap saja.",
+   "Walau begitu, takdir yang mengikat Uryuu dan ketiga gadis tersebut perlahan mulai terhubung. Kini, siapakah gadis yang akan Uryuu nikahi?"
+  ],
+  "streamProvider": "pdrain",
+  "downloadLinks": {
+   "360p": "WLXHTtP9",
+   "480p": "Z3Nqq55q",
+   "720p": "XASHKNtg"
   }
  },
  {
   "id": "hazureskillkinom",
-  "releaseOrder": 8,
+  "releaseOrder": 11,
   "title": "Hazure Skill \"Kinomi Master\"",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/146128.jpg",
-  "episode": "1",
+  "episode": "6",
   "updateDay": "Rabu",
-  "updateDate": "01 Jan",
+  "updateDate": "05 Feb",
   "score": "N/A",
   "producer": "N/A",
   "starting": "Jan 07, 2025",
   "studio": "Asahi Production",
   "genre": "Action, Adventure, Fantasy",
-  "synopsis": "N/A",
+  "synopsis": [
+   "Buah Skill, sebuah buah yang akan memberikan kemampuan khusus tergantung keberuntungan mereka. Kisah pun berpusat kepada Light, seorang anak laki-laki yang memiliki cita-cita untuk menjadi seorang petualang. Sayangnya, mimpi tersebut harus ia kubur karena dirinya tidak memiliki kemampuan bertarung dan hanya memiliki skill Kinomi Master atau Master Buah.",
+   "Sementara itu, teman masa kecilnya yakni Lena justru berhasil menjadi seorang petualang paling Tangguh dan membuat jarak mereka berdua kian meregang. Suatu hari, Light yang secara tidak sengaja memakan Kembali Buah Skill tersebut dan ia mendapatkan sebuah skill baru.",
+   "Setelah kejadian tersebut, Light menyadari bahwa Konomi Master merupakan sebuah skill yang membuatnya bisa menghindari makanan beracun termasuk Buah Skill."
+  ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "inPWns6G",
-   "480p": "9jgFGequ",
-   "720p": "idYZAEcL"
+   "360p": "d6kmvQM6",
+   "480p": "9nhx8cXp",
+   "720p": "xMjgx83h"
   }
  },
  {
-  "id": "fatestrangefake",
-  "releaseOrder": 9,
-  "title": "Fate/strange Fake",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/12/132201-1.jpg",
-  "episode": "1",
-  "updateDay": "Selasa",
-  "updateDate": "01 Jan",
-  "score": "8.19",
-  "producer": "Aniplex, Notes",
-  "starting": "Des 31, 2024",
-  "studio": "A-1 Pictures",
-  "genre": "Action, Fantasy",
+  "id": "unnamedmemorysea",
+  "releaseOrder": 12,
+  "title": "Unnamed Memory Season 2",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/Unnamed-Memory-Season-2-Subtitle-Indonesia.jpg",
+  "episode": "5",
+  "updateDay": "Rabu",
+  "updateDate": "05 Feb",
+  "score": "6.77",
+  "producer": "Kadokawa, Heart Company",
+  "starting": "Jan 07, 2025",
+  "studio": "ENGI",
+  "genre": "Adventure, Fantasy, Romance",
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "qECUePx5",
-   "480p": "XrNA2yio",
-   "720p": "nWcS5yeY"
+   "360p": "mE6A6Wmm",
+   "480p": "YBLomcWJ",
+   "720p": "pCPsNRqH"
   }
  },
  {
-  "id": "kamonohashironno",
-  "releaseOrder": 10,
-  "title": "Kamonohashi Ron no Kindan Suiri Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Kamonohashi-Ron-no-Kindan-Suiri-Season-2.jpg",
-  "episode": "13",
+  "id": "youkaigakkounose",
+  "releaseOrder": 13,
+  "title": "Youkai Gakkou no Sensei Hajimemashita!",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg",
+  "episode": "17",
   "updateDay": "Selasa",
-  "updateDate": "31 Des",
-  "score": "7.57",
-  "producer": "Movic, AT-X, Toy's Factory, Kadokawa, Bit grooove promotion",
-  "starting": "Okt 07, 2024",
-  "studio": "Diomedéa",
-  "genre": "Adult Cast, Comedy, Mystery, Shounen",
-  "synopsis": "N/A",
+  "updateDate": "04 Feb",
+  "score": "N/A",
+  "producer": "Kappa Entertainment",
+  "starting": "Okt 08, 2024",
+  "studio": "Satelight",
+  "genre": "Comedy, Fantasy, Mythology, School, Shounen, Workplace",
+  "synopsis": [
+   "Haruaki Abe, seorang guru dewasa yang sangat pengecut dan sering di bully oleh orang lain. Suatu hari, ia mendapatkan tugas untuk mengajar di sebuah sekolah bernama Akademi Hyakki, sebuah sekolah khusus untuk para siluman.",
+   "Di sana, Abe harus berhadapan dengan para siluman yang memiliki karakteristik berbeda-beda. Walau begitu, rupanya Abe merupakan salah satu manusia terkuat dan menjadi keturunan langsung dari leluhurnya yang pernah membasmi siluman jahat.",
+   "Kini, kehidupan Abe sebagai seorang guru di sekolah siluman telah dimulai."
+  ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "Vkx5die4",
-   "480p": "be7kv6Tj",
-   "720p": "6Cw1j5fP"
+   "360p": "JmiJWZUq",
+   "480p": "fhZGEJ2X",
+   "720p": "V73FYhpP"
   }
  },
  {
   "id": "arifuretashokugy",
-  "releaseOrder": 11,
+  "releaseOrder": 14,
   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
   "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg",
-  "episode": "11",
+  "episode": "4",
   "updateDay": "Senin",
-  "updateDate": "30 Des",
+  "updateDate": "04 Feb",
   "score": "7.00",
   "producer": "Overlap",
   "starting": "Okt 14, 2024",
@@ -230,95 +320,34 @@
   "synopsis": "N/A",
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "8omdXbNv",
-   "480p": "TkQto1sC",
-   "720p": "58JFXAzB"
+   "360p": "Xi7FFmRY",
+   "480p": "bt9pCZLT",
+   "720p": "SNppidGd"
   }
  },
  {
-  "id": "nanatsunotaizaim",
-  "releaseOrder": 12,
-  "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg",
-  "episode": "12",
-  "updateDay": "Minggu",
-  "updateDate": "29 Des",
-  "score": "7.07",
-  "producer": "Unlimited Produce by TMS",
-  "starting": "Okt 06, 2024",
-  "studio": "Telecom Animation Film",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "knaxbSLf",
-   "480p": "9bp41s7z",
-   "720p": "SDyRR5Ad"
-  }
- },
- {
-  "id": "shangrilafrontie",
-  "releaseOrder": 13,
-  "title": "Shangri-La Frontier Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg",
-  "episode": "12",
-  "updateDay": "Minggu",
-  "updateDate": "29 Des",
-  "score": "7.84",
-  "producer": "N/A",
-  "starting": "Okt 13, 2024",
-  "studio": "C2C",
-  "genre": "Action, Adventure, Fantasy, Shounen",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "fEPQXCMR",
-   "480p": "Px91PaMw",
-   "720p": "GfU9Mwxu"
-  }
- },
- {
-  "id": "bluelockseason2",
-  "releaseOrder": 14,
-  "title": "Blue Lock Season 2",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg",
-  "episode": "14",
-  "updateDay": "Minggu",
-  "updateDate": "29 Des",
-  "score": "7.78",
-  "producer": "TV Asahi, Kodansha, Crunchyroll, Chiptune, Bandai Spirits, Bit grooove promotion, Bandai Namco Filmworks, Bandai Namco Music Live",
-  "starting": "Okt 05, 2024",
-  "studio": "8bit",
-  "genre": "Shounen, Sports",
-  "synopsis": "N/A",
-  "streamProvider": "pdrain",
-  "downloadLinks": {
-   "360p": "zJfMrZP8",
-   "480p": "9RejMuXa",
-   "720p": "H3BYGbQZ"
-  }
- },
- {
-  "id": "chichikyuunoundo",
+  "id": "botsurakuyoteino",
   "releaseOrder": 15,
-  "title": "Chi.: Chikyuu no Undou ni Tsuite",
-  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg",
-  "episode": "14",
-  "updateDay": "Minggu",
-  "updateDate": "29 Des",
-  "score": "7.83",
-  "producer": "N/A",
-  "starting": "Okt 05, 2024",
-  "studio": "Madhouse",
-  "genre": "Drama, Historical, Seinen",
+  "title": "Botsuraku Yotei no Kizoku dakedo",
+  "thumbnail": "https://otakudesu.cloud/wp-content/uploads/2025/01/145396.jpg",
+  "episode": "6",
+  "updateDay": "Selasa",
+  "updateDate": "04 Feb",
+  "score": "N/A",
+  "producer": "King Records, Happinet, TO Books",
+  "starting": "Jan 07, 2025",
+  "studio": "Studio Deen, Marvy Jack",
+  "genre": "Adventure, Fantasy",
   "synopsis": [
-   "Berlatar di abad ke-15 Eropa, terdapat seorang remaja bernama Rafal yang berhasil masuk ke sebuah universitas berkat nilainya yang begitu tinggi. Karena besarnya harapan orang-orang terhadapnya, Rafal memilih masuk ke jurusan Teologi yang dinilai sebagai jurusan paling penting. Sayangnya, Rafal sebenarnya ingin masuk ke Astronomi namun Impian tersebut ia kubur selamanya.Suatu hari, Rafal bertemu dengan seorang misterius bernama Hubert. Kala itu, Hubert Tengah dipenjara dan mendapatkan siksaan karena idenya yang dianggap menyesatkan. Untuk membuktikan berbagai teori tersebut, mereka berdua memilih bekerja sama."
+   "Liam Hamilton, anak kelima dari keluarga Hamilton yang merupakan bangsawan ini berhasil membangkitkan kekuatan sihir di dalam tubuhnya. Karena hal tersebut juga, Liam pun memutuskan untuk berlatih menggunakan sihir.",
+   "Suatu hari, ia bertemu dengan gurunya dan mengajarkan berbagai ilmu baru kepada Liam. Sang guru juga memberikan pesan kepada Liam untuk menemukan kebebasannya dan terlepas dari keluarga Hamilton.",
+   "Maka dari itu, Liam pun mendaftar di Guild Petualang dan menjadi seorang pemburu bersama dengan familiarnya."
   ],
   "streamProvider": "pdrain",
   "downloadLinks": {
-   "360p": "7AEPMiqR",
-   "480p": "m2EscoYB",
-   "720p": "QHhYEsAW"
+   "360p": "PxXaYCmV",
+   "480p": "uMdZkh7t",
+   "720p": "6WUHA1Zs"
   }
  }
 ]
