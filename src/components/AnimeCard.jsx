@@ -37,7 +37,7 @@ export default function AnimeCard({ anime }) {
   }, [touchTimeout]);
 
   return (
-    <div className='relative h-[300px] w-[224px] max-sm:h-[216px] max-sm:w-[161px]'>
+    <div className='relative h-[300px] w-[224px] max-sm:h-[216px] max-sm:w-[151px]'>
       <div
         className='absolute z-20 h-full w-full'
         onMouseEnter={() => setIsHover(true)}
